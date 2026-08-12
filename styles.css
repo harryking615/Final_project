@@ -2,7 +2,7 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing:border-box;
+  box-sizing: border-box;
   font-family: "Roboto", sans-serif;
 }
 /* General */
@@ -63,7 +63,8 @@ li {
   border-radius: 20px;
 }
 
-.row, landing__page_container {
+.row,
+landing__page_container {
   display: flex;
 }
 .lp__box_left {
