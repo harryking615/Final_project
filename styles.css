@@ -63,21 +63,13 @@ li {
   border-radius: 20px;
 }
 
-.row,
-landing__page_container {
+#landing__page_container {
   display: flex;
+  width: 100%;
 }
 .lp__box_left {
-  display: flex-column;
-  border: 2px solid black;
-  padding: 10px;
   width: 40%;
-  display: inline-block;
 }
 .lp__box_right {
-  border: 2px solid black;
-  padding: 10px;
-  height: 120px;
-  width: 50%;
-  display: inline-block;
+  width: 60%;
 }
