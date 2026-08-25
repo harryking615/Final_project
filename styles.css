@@ -141,9 +141,10 @@ li {
 /* designed and developed section */
 /*................................*/
 
-#designed__and__developed__container {
+#designed__and__developed_container {
   width: 100%;
   height: 400px;
+  display: flex;
 }
 .dand__side_left {
   display: flex;
@@ -158,7 +159,7 @@ li {
   height: 400px;
   padding: 10px 10px;
 }
-.dand__box_right img {
+.dand__side_right img {
   width: 100%;
   height: 100%;
 }
