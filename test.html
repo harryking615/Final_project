@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <body>
+    <label for="box-border">My Box</label>
+    <select id="box-border">
+      <option value="no">No</option>
+      <option value="yes">Yes</option>
+    </select>
+
+    <div class="box">My Box</div>
+
+    <style>
+      :root {
+        --box-border: none;
+      }
+      .box {
+        border: var(--box-border);
+        padding: 20px;
+      }
+    </style>
+
+    <script>
+      document.getElementById("box-border").onchange = function () {
+        document.documentElement.style.setProperty(
+          "--box-border",
+          this.value === "yes" ? "2px solid black" : "none",
+        );
+      };
+    </script>
+  </body>
+</html>
