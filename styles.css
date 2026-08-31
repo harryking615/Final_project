@@ -12,7 +12,10 @@
 
 .rf__container {
    padding: 40px 0;
+   margin: 300px 20px;
    width: calc(vw*75%);
+   display: flex;
+   flex-direction: column;
 }
 .rf__plans_header {
   display: flex;
@@ -27,11 +30,13 @@
 }
 .rf__services {
   display: flex;
+  
   margin: 0 100px;
 }
 .rf__service {
   display: flex;
   flex-direction: column;
+  
   width: calc(100% / 3);
   border: 1px solid lightcyan;
   height: 400px;
@@ -50,6 +55,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: space-between;
   border: 1px;
   height: 175px;
   border: 1px solid lightcyan;
@@ -63,6 +69,18 @@
   height: 100px;
   border: 1px solid lightcyan;
   padding: 18px; 
+}
+.rf__button {
+  font-size: 20px;
+  height: 70%;
+  width: 100%;
+  max-width: 175px;
+  padding: 8px;
+  margin-right: 2%;
+  background-color: #7242d6;
+  color: azure;
+  border-radius: 20px;
+}
 }
 
 /*         */
@@ -123,44 +141,28 @@ li {
   max-width: 100px;
   padding-right: px;
 }
-.button {
-  font-size: 20px;
-  height: 70%;
-  width: 200px;
-  padding: 8px;
-  margin-left: 25px;
+
+
+.lp__button_box {
+  display: flex;
+  height: 40px;
+  width: 260px;
+  display: flex;
+  font-size: 15px;
+  background-color: white;
+  color: #7242d6;
+  border: 1px solid#3498db;
+  border-radius: 20px;
+}
+.lp__button {
+  font-size: 15px; 
+  height: 37px;
+  width: 119px;
   background-color: #7242d6;
   color: azure;
   border-radius: 20px;
 }
-.lp__buttons {}
 
-.lp__buttons-box {
-  height: 70%;
-  width: calc(vw*66.6%);
-  display: flex;
-}
-.lp__button-box-one {}
-.lp__button_one {
-  width: 85%;
-  font-size: 12px;
-  padding: 8px 20px;
-  margin-left: 50px;
-  background-color: white;
-  color: #7242d6;
-  border-radius: 20px;
-  border-color: aliceblue;
-}
-.lp__button-box-two {}
-.lp__button_two {
-  font-size: 12px;
-  padding: 8px;
-  background-color: #7242d6;
-  color:white;
-  border-radius: 20px;
-  border-color: aliceblue;
-
-}
 #landing__page_container {
   display: flex;
   width: 100%;
@@ -171,9 +173,6 @@ li {
   height: 500px;
   padding: 40px 40px;
 }
-.lp__buttons {
-  display: flex;
-}
 .lp__box_right {
   width: 60%;
   height: 500px;
@@ -183,12 +182,13 @@ li {
   width: 100%;
   height: 100%;
 }
-
 #dd__page_container {
   display: flex;
   width: 100%;
   padding: 20px 0;
 }
+
+
 .dd__box_left {
   width: 40%;
   height: 500px;
@@ -203,6 +203,7 @@ li {
   width: 100%;
   height: 100%;
 }
+
 
 #easy__page_container {
   display: flex;
