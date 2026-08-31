@@ -6,9 +6,50 @@
   font-family: "Roboto", sans-serif;
 }
 
+/*                                 */
+/* REASONABLE AND FLEXIBLE SECTION */
+/*                                 */
+
+.rf__container {
+   padding: 40px 0;
+}
+.rf__plans_header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+.rf__row {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.rf__services {
+  display: flex;
+  border:4px black;
+  height: 410px;
+}
+.rf__service {
+  display: flex;
+  flex-direction: column;
+  width: calc(100% / 3);
+  border: 2px solid red;
+  height: 400px;
+}
+.rf__detail {
+  border: 2px blueviolet;
+  height: 125px;
+}
+
+/*         */
+/* GENERAL */
+/*         */
+
+
 p {
   line-height: 1.5;
 }
+
 
 a {
   text-decoration: none;
@@ -163,7 +204,6 @@ li {
   display: flex;
   flex-direction: column;
 }
-
 .easy__box_left img {
   width: 100%;
   height: 100%;
