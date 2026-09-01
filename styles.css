@@ -162,6 +162,16 @@ li {
   color: azure;
   border-radius: 20px;
 }
+.button {
+  font-size: 20px;
+  height: 70%;
+  width: 200px;
+  padding: 8px;
+  margin-left: 25px;
+  background-color: #7242d6;
+  color: azure;
+  border-radius: 20px;
+}
 
 #landing__page_container {
   display: flex;
