@@ -12,7 +12,7 @@
 
 .rf__container {
    padding: 40px 0;
-   margin: 300px 20px;
+   margin: 100px 20px;
    width: calc(vw*75%);
    display: flex;
    flex-direction: column;
@@ -36,7 +36,6 @@
 .rf__service {
   display: flex;
   flex-direction: column;
-  
   width: calc(100% / 3);
   border: 1px solid lightcyan;
   height: 400px;
@@ -91,19 +90,16 @@
 p {
   line-height: 1.5;
 }
-
-
 a {
   text-decoration: none;
 }
-
 ul {
   display: flex;
 }
-
 li {
   list-style-type: none;
 }
+
 
 .nav__container {
   width: 100%;
@@ -162,6 +158,8 @@ li {
   color: azure;
   border-radius: 20px;
 }
+
+/* move to correct location */
 .button {
   font-size: 20px;
   height: 70%;
@@ -180,25 +178,28 @@ li {
 }
 .lp__box_left {
   width: 40%;
-  height: 500px;
+  height: 400px;
   padding: 40px 40px;
 }
 .lp__box_right {
   width: 60%;
-  height: 500px;
+  height: 400px;
   padding: 10px 10px;
 }
 .lp__box_right img {
   width: 100%;
   height: 100%;
 }
+
+
+
 #dd__page_container {
   display: flex;
   width: 100%;
   padding: 20px 0;
+  margin 300px 0;
+
 }
-
-
 .dd__box_left {
   width: 40%;
   height: 500px;
@@ -252,12 +253,12 @@ li {
 }
 .value__box_left {
   width: 50%;
-  height: 400px;
-  padding: 80px 150px;
+  height: 250px;
+  padding: 40px 150px;
 }
 .value__box_right {
   width: 50%;
-  height: 400px;
+  height: 250px;
   padding: 30px 50px;
 }
 .value__box_right img {
@@ -272,8 +273,8 @@ li {
 
 
 
-.lp__features_container {
-  padding: 80px 0;
+#lp__features_container {
+  padding: 50px 0;
 }
 .lp__amazing_row {
   display: flex;
