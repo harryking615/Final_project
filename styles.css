@@ -5,101 +5,24 @@
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
 }
-
-/*                                 */
-/* REASONABLE AND FLEXIBLE SECTION */
-/*                                 */
-
-.rf__container {
-   padding: 40px 0;
-   margin: 100px 20px;
-   width: calc(vw*75%);
-   display: flex;
-   flex-direction: column;
-}
-.rf__plans_header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 30px;
-}
-.rf__row {
-  width: 100%;
-  max-width: 100%;
-  margin: 0 auto;
-}
-.rf__services {
-  display: flex;
-  
-  margin: 0 100px;
-}
-.rf__service {
-  display: flex;
-  flex-direction: column;
-  width: calc(100% / 3);
-  border: 1px solid lightcyan;
-  height: 400px;
-  margin: 10px;
-}
-.rf__detail_1 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  border: 1px;
-  height: 125px;
-  border: 1px solid lightcyan;
-  padding: 30px;
-}
-.rf__detail_2 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-  border: 1px;
-  height: 175px;
-  border: 1px solid lightcyan;
-  padding: 18px; 
-}
-.rf__detail_3 {
-   display: flex;
-  flex-direction: column;
-  align-items: center;
-  border: 1px;
-  height: 100px;
-  border: 1px solid lightcyan;
-  padding: 18px; 
-}
-.rf__button {
-  font-size: 20px;
-  height: 70%;
-  width: 100%;
-  max-width: 175px;
-  padding: 8px;
-  margin-right: 2%;
-  background-color: #7242d6;
-  color: azure;
-  border-radius: 20px;
-}
-}
-
-/*         */
-/* GENERAL */
-/*         */
-
-
+/* ********** */
+/* My GENERAL */
+/* ********** */
 p {
-  line-height: 1.5;
-}
+  line-height: 1.5; }
 a {
-  text-decoration: none;
-}
+  text-decoration: none; }
 ul {
-  display: flex;
-}
+  display: flex; }
 li {
-  list-style-type: none;
-}
+  list-style-type: none; }
+.purple--text {
+  color:#7342d6 }
 
+
+/* ************************ */
+/* Landing Page Bar Section */
+/* ************************ */
 
 .nav__container {
   width: 100%;
@@ -116,10 +39,18 @@ li {
   width: 40%;
   align-items: center;
 }
+.responsive_big_t {
+  width: 100%;
+  max-width: 100px;
+  padding-right: px;
+}
 .nav__container_right {
   display: flex;
   width: 60%;
   align-items: center;
+}
+.nav__links {
+  justify-content: space-between;
 }
 .nav__link {
   margin-left: 16px;
@@ -129,16 +60,31 @@ li {
   font-weight: bold;
   padding: 0 18px;
 }
-.nav__links {
-  justify-content: space-between;
+.button {
+  font-size: 20px;
+  height: 70%;
+  width: 200px;
+  padding: 8px;
+  margin-left: 25px;
+  background-color: #7242d6;
+  color: azure;
+  border-radius: 20px;
 }
-.responsive_big_t {
+
+/* ****************************** */
+/* Landing Page Container Section */ 
+/* ****************************** */
+
+#landing__page_container {
+  display: flex;
   width: 100%;
-  max-width: 100px;
-  padding-right: px;
+  padding: 20px 0;
 }
-
-
+.lp__box_left {
+  width: 40%;
+  height: 400px;
+  padding: 40px 40px;
+}
 .lp__button_box {
   display: flex;
   height: 40px;
@@ -158,29 +104,6 @@ li {
   color: azure;
   border-radius: 20px;
 }
-
-/* move to correct location */
-.button {
-  font-size: 20px;
-  height: 70%;
-  width: 200px;
-  padding: 8px;
-  margin-left: 25px;
-  background-color: #7242d6;
-  color: azure;
-  border-radius: 20px;
-}
-
-#landing__page_container {
-  display: flex;
-  width: 100%;
-  padding: 20px 0;
-}
-.lp__box_left {
-  width: 40%;
-  height: 400px;
-  padding: 40px 40px;
-}
 .lp__box_right {
   width: 60%;
   height: 400px;
@@ -191,7 +114,9 @@ li {
   height: 100%;
 }
 
-
+/* **************************** */
+/* Designed & Developed Section */
+/* **************************** */
 
 #dd__page_container {
   display: flex;
@@ -215,6 +140,9 @@ li {
   height: 100%;
 }
 
+/* *************************** */
+/* Easy to Get Started Section */
+/* *************************** */
 
 #easy__page_container {
   display: flex;
@@ -245,6 +173,9 @@ li {
   height: 100%;
 }
 
+/* ***************************************** */
+/* We Always Abide by Our Principles - Value */
+/* ***************************************** */
 
 #value__page_container {
   display: flex;
@@ -266,12 +197,86 @@ li {
   height: 100%;
 }
 
+/* ************************************ */
+/* REASONABLE AND FLEXIBLE SECTION - rf */
+/* ************************************ */
 
 #plans__page-container {
   padding: 100px 0;
 }
+.rf__container {
+   padding: 40px 0;
+   margin: 100px 20px;
+   width: calc(vw*75%);
+   display: flex;
+   flex-direction: column;
+}
+.rf__plans_header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+.rf__row {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+}
+.rf__services {
+  display: flex;
+  margin: 0 100px;
+}
+.rf__service {
+  display: flex;
+  flex-direction: column;
+  width: calc(100% / 3);
+  border: 1px solid lightcyan;
+  height: 400px;
+  margin: 10px;
+}
+.rf__detail_1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px;
+  height: 125px;
+  border: 1px solid lightcyan;
+  padding: 30px;
+}
+.rf__detail_2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px;
+  height: 175px;
+  border: 1px solid lightcyan;
+  padding: 18px; 
+}
+.rf__detail_3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px;
+  height: 100px;
+  border: 1px solid lightcyan;
+  padding: 18px; 
+}
+.rf__button {
+  font-size: 20px;
+  height: 70%;
+  width: 100%;
+  max-width: 175px;
+  padding: 8px;
+  margin-right: 2%;
+  background-color: #7242d6;
+  color: azure;
+  border-radius: 20px;
+}
 
-
+/* ******************************************** */
+/* We Have Amazing Service Container - Features */
+/* ******************************************** */
 
 #lp__features_container {
   padding: 50px 0;
@@ -322,7 +327,10 @@ li {
 }
 
 
-}
+/* ********** */
+/* JS TESTING */
+/* ********** */
+
 .test-box {
   border: var(--box-border);
   padding: 100px 20px;
