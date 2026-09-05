@@ -243,6 +243,7 @@ li {
   height: 125px;
   border: 1px solid lightcyan;
   padding: 30px;
+ ;
 }
 .rf__detail_2 {
   display: flex;
@@ -274,7 +275,28 @@ li {
   color: azure;
   border-radius: 20px;
 }
-
+.rf__button-gradient-green {
+  font-size: 20px;
+  height: 70%;
+  width: 100%;
+  max-width: 175px;
+  padding: 8px;
+  margin-right: 2%;
+  background: linear-gradient(to left, hwb(138 60% 4%), lab(81.74% -71.06 50.46));
+  color: azure;
+  border-radius: 20px;
+}
+.rf__button-gradient-pink {
+  font-size: 20px;
+  height: 70%;
+  width: 100%;
+  max-width: 175px;
+  padding: 8px;
+  margin-right: 2%;
+  background: linear-gradient(to left, hsla(0, 71%, 54%, 0.685), lab(82.56% 20.29 2.77));
+  color: azure;
+  border-radius: 20px;
+}
 /* ******************************************** */
 /* We Have Amazing Service Container - Features */
 /* ******************************************** */
