@@ -36,7 +36,7 @@ li {
 }
 .nav__container_left {
   display: flex;
-  width: 40%;
+  max-width: 40%;
   align-items: center;
 }
 .responsive_big_t {
@@ -46,8 +46,8 @@ li {
 }
 .nav__container_right {
   display: flex;
-  width: 60%;
-  align-items: center;
+  /* max-width: 60%; */  /*removed 9/6 */
+  align-items: center;  /* added 'center' 9/6 */
 }
 .nav__links {
   justify-content: space-between;
@@ -58,15 +58,17 @@ li {
   font-size: 15px;
   color: #7242d6;
   font-weight: bold;
-  padding: 0 18px;
+/*  padding: 0 18px; */
+  padding: 0 9px;    /* */
+
 }
 
 .button {
-  font-size: 20px;
+  font-size: 15px;
   height: 70%;
-  width: 200px;
+  width: 150px;
   padding: 8px;
-  margin-left: 25px;
+  margin-left: 20px;
   background-color: #7242d6;
   color: azure;
   border-radius: 20px;
@@ -347,6 +349,45 @@ li {
 }
 .service__description-logo-and-name-lorem {
   padding-left: 35px;
+}
+
+/* *********************** */
+/* RESPONSIVE CODE SECTION */
+/* *********************** */
+
+/* Tablets, large smartphones, small phones */
+
+@media (max-width: 1100px) {
+  .button {
+    font-size: 15px; 
+    margin-left: 10px;
+    padding: 4px;
+    max-width: fit-content;}
+  .nav__link { 
+    font-size: 10;}
+ 
+}
+
+ @media (max-width: 1000px) {
+  .nav__link { font-size: 5;
+    padding: 4px;
+    margin: 0 9px; }
+  .nav__container_left {
+    display: flex;
+    flex-direction: column; }
+  .nav__container_left h2 {
+    font-size: small;}
+  .button {
+    padding: 0;}
+  }
+
+/* SMALLER PHONES */
+@media (max-width: 500px) {
+ .nav__link { 
+    padding: 4px;
+    margin-left: 10px; }
+   .button {
+    font-size: 10px; }  
 }
 
 
