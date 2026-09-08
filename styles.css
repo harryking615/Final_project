@@ -9,16 +9,30 @@
 /* My GENERAL */
 /* ********** */
 p {
-  line-height: 1.5; }
+  line-height: 1.5;
+}
 a {
-  text-decoration: none; }
+  text-decoration: none;
+}
 ul {
-  display: flex; }
+  display: flex;
+}
 li {
-  list-style-type: none; }
+  list-style-type: none;
+}
 .purple--text {
-  color:#7342d6 }
-
+  color: #7342d6;
+}
+.row {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.narrow__row {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+}
 
 /* ************************ */
 /* Landing Page Bar Section */
@@ -46,8 +60,7 @@ li {
 }
 .nav__container_right {
   display: flex;
-  /* max-width: 60%; */  /*removed 9/6 */
-  align-items: center;  /* added 'center' 9/6 */
+  align-items: center;
 }
 .nav__links {
   justify-content: space-between;
@@ -58,12 +71,9 @@ li {
   font-size: 15px;
   color: #7242d6;
   font-weight: bold;
-/*  padding: 0 18px; */
-  padding: 0 9px;    /* */
-
+  padding: 0 9px;
 }
-
-.button {
+.nav__button {
   font-size: 15px;
   height: 70%;
   width: 150px;
@@ -71,11 +81,11 @@ li {
   margin-left: 20px;
   background-color: #7242d6;
   color: azure;
-  border-radius: 20px;
+  border-radius: 5px;
 }
 
 /* ****************************** */
-/* Landing Page Container Section */ 
+/* Landing Page Container Section */
 /* ****************************** */
 
 #landing__page_container {
@@ -100,7 +110,7 @@ li {
   border-radius: 20px;
 }
 .lp__button {
-  font-size: 15px; 
+  font-size: 15px;
   height: 37px;
   width: 119px;
   background-color: #7242d6;
@@ -125,8 +135,7 @@ li {
   display: flex;
   width: 100%;
   padding: 20px 0;
-  margin 300px 0;
-
+  margin: 200px 0;
 }
 .dd__box_left {
   width: 40%;
@@ -201,18 +210,18 @@ li {
 }
 
 /* ************************************ */
-/* REASONABLE AND FLEXIBLE SECTION - rf */
+/* rf - REASONABLE AND FLEXIBLE SECTION */
 /* ************************************ */
 
 #plans__page-container {
   padding: 100px 0;
 }
 .rf__container {
-   padding: 40px 0;
-   margin: 100px 20px;
-   width: calc(vw*75%);
-   display: flex;
-   flex-direction: column;
+  padding: 40px 0;
+  margin: 100px 20px;
+  width: calc(vw * 75%);
+  display: flex;
+  flex-direction: column;
 }
 .rf__plans_header {
   display: flex;
@@ -220,19 +229,14 @@ li {
   align-items: center;
   padding: 30px;
 }
-.rf__row {
-  width: 100%;
-  max-width: 100%;
-  margin: 0 auto;
-}
 .rf__services {
   display: flex;
-  margin: 0 100px;
+  flex-wrap: wrap;
 }
 .rf__service {
   display: flex;
   flex-direction: column;
-  width: calc(100% / 3);
+  width: calc(90% / 3);
   border: 1px solid lightcyan;
   height: 400px;
   margin: 10px;
@@ -245,7 +249,6 @@ li {
   height: 125px;
   border: 1px solid lightcyan;
   padding: 30px;
- ;
 }
 .rf__detail_2 {
   display: flex;
@@ -255,7 +258,7 @@ li {
   border: 1px;
   height: 175px;
   border: 1px solid lightcyan;
-  padding: 18px; 
+  padding: 18px;
 }
 .rf__detail_3 {
   display: flex;
@@ -264,10 +267,10 @@ li {
   border: 1px;
   height: 100px;
   border: 1px solid lightcyan;
-  padding: 18px; 
+  padding: 18px;
 }
 .rf__button {
-  font-size: 20px;
+  font-size: 15px;
   height: 70%;
   width: 100%;
   max-width: 175px;
@@ -278,24 +281,32 @@ li {
   border-radius: 20px;
 }
 .rf__button-gradient-green {
-  font-size: 20px;
+  font-size: 15px;
   height: 70%;
   width: 100%;
   max-width: 175px;
   padding: 8px;
   margin-right: 2%;
-  background: linear-gradient(to left, hwb(138 60% 4%), lab(81.74% -71.06 50.46));
+  background: linear-gradient(
+    to left,
+    hwb(138 60% 4%),
+    lab(81.74% -71.06 50.46)
+  );
   color: azure;
   border-radius: 20px;
 }
 .rf__button-gradient-pink {
-  font-size: 20px;
+  font-size: 15px;
   height: 70%;
   width: 100%;
   max-width: 175px;
   padding: 8px;
   margin-right: 2%;
-  background: linear-gradient(to left, hsla(0, 71%, 54%, 0.685), lab(82.56% 20.29 2.77));
+  background: linear-gradient(
+    to left,
+    hsla(0, 71%, 54%, 0.685),
+    lab(82.56% 20.29 2.77)
+  );
   color: azure;
   border-radius: 20px;
 }
@@ -351,45 +362,88 @@ li {
   padding-left: 35px;
 }
 
-/* *********************** */
-/* RESPONSIVE CODE SECTION */
-/* *********************** */
+/* ************************************ */
+/* You Have Questions Section           */
+/* ************************************ */
 
-/* Tablets, large smartphones, small phones */
+
+.question__container {
+  padding: 40px 0;
+  margin: 100px 20px;
+}
+.question___sect_topwhite {
+  padding: 20px 20px;
+}
+
+.question__sect_bottomgray {
+  margin: 25px 20px;
+  text-align: left;
+}
+.question__row {
+  display: flex;
+  height: 70px;
+  width: 100%;
+  background-color: lightgray;
+}
+
+/* ************************************ */
+/* RESPONSIVE CODE SECTION              */
+/* ************************************ */
+
+/* Tablets, larger smartphones, smaller phones */
 
 @media (max-width: 1100px) {
   .button {
-    font-size: 15px; 
+    font-size: 15px;
     margin-left: 10px;
     padding: 4px;
-    max-width: fit-content;}
-  .nav__link { 
-    font-size: 10;}
- 
-}
+    max: width 100px;;
 
- @media (max-width: 1000px) {
-  .nav__link { font-size: 5;
+  }
+  .nav__link {
+    font-size: 10;
+  }
+}
+@media (max-width: 1000px) {
+  .nav__link {
+    font-size: 5;
     padding: 4px;
-    margin: 0 9px; }
+    margin: 0 9px;
+  }
   .nav__container_left {
     display: flex;
-    flex-direction: column; }
-  .nav__container_left h2 {
-    font-size: small;}
-  .button {
-    padding: 0;}
+    flex-direction: column;
   }
-
-/* SMALLER PHONES */
-@media (max-width: 500px) {
- .nav__link { 
-    padding: 4px;
-    margin-left: 10px; }
-   .button {
-    font-size: 10px; }  
+  .nav__container_left h2 {
+    font-size: small;
+  }
+  .button {
+    padding: 0;
+  }
 }
-
+@media (max-width: 768px) {
+  .rf__service {
+    width: calc(75 / 3);
+    margin: 5px;
+  }
+  .rf__button,
+  .rf__button-gradient-pink,
+  .rf__button-gradient-green {
+    font-size: 12px;
+  }
+}
+@media (max-width: 500px) {
+  .rf__service {
+    width: 100%;
+  }
+  .nav__link {
+    padding: 4px;
+    margin-left: 10px;
+  }
+  .rf__button {
+    font-size: 15px;
+  }
+}
 
 /* ********** */
 /* JS TESTING */
@@ -403,3 +457,40 @@ li {
 .button--body {
   background: linear-gradient(0deg, orange, cyan);
 }
+/* <details name="faq">     */
+/*      <summary><strong>   */
+/* question                 */
+/*      </strong></summary> */
+/*      <p>                 */
+/* answer                   */
+/*      </p>                */
+/* < details>               */
+<details name="faq">
+       <summary><strong>Are all the templates easily customizable ?</strong></summary>
+      <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum cum maxime. Nemo accusamus doloribus maiores itaque quo reprehenderit omnis facilis soluta necessitatibus! Optio minus mollitia doloremque eligendi officiis perferendis!</h5>
+       </details>
+
+      <details name="faq">
+       <summary><strong>How long do you usually support a standalone template for ? </strong></summary>
+       <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum cum maxime. Nemo accusamus doloribus maiores itaque quo reprehenderit omnis facilis soluta necessitatibus! Optio minus mollitia doloremque eligendi officiis perferendis!</h5>
+       </details>
+      
+      <details name="faq">
+       <summary><strong>What kind of payment methods do you accept ? </strong></summary>
+        <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum cum maxime. Nemo accusamus doloribus maiores itaque quo reprehenderit omnis facilis soluta necessitatibus! Optio minus mollitia doloremque eligendi officiis perferendis!</h5>
+       </details>
+
+      <details name="faq">
+       <summary><strong>Is there a subscription service to get the templates ?</strong></summary>
+        <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum cum maxime. Nemo accusamus doloribus maiores itaque quo reprehenderit omnis facilis soluta necessitatibus! Optio minus mollitia doloremque eligendi officiis perferendis!</h5> 
+       </details>
+
+      <details name="faq">
+       <summary><strong>Are the templates compatible with React ?</strong></summary>
+        <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum cum maxime. Nemo accusamus doloribus maiores itaque quo reprehenderit omnis facilis soluta necessitatibus! Optio minus mollitia doloremque eligendi officiis perferendis!</h5> 
+       </details>
+      
+      <details name="faq">
+       <summary><strong>Do you really support Internet Explorer 11 ?</strong></summary>
+        <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum cum maxime. Nemo accusamus doloribus maiores itaque quo reprehenderit omnis facilis soluta necessitatibus! Optio minus mollitia doloremque eligendi officiis perferendis!</h5>
+       </details>
