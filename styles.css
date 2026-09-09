@@ -366,7 +366,6 @@ li {
 /* You Have Questions Section           */
 /* ************************************ */
 
-
 .question__container {
   padding: 40px 0;
   margin: 100px 20px;
@@ -390,49 +389,49 @@ li {
 /* Blue Links and Footer Section        */
 /* ************************************ */
 
+#blue__links__and__footer {
+  padding: 50px 0;
+}
 .blue__row-top {
   display: flex;
   max-height: 120px;
+  max-width: 100%;
   margin: 0 auto;
   background-color: #3498db;
   color: azure;
-  margin: 70px 100px;
+  margin: 70px 130px;
 }
-.blue__row-top-left-text{
-  width: 300px; 
-  padding: 25px 25px;
+.blue__row-top-left-text {
+  width: 400px;
+  padding: 40px 2%;
 }
 .blue__row-top-right-buttons {
-  width: 300px;
-  padding: 40px 35px;
+  display: flex;
+  align-items:;
+  justify-content: right;
+  width: 100%;
+  max-height: 50px;
+  margin: 40px 20px;
 }
 .blue__button-red {
   background-color: red;
   color: azure;
   font-size: 15px;
-  border-radius: 20px;
-  padding: 2px 15px;
+  border-radius: 30px;
+  padding: 10px;
+  margin: 0 20px;
 }
 .blue__button-blue {
   background-color: blue;
   color: azure;
   font-size: 15px;
-  border-radius: 20px;
-  padding: 2px 15px;
+  border-radius: 30px;
+  padding: 10px;
 }
-
-/* .blue__row-middle {         */
-/*  max-width: 600px;          */
-/*  max-height: 100px;         */
-/*  margin: 0 auto;            */
-/*  background-color: azure;   */
-/*  color: azure ;             */
-/*  }                          */
-
 .blue__links-box {
   background-color: #3498db;
   color: azure;
-  height: 300px;
+  height: 250px;
   padding: 50px 50px;
 }
 .blue__links {
@@ -442,11 +441,17 @@ li {
 .blue__link {
   display: flex;
   flex-direction: column;
-  width: calc(100%/5);
+  width: calc(100% / 5);
   align-items: center;
   font-size: small;
   padding: 2px 2px;
-
+}
+.blue__footer-box {
+  display: flex;
+  justify-content: space-between;
+  background-color: #3498db;
+  color: azure;
+  height: 30px;
 }
 
 /* ************************************ */
@@ -460,8 +465,7 @@ li {
     font-size: 15px;
     margin-left: 10px;
     padding: 4px;
-    max: width 100px;;
-
+    max: width 100px;
   }
   .nav__link {
     font-size: 10;
@@ -507,68 +511,3 @@ li {
     font-size: 15px;
   }
 }
-
-/* ********** */
-/* JS TESTING */
-/* ********** */
-
-.test-box {
-  border: var(--box-border);
-  padding: 100px 20px;
-  width: 20px;
-}
-.button--body {
-  background: linear-gradient(0deg, orange, cyan);
-}
-/* <details name="faq">     */
-/*      <summary><strong>   */
-/* question                 */
-/*      </strong></summary> */
-/*      <p>                 */
-/* answer                   */
-/*      </p>                */
-/* < details>               */
-<details name="faq">
-       <summary><strong>Are all the templates easily customizable ?</strong></summary>
-      <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum cum maxime. Nemo accusamus doloribus maiores itaque quo reprehenderit omnis facilis soluta necessitatibus! Optio minus mollitia doloremque eligendi officiis perferendis!</h5>
-       </details>
-
-      <details name="faq">
-       <summary><strong>How long do you usually support a standalone template for ? </strong></summary>
-       <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum cum maxime. Nemo accusamus doloribus maiores itaque quo reprehenderit omnis facilis soluta necessitatibus! Optio minus mollitia doloremque eligendi officiis perferendis!</h5>
-       </details>
-      
-      <details name="faq">
-       <summary><strong>What kind of payment methods do you accept ? </strong></summary>
-        <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum cum maxime. Nemo accusamus doloribus maiores itaque quo reprehenderit omnis facilis soluta necessitatibus! Optio minus mollitia doloremque eligendi officiis perferendis!</h5>
-       </details>
-
-      <details name="faq">
-       <summary><strong>Is there a subscription service to get the templates ?</strong></summary>
-        <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum cum maxime. Nemo accusamus doloribus maiores itaque quo reprehenderit omnis facilis soluta necessitatibus! Optio minus mollitia doloremque eligendi officiis perferendis!</h5> 
-       </details>
-
-      <details name="faq">
-       <summary><strong>Are the templates compatible with React ?</strong></summary>
-        <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum cum maxime. Nemo accusamus doloribus maiores itaque quo reprehenderit omnis facilis soluta necessitatibus! Optio minus mollitia doloremque eligendi officiis perferendis!</h5> 
-       </details>
-      
-      <details name="faq">
-       <summary><strong>Do you really support Internet Explorer 11 ?</strong></summary>
-        <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum cum maxime. Nemo accusamus doloribus maiores itaque quo reprehenderit omnis facilis soluta necessitatibus! Optio minus mollitia doloremque eligendi officiis perferendis!</h5>
-       </details>
-
-
-       .blue__links
-
-       <div class="blue__links-box row">
-      <ul class="blue__links">
-        <li><a href="#" class="blue__link">Main</a></li>
-        
-      </ul>
-
-    </div>
-       <li><a href="#" class="blue__link">Blog</a></li>
-        <li><a href="#" class="blue__link">FAQs</a></li>
-        <li><a href="#" class="blue__link">Support</a></li>
-        <li><a href="#" class="blue__link">About&nbsp;Us</a></li>
