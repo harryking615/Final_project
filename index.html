@@ -8,25 +8,7 @@
   </head>
   <body>
 
-<script>
-  const boxBorder = document.getElementById("box-border");
-
-  function setBoxBorder() {
-    document.documentElement.style.setProperty(
-      "--box-border",
-      boxBorder.value === "yes" ? "2px solid #3498db" : "none"
-    );
-  }
-
-  // Set the initial value
-  setBoxBorder();
-
-  // Update whenever the selection changes
-  boxBorder.addEventListener("change", setBoxBorder);
-</script>
-
-
-    <section id="landing__page_bar">
+  <section id="landing__page_bar">
       <nav>
         <div class="nav__container">
           <div class="nav__container_left">
@@ -35,23 +17,52 @@
               src="./assets/logo.2c489fc453a1783cbadacf914efa3df6.svg"
               alt=""
               />
-            <h2 class="landing__page_h2">TREACT</h2>
+            <h1 class="landing__page_h2">TREACT</h1>
           </div>
           <div class="nav__container_right">
-            <ul class="nav__links">
-              <li><a href="#" class="nav__link">About</a></li>
-              <li><a href="#" class="nav__link">Blog</a></li>
-              <li><a href="#" class="nav__link">Pricing</a></li>
-              <li><a href="#" class="nav__link">Contact&nbsp;Us</a></li>
-              <li><a href="#" class="nav__link">Login</a></li>
-            </ul>
-              <button class="nav__button">Sign Up</button>
+         
+    <div class="dropdown">
+      <button class="dropdown-btn">About</button>
+      <div class="dropdown-content">
+        <a href="#">Please review our Amazing Services on the next screen down</a>
+      </div>
+    </div>
+
+    <div class="dropdown">
+      <button class="dropdown-btn">Blog</button>
+      <div class="dropdown-content">
+        <a href="#">Allow us to build your Blog</a>
+      </div>
+    </div>
+
+    <div class="dropdown">
+      <button class="dropdown-btn">Pricing</button>
+      <div class="dropdown-content">
+        <a href="#">Please scroll down to our Pricing Section</a>
+      </div>
+    </div>
+
+    <div class="dropdown">
+      <button class="dropdown-btn">Contact&nbsp;Us</button>
+      <div class="dropdown-content">
+        <a href="#">1-800-4Treact & Email@Treact.com</a>
+      </div>
+    </div>
+
+    <div class="dropdown">
+      <button class="dropdown-btn">Login</button>
+      <div class="dropdown-content">
+        <a href="#">Start today!</a>
+      </div>
+    </div>
+
+            <button class="nav__button">Sign Up</button>
           </div>
          </div> 
       </nav>
     </section>
 
-    <section id="landing__page_container">
+  <section id="landing__page_container">
       <div class="lp__box_left">
         <div>
           <h2>Beautiful React<br>Templates for <span class="purple--text"> you.</span></h2>
@@ -84,7 +95,7 @@
       </div>
     </section>
 
-    <section id="lp__features_container">
+  <section id="lp__features_container">
       <div class="lp__amazing_row">
         <h4><span class="purple--text">Features</span></h4>
         <h1>We have Amazing <span class="purple--text">Service</span></h1><bk>
@@ -173,7 +184,7 @@
      </div>
     </section>
 
-    <section id="dd__page_container">
+  <section id="dd__page_container">
    
         <div class="dd__box_left">
           <div>
@@ -187,11 +198,10 @@
         </div>
         <div class="dd__box_right">
           <img src="./assets/hero-screenshot-1.40a097b525c2f8c9808e.png" alt="">
-        </div>
-      
+        </div>  
     </section>
 
-     <section id="easy__page_container">
+  <section id="easy__page_container">
       <div class="easy__box_left">
         <div>
           <img src="./assets/hero-screenshot-2.241aac1fbc66db29d873.png" alt="">
@@ -227,7 +237,7 @@
       </div>
     </section>
 
-    <section id="value__page_container">
+  <section id="value__page_container">
       <div class="value__box_left">
         <div>
           <h4><span class="purple--text">VALUES</span></h4>
@@ -242,7 +252,7 @@
       </div>
     </section>
 
-    <section id="reasonable__flexible_plans">
+  <section id="reasonable__flexible_plans">
         
       <div class="rf__container">
         <div class="narrow__row">
@@ -255,7 +265,6 @@
 
         <div class="rf__services">
       
-
           <div class="rf__service">
               <div class="rf__detail_1" 
               style="border-top: 5px solid hwb(138 60% 4%) ;">
@@ -323,8 +332,8 @@
       </div>
     </section>
 
-<section id="you__have-questions">
-  <div class="narrow__row">
+  <section id="you__have-questions">
+   <div class="narrow__row">
     <div class="question__sect_topwhite">
           <h1 style="text-align: center;">
             You have Questions ?</h1>
@@ -368,12 +377,11 @@
             <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum cum maxime. Nemo accusamus doloribus maiores itaque quo.
           </details>
        </div> 
+      </div>
     </div>
-  </div>
-</section>
+   </section>
 
-<section id="blue__links__and__footer">
-  
+  <section id="blue__links__and__footer"> 
     <div class="blue__row-top">
         <div class="blue__row-top-left-text">
           <p>Developers all over the world are happily using Treact.</p>
@@ -397,67 +405,67 @@
         <li>&nbsp;</li>
         <li>Support</li>
         <li>&nbsp;</li>
-        <li>Contact&nbsp;</li>
+        <li>About&nbsp;Us</li>
         </ol>
         </div>
 
         <div class="blue__link">
         <ol>
-        <li>MAIN</li>
+        <li>PRODUCT</li>
         <li>&nbsp;</li>
         <li>&nbsp;</li>
-        <li>Blog</li>
+        <li>Log In</li>
         <li>&nbsp;</li>
-        <li>Faq's</li>
+        <li>Personal</li>
         <li>&nbsp;</li>
-        <li>Support</li>
+        <li>Business</li>
         <li>&nbsp;</li>
-        <li>Contact&nbsp;</li>
+        <li>Team</li>
         </ol>
         </div>
 
         <div class="blue__link">
         <ol>
-        <li>MAIN</li>
+        <li>PRESS</li>
         <li>&nbsp;</li>
         <li>&nbsp;</li>
-        <li>Blog</li>
+        <li>Logos</li>
         <li>&nbsp;</li>
-        <li>Faq's</li>
+        <li>Events</li>
         <li>&nbsp;</li>
-        <li>Support</li>
+        <li>Storiest</li>
         <li>&nbsp;</li>
-        <li>Contact&nbsp;</li>
+        <li>Office</li>
         </ol>
         </div>
 
         <div class="blue__link">
         <ol>
-        <li>MAIN</li>
+        <li>TEAM</li>
         <li>&nbsp;</li>
         <li>&nbsp;</li>
-        <li>Blog</li>
+        <li>Career</li>
         <li>&nbsp;</li>
-        <li>Faq's</li>
+        <li>Founders</li>
         <li>&nbsp;</li>
-        <li>Support</li>
+        <li>Culture</li>
         <li>&nbsp;</li>
-        <li>Contact&nbsp;</li>
+        <li>Onboarding</li>
         </ol>
         </div>
 
         <div class="blue__link">
         <ol>
-        <li>MAIN</li>
+        <li>LEGAL</li>
         <li>&nbsp;</li>
         <li>&nbsp;</li>
-        <li>Blog</li>
+        <li>QDPR</li>
         <li>&nbsp;</li>
-        <li>Faq's</li>
+        <li>Privacy Policy</li>
         <li>&nbsp;</li>
-        <li>Support</li>
+        <li>Term of Service</li>
         <li>&nbsp;</li>
-        <li>Contact&nbsp;</li>
+        <li>Disclaimer</li>
         </ol>
         </div>
 
@@ -479,15 +487,9 @@
         <img src="./assets/simple-icon.673b7e1750b2a4ef32907fc164828d00.svg">
         <img src="./assets/support-icon.f9253ffa8cb6ffde5bbaa05eb5136375.svg">
         </div>
-    </div>
-    
-
-
-
-</section>
-
-  </body>
-
+    </div>    
+  </section>
+  
+</body>
 </html>
-            
-
+     
