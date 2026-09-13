@@ -209,6 +209,13 @@ li {
   width: 100%;
   height: 100%;
 }
+.dand__button {
+  background-color: blue;
+  color: azure;
+  font-size: 15px;
+  border-radius: 30px;
+  padding: 10px;
+}
 
 /* *************************** */
 /* Easy to Get Started Section */
@@ -461,7 +468,7 @@ li {
 }
 .blue__row-top-left-text {
   width: 400px;
-  padding: 40px 2%;
+  padding: 40px 40px 40px 25px;
 }
 .blue__row-top-right-buttons {
   display: flex;
@@ -474,7 +481,7 @@ li {
 .blue__button-red {
   background-color: red;
   color: azure;
-  font-size: 15px;
+  font-size: 14px;
   border-radius: 30px;
   padding: 10px;
   margin: 0 20px;
@@ -482,7 +489,7 @@ li {
 .blue__button-blue {
   background-color: blue;
   color: azure;
-  font-size: 15px;
+  font-size: 14px;
   border-radius: 30px;
   padding: 10px;
 }
