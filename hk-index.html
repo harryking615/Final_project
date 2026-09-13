@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Basic Information Form</title>
+    <style>
+      .feedback_form {
+        max-width: 350px;
+      }
+      input,
+      textarea {
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav></nav>
+    </header>
+    <main>
+      <section class="feedback_form">
+        <h1 style="color: darkblue">Basic Information</h1>
+        <form action=" " method="post">
+          <label for="name">Name:</label>
+          <input
+            type="text"
+            id="name"
+            name="name"
+            required
+            placeholder="John Doe"
+          />
+          <label for="student-email">Email:</label>
+          <input
+            type="email"
+            id="student-email"
+            name="email"
+            required
+            placeholder="john@doe.com"
+          />
+          <input
+            style="color: darkblue"
+            type="submit" 
+            name="submit"
+            value="submit"
+          />
+        </form>
+      </section>
+    </main>
+  </body>
+</html>
