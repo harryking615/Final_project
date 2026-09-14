@@ -261,17 +261,19 @@ li {
 }
 .value__box_left {
   width: 50%;
-  height: 250px;
+  height: 300px;
   padding: 40px 150px;
 }
 .value__box_right {
   width: 50%;
-  height: 250px;
-  padding: 30px 50px;
+  height: 300px;
+  padding: 25px 25px;
+  border: 1px black;
 }
 .value__box_right img {
-  width: 100%;
-  height: 100%;
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
 }
 
 /* ************************************ */
