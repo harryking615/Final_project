@@ -108,7 +108,7 @@ li {
 .lp__button_box {
   display: flex;
   height: 40px;
-  width: 260px;
+  width: 250px;
   display: flex;
   font-size: 15px;
   background-color: white;
@@ -116,13 +116,21 @@ li {
   border: 1px solid#3498db;
   border-radius: 20px;
 }
-.lp__button {
-  font-size: 15px;
-  height: 37px;
-  width: 119px;
+.lp__button_box h4 {
+  text-align: center;
+  font-weight: 500;
+  font-size: small;
+  padding-top: 10px;
+}
+.lp__button-new {
+  font-size: 14px;
+  height: 38px;
+  width: 125px;
   background-color: #7242d6;
   color: azure;
   border-radius: 20px;
+  text-align: center;
+  padding: 9px;
 }
 .lp__box_right {
   width: 60%;
