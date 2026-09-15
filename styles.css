@@ -135,6 +135,9 @@ li {
   text-align: center;
   padding: 9px;
 }
+.lp__button-new:hover {
+  background-color: #3498db;
+}
 .learnmore_button {
   font-size: 14px;
   height: 38px;
@@ -144,6 +147,9 @@ li {
   border-radius: 20px;
   text-align: center;
   padding: 9px;
+}
+.learnmore_button:hover {
+  background-color: #3498db;
 }
 .lp__box_right {
   width: 60%;
