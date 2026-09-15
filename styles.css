@@ -55,15 +55,14 @@ li {
 }
 .responsive_big_t {
   width: 50%;
-  max-width: 50px; 
+  max-width: 50px;
   max-height: 20%;
-
 }
 .landing__page_h {
   font-size: 30px;
 }
 .nav__container_right {
-  max-width: calc(vw *40%);
+  max-width: calc(vw * 40%);
   display: flex;
   align-items: center;
 }
@@ -485,7 +484,6 @@ li {
 }
 .blue__row-top-right-buttons {
   display: flex;
-  align-items:;
   justify-content: right;
   width: 100%;
   max-height: 50px;
@@ -551,52 +549,53 @@ li {
 @media (max-width: 1000px) {
   .dropdown-btn {
     font-size: 17px;
-    padding 0;
+    padding: 0;
   }
   .responsive_big_t {
     max-width: 50%;
     max-height: 25%;
-  } 
+  }
   .landing__page_h {
     font-size: 20px;
   }
-@media (max-width: 768px) {
-  .dropdown-btn {
-    font-size: 15px;
+  @media (max-width: 768px) {
+    .dropdown-btn {
+      font-size: 15px;
+    }
+    .responsive_big_t {
+      max-width: 25%;
+      max-height: 15%;
+    }
+    .landing__page_h {
+      font-size: 15px;
+    }
+    .nav__button {
+      font-size: 15px;
+      width: 100px;
+    }
+    .rf__service {
+      width: calc(75 / 3);
+      margin: 5px;
+    }
+    .rf__button,
+    .rf__button-gradient-pink,
+    .rf__button-gradient-green {
+      font-size: 12px;
+    }
   }
-  .responsive_big_t {
-    max-width: 25%;
-    max-height: 15%;
-  }
-  .landing__page_h {
-    font-size: 15px;
-  }
-  .nav__button {
-    font-size: 15px;
-    width: 100px;
-  }
-  .rf__service {
-    width: calc(75 / 3);
-    margin: 5px;
-  }
-  .rf__button,
-  .rf__button-gradient-pink,
-  .rf__button-gradient-green {
-    font-size: 12px;
-  }
-}
-@media (max-width: 500px) {
-  .rf__service {
-    width: 100%;
-  }
-  .rf__button {
-    font-size: 15px;
-  }
-  .landing__page_h {
-    font-size: 10px;
-  }
-   .nav__button {
-    font-size: 12px;
-    width: 75px;
+  @media (max-width: 500px) {
+    .rf__service {
+      width: 100%;
+    }
+    .rf__button {
+      font-size: 15px;
+    }
+    .landing__page_h {
+      font-size: 10px;
+    }
+    .nav__button {
+      font-size: 12px;
+      width: 75px;
+    }
   }
 }
