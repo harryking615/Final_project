@@ -54,12 +54,16 @@ li {
   align-items: center;
 }
 .responsive_big_t {
-  width: 100%;
-  max-width: 90px;
-  max-height: 50%;
-  padding-right: px;
+  width: 50%;
+  max-width: 50px; 
+  max-height: 20%;
+
+}
+.landing__page_h {
+  font-size: 30px;
 }
 .nav__container_right {
+  max-width: calc(vw *40%);
   display: flex;
   align-items: center;
 }
@@ -163,7 +167,6 @@ li {
 /* Change button on hover */
 .dropdown-btn:hover {
   background-color: white;
-  font-size: 22px;
   color: #5428b4;
 }
 /*  sort of ~ hidden dropdown menu */
@@ -171,7 +174,7 @@ li {
   display: none;
   position: absolute;
   background-color: #cae6fa;
-  min-width: 160px;
+  max-width: 155px;
   box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
   z-index: 1;
   border-radius: 4px;
@@ -180,7 +183,7 @@ li {
 /* dropdown link(s) */
 .dropdown-content a {
   color: #333333;
-  padding: 12px 16px;
+  padding: 12px 2px;
   text-decoration: none;
   display: block;
 }
@@ -543,34 +546,35 @@ li {
 /* Tablets, larger smartphones, smaller phones */
 
 @media (max-width: 1100px) {
-  .button {
-    font-size: 15px;
-    margin-left: 10px;
-    padding: 4px;
-    max: width 100px;
-  }
-  .nav__link {
-    font-size: 10;
-  }
 }
+
 @media (max-width: 1000px) {
-  .nav__link {
-    font-size: 5;
-    padding: 4px;
-    margin: 0 9px;
+  .dropdown-btn {
+    font-size: 17px;
+    padding 0;
   }
-  .nav__container_left {
-    display: flex;
-    flex-direction: column;
+  .responsive_big_t {
+    max-width: 50%;
+    max-height: 25%;
+  } 
+  .landing__page_h {
+    font-size: 20px;
   }
-  .nav__container_left h2 {
-    font-size: small;
-  }
-  .button {
-    padding: 0;
-  }
-}
 @media (max-width: 768px) {
+  .dropdown-btn {
+    font-size: 15px;
+  }
+  .responsive_big_t {
+    max-width: 25%;
+    max-height: 15%;
+  }
+  .landing__page_h {
+    font-size: 15px;
+  }
+  .nav__button {
+    font-size: 15px;
+    width: 100px;
+  }
   .rf__service {
     width: calc(75 / 3);
     margin: 5px;
@@ -585,11 +589,14 @@ li {
   .rf__service {
     width: 100%;
   }
-  .nav__link {
-    padding: 4px;
-    margin-left: 10px;
-  }
   .rf__button {
     font-size: 15px;
+  }
+  .landing__page_h {
+    font-size: 10px;
+  }
+   .nav__button {
+    font-size: 12px;
+    width: 75px;
   }
 }
