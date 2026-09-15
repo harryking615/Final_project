@@ -185,8 +185,7 @@
      </div>
     </section>
 
-  <section id="dd__page_container">
-   
+  <section id="dd__page_container"></a>
         <div class="dd__box_left">
           <div>
            <p><span class="purple--text">QUALITY WORK</span></p>
@@ -194,7 +193,53 @@
               <h1>by <span class="purple--text">Professionals.</span></h1>
               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime dolorem tenetur amet repellendus, minima cum cumque, quam nemo tempore magni doloremque est illo voluptatum suscipit? Velit ratione exercitationem commodi ullam.</p>
               <bk>  
-              <button class="dand__button">Learn More</button>  
+
+  <div id="learnmore">
+    <!-- The lines of code you want to show or hide -->
+      <div id="secret-code" style="display: none">
+      <br><h1 style="color: #7342d6">Sign Up Information</h1>
+      <br>
+      <form action=" " method="post">
+        <label for="name">Name:</label>
+        <input
+          type="text"
+          id="name"
+          name="name"
+          required
+          placeholder="John Doe"
+        />
+          <br>
+        <label for="email">Email: </label>
+        <input
+          type="email"
+          id="email"
+          name="email"
+          required
+          placeholder="john@doe.com"
+        />
+      </form>
+     <br>
+    </div>
+
+    <script>
+      function revealCode() {
+        var x = document.getElementById("secret-code");
+
+        // If the text is currently hidden, show it
+        if (x.style.display === "none") {
+          x.style.display = "block";
+        }
+        // Otherwise (if it's already showing), hide it
+        else {
+          x.style.display = "none";
+        }
+      }
+      </script>
+      </div>
+      <!-- *************************A button to trigger the display ****************** -->
+      <button class="learnmore_button" onclick="revealCode()">LEARN MORE</button>
+      <!-- *************************************************************************** -->
+
           </div>
         </div>
         <div class="dd__box_right">
@@ -495,7 +540,9 @@
       <p></p>
     </div>   
   </section>
+
   
 </body>
 </html>
-     
+    
+   

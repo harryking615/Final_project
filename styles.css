@@ -135,6 +135,16 @@ li {
   text-align: center;
   padding: 9px;
 }
+.learnmore_button {
+  font-size: 14px;
+  height: 38px;
+  width: 125px;
+  background-color: #7242d6;
+  color: azure;
+  border-radius: 20px;
+  text-align: center;
+  padding: 9px;
+}
 .lp__box_right {
   width: 60%;
   height: 400px;
@@ -225,6 +235,18 @@ li {
   font-size: 15px;
   border-radius: 30px;
   padding: 10px;
+}
+/* just for that one button in the Designed & Developed screen */
+
+.learnmore_button {
+  font-size: 14px;
+  height: 38px;
+  width: 125px;
+  background-color: #7242d6;
+  color: azure;
+  border-radius: 20px;
+  text-align: center;
+  padding: 9px;
 }
 
 /* *************************** */
@@ -357,6 +379,10 @@ li {
   color: azure;
   border-radius: 20px;
 }
+.rf__button:hover {
+  font-size: 18px;
+}
+
 .rf__button-gradient-green {
   font-size: 15px;
   height: 70%;
@@ -372,6 +398,10 @@ li {
   color: azure;
   border-radius: 20px;
 }
+.rf__button-gradient-green:hover {
+  font-size: 18px;
+}
+
 .rf__button-gradient-pink {
   font-size: 15px;
   height: 70%;
@@ -387,6 +417,11 @@ li {
   color: azure;
   border-radius: 20px;
 }
+.rf__button-gradient-pink:hover {
+  font-size: 18px;
+}
+
+
 /* ******************************************** */
 /* We Have Amazing Service Container - Features */
 /* ******************************************** */
@@ -497,12 +532,18 @@ li {
   padding: 10px;
   margin: 0 20px;
 }
+.blue__button-red:hover {
+  font-size: 15px;
+}
 .blue__button-blue {
   background-color: blue;
   color: azure;
   font-size: 14px;
   border-radius: 30px;
   padding: 10px;
+}
+.blue__button-blue:hover {
+  font-size: 15px;
 }
 .blue__links-box {
   background-color: #3498db;
@@ -549,12 +590,12 @@ li {
 @media (max-width: 1000px) {
   .dropdown-btn {
     font-size: 17px;
-    padding: 0;
+    padding: 5px;
   }
-  .responsive_big_t {
-    max-width: 50%;
-    max-height: 25%;
-  }
+ /*.responsive_big_t {   */
+ /*   max-width: 50%;    */  
+ /*   max-height: 25%;   */
+ /*}                     */
   .landing__page_h {
     font-size: 20px;
   }
@@ -567,12 +608,13 @@ li {
       max-height: 15%;
     }
     .landing__page_h {
-      font-size: 15px;
+      font-size: 25px;
     }
-    .nav__button {
-      font-size: 15px;
-      width: 100px;
-    }
+    /* ?doing more harm than good? 
+     .nav__button {      
+      font-size: 15px;   
+      width: 100px;      
+     }                  
     .rf__service {
       width: calc(75 / 3);
       margin: 5px;
