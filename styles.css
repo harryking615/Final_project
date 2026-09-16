@@ -431,7 +431,8 @@ li {
 /* ******************************************** */
 
 #lp__features_container {
-  padding: 50px 0;
+  /* padding: 150px 0; */
+  padding: 150px 0 50px 0;
 }
 .lp__amazing_row {
   display: flex;
