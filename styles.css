@@ -646,6 +646,9 @@ li {
     }
   }
   @media (max-width: 500px) {
+    .landing__page_h {
+      font-size: 12px;
+    }
     .dropdown-btn {
       font-size: 12px;
     }
@@ -661,6 +664,9 @@ li {
     }
     .blue__footer-box-a {
       font-size: 0.75rem;
+    }
+    .blue__footer-box {
+      padding: 0;
     }
     .value__box_left {
       font-size: 0.75rem;
