@@ -427,7 +427,6 @@ li {
   font-size: 18px;
 }
 
-
 /* ******************************************** */
 /* We Have Amazing Service Container - Features */
 /* ******************************************** */
@@ -513,22 +512,26 @@ li {
 .blue__row-top {
   display: flex;
   max-height: 120px;
-  max-width: 100%;
+  max-width:;
   margin: 0 auto;
   background-color: #3498db;
   color: azure;
-  margin: 70px 130px;
+  /* margin: 70px 130px; */
+  margin: 70px;
 }
 .blue__row-top-left-text {
-  width: 400px;
-  padding: 40px 40px 40px 25px;
+  width: calc(vw * 40%);
+  /* padding: 30px 40px; */
+  padding: 30px;
 }
 .blue__row-top-right-buttons {
   display: flex;
   justify-content: right;
+
   width: 100%;
   max-height: 50px;
-  margin: 40px 20px;
+  /* margin: 40px 20px; */
+  margin: 40px;
 }
 .blue__button-red {
   background-color: red;
@@ -536,10 +539,10 @@ li {
   font-size: 14px;
   border-radius: 30px;
   padding: 10px;
-  margin: 0 20px;
+  /*  margin: 0 20px; */
 }
 .blue__button-red:hover {
-  font-size: 15px;
+  color: blueviolet;
 }
 .blue__button-blue {
   background-color: blue;
@@ -549,7 +552,7 @@ li {
   padding: 10px;
 }
 .blue__button-blue:hover {
-  font-size: 15px;
+  color: red;
 }
 .blue__links-box {
   background-color: #3498db;
@@ -598,10 +601,6 @@ li {
     font-size: 17px;
     padding: 5px;
   }
- /*.responsive_big_t {   */
- /*   max-width: 50%;    */  
- /*   max-height: 25%;   */
- /*}                     */
   .landing__page_h {
     font-size: 20px;
   }
@@ -614,13 +613,12 @@ li {
       max-height: 15%;
     }
     .landing__page_h {
-      font-size: 25px;
+      font-size:;
     }
-    /* ?doing more harm than good? 
-     .nav__button {      
-      font-size: 15px;   
-      width: 100px;      
-     }                  
+    .nav__button {
+      font-size: 15px;
+      width: 100px;
+    }
     .rf__service {
       width: calc(75 / 3);
       margin: 5px;
@@ -630,8 +628,45 @@ li {
     .rf__button-gradient-green {
       font-size: 12px;
     }
+    .value__box_left {
+      font-size: 0.85rem;
+    }
+    .value__box_right img {
+      width: 200px;
+    }
+    .value__box_left {
+      padding: 40px 50px;
+    }
+    .blue__row-top {
+      font-size: 0.85rem;
+    }
+    .blue__button-red {
+      font-size: 10px;
+    }
+    .blue__button-blue {
+      font-size: 10px;
+    }
   }
   @media (max-width: 500px) {
+    .blue__row-top {
+      font-size: 0.65rem;
+      margin: 10px;
+    }
+    .blue__row-top-right-buttons {
+      display: flex;
+      justify-content: right;
+      flex-direction: column;
+      margin: 10px;
+    }
+    .value__box_left {
+      font-size: 0.75rem;
+    }
+    .value__box_right img {
+      width: 150px;
+    }
+    .landing__page_h {
+      font-size: 12px;
+    }
     .rf__service {
       width: 100%;
     }
