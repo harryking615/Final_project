@@ -66,17 +66,20 @@ li {
   display: flex;
   align-items: center;
 }
-.nav__links {
-  justify-content: space-between;
-}
-.nav__link {
-  margin-left: 16px;
-  text-decoration: none;
-  font-size: 15px;
-  color: #7242d6;
-  font-weight: bold;
-  padding: 0 9px;
-}
+
+/* .nav__links {    */
+/*  justify-content: */
+/*  space-between;   */
+/* }                 */
+/* .nav__link {      */
+/* margin-left: 16px;     */
+/* text-decoration: none; */
+/* font-size: 15px;    */
+/* color: #7242d6;     */
+/*  font-weight: bold; */
+/* padding: 0 9px;     */
+/* } */
+
 .nav__button {
   font-size: 15px;
   height: 70%;
@@ -105,7 +108,7 @@ li {
 }
 .lp__box_left {
   width: 40%;
-  height: 400px;
+  height: 500px;
   padding: 40px 40px;
 }
 .lp__button_box {
@@ -432,7 +435,7 @@ li {
 
 #lp__features_container {
   /* padding: 150px 0; */
-  padding: 150px 0 50px 0;
+  padding: 150px 0 0 0;
 }
 .lp__amazing_row {
   display: flex;
@@ -592,101 +595,103 @@ li {
 
 /* Tablets, larger smartphones, smaller phones */
 
-@media (max-width: 1000px) {
+@media (max-width: 768px) {
+  .landing__page_h {
+    font-size: 15px;
+  }
   .dropdown-btn {
-    font-size: 17px;
-    padding: 5px;
+    font-size: 15px;
+    padding: 12px 0;
+  }
+  .responsive_big_t {
+    max-width: 25%;
+    max-height: 15%;
   }
   .landing__page_h {
-    font-size: 20px;
+    font-size:;
   }
-  @media (max-width: 768px) {
-    .landing__page_h {
-      font-size: 15px;
-    }
-    .dropdown-btn {
-      font-size: 15px;
-    }
-    .responsive_big_t {
-      max-width: 25%;
-      max-height: 15%;
-    }
-    .landing__page_h {
-      font-size:;
-    }
-    .nav__button {
-      font-size: 15px;
-      width: 100px;
-    }
-    .rf__service {
-      width: calc(75 / 3);
-      margin: 5px;
-    }
-    .rf__button,
-    .rf__button-gradient-pink,
-    .rf__button-gradient-green {
-      font-size: 12px;
-    }
-    .value__box_left {
-      font-size: 0.85rem;
-    }
-    .value__box_right img {
-      width: 200px;
-    }
-    .value__box_left {
-      padding: 40px 50px;
-    }
-    .blue__row-top {
-      font-size: 0.85rem;
-    }
-    .blue__button-red {
-      font-size: 10px;
-    }
-    .blue__button-blue {
-      font-size: 10px;
-    }
+  .nav__button {
+    font-size: 15px;
+    width: 100px;
   }
-  @media (max-width: 500px) {
-    .landing__page_h {
-      font-size: 12px;
-    }
-    .dropdown-btn {
-      font-size: 12px;
-    }
-    .blue__row-top {
-      font-size: 0.65rem;
-      margin: 10px;
-    }
-    .blue__row-top-right-buttons {
-      display: flex;
-      justify-content: right;
-      flex-direction: column;
-      margin: 10px;
-    }
-    .blue__footer-box-a {
-      font-size: 0.75rem;
-    }
-    .blue__footer-box {
-      padding: 0;
-    }
-    .value__box_left {
-      font-size: 0.75rem;
-    }
-    .value__box_right img {
-      width: 150px;
-    }
-    .landing__page_h {
-      font-size: 12px;
-    }
-    .rf__service {
-      width: 100%;
-    }
-    .rf__button {
-      font-size: 15px;
-    }
-    .nav__button {
-      font-size: 12px;
-      width: 75px;
-    }
+  .rf__service {
+    width: calc(75 / 3);
+    margin: 5px;
+  }
+  .rf__button,
+  .rf__button-gradient-pink,
+  .rf__button-gradient-green {
+    font-size: 12px;
+  }
+  .value__box_left {
+    font-size: 0.85rem;
+  }
+  .value__box_right img {
+    width: 200px;
+  }
+  .value__box_left {
+    padding: 40px 50px;
+  }
+  .blue__row-top {
+    font-size: 0.85rem;
+  }
+  .blue__button-red {
+    font-size: 10px;
+  }
+  .blue__button-blue {
+    font-size: 10px;
+  }
+  .nav__button {
+    width: 100px;
+    margin-left: 10px;
+  }
+}
+
+@media (max-width: 500px) {
+  .landing__page_h {
+    font-size: 12px;
+  }
+  .dropdown-btn {
+    font-size: 12px;
+    padding:;
+  }
+  .blue__row-top {
+    font-size: 0.65rem;
+    margin: 10px;
+  }
+  .blue__row-top-right-buttons {
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+    margin: 10px;
+  }
+  .blue__footer-box-a {
+    font-size: 0.75rem;
+  }
+  .blue__footer-box {
+    padding: 0;
+  }
+  .value__box_left {
+    font-size: 0.75rem;
+  }
+  .value__box_right img {
+    width: 150px;
+  }
+  .landing__page_h {
+    font-size: 12px;
+  }
+  .rf__service {
+    width: 100%;
+  }
+  .rf__button {
+    font-size: 15px;
+  }
+  .nav__button {
+    font-size: 12px;
+    width: 75px;
+    margin-left: 5px;
+  }
+  .dd_p1 .dd_p2 dd_h {
+    font-size: 0.75rem;
   }
 }
