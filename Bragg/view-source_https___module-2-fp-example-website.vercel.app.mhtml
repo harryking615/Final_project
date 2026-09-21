@@ -1,0 +1,2531 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://module-2-fp-example-website.vercel.app/
+Subject: 
+Date: Sat, 19 Sep 2026 20:13:45 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--sIgeiHQgS3jc84zS43IEie2EGYEaHq3IxcrCQiw4AM----"
+
+
+------MultipartBoundary--sIgeiHQgS3jc84zS43IEie2EGYEaHq3IxcrCQiw4AM----
+Content-Type: text/html
+Content-ID: <frame-0A2C10026269B47853C96BCD9B3DA4BA@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://module-2-fp-example-website.vercel.app/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><meta name=3D"color-scheme" content=3D"light dark"></head><body><=
+div class=3D"line-gutter-backdrop"></div><form autocomplete=3D"off"><label =
+class=3D"line-wrap-control">Line wrap<input type=3D"checkbox" aria-label=3D=
+"Line wrap"></label></form><table><tbody><tr><td class=3D"line-number" valu=
+e=3D"1"></td><td class=3D"line-content"><span class=3D"html-doctype">&lt;!D=
+OCTYPE html&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"2"><=
+/td><td class=3D"line-content"><span class=3D"html-tag">&lt;html <span clas=
+s=3D"html-attribute-name">lang</span>=3D"<span class=3D"html-attribute-valu=
+e">en</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"3"=
+></td><td class=3D"line-content">  <span class=3D"html-tag">&lt;head&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"4"></td><td class=3D"l=
+ine-content">    <span class=3D"html-tag">&lt;meta <span class=3D"html-attr=
+ibute-name">charset</span>=3D"<span class=3D"html-attribute-value">UTF-8</s=
+pan>" /&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"5"></td>=
+<td class=3D"line-content">    <span class=3D"html-tag">&lt;meta <span clas=
+s=3D"html-attribute-name">name</span>=3D"<span class=3D"html-attribute-valu=
+e">viewport</span>" <span class=3D"html-attribute-name">content</span>=3D"<=
+span class=3D"html-attribute-value">width=3Ddevice-width, initial-scale=3D1=
+.0</span>" /&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"6">=
+</td><td class=3D"line-content">    <span class=3D"html-tag">&lt;link <span=
+ class=3D"html-attribute-name">rel</span>=3D"<span class=3D"html-attribute-=
+value">stylesheet</span>" <span class=3D"html-attribute-name">href</span>=
+=3D"<a class=3D"html-attribute-value html-resource-link" target=3D"_blank" =
+href=3D"https://module-2-fp-example-website.vercel.app/style.css" rel=3D"no=
+referrer noopener">style.css</a>" /&gt;</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"7"></td><td class=3D"line-content">    <span class=3D"h=
+tml-tag">&lt;script</span></td></tr><tr><td class=3D"line-number" value=3D"=
+8"></td><td class=3D"line-content"><span class=3D"html-tag">      <span cla=
+ss=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attribute-value h=
+tml-resource-link" target=3D"_blank" href=3D"https://kit.fontawesome.com/64=
+87f0a3d4.js" rel=3D"noreferrer noopener">https://kit.fontawesome.com/6487f0=
+a3d4.js</a>"</span></td></tr><tr><td class=3D"line-number" value=3D"9"></td=
+><td class=3D"line-content"><span class=3D"html-tag">      <span class=3D"h=
+tml-attribute-name">crossorigin</span>=3D"<span class=3D"html-attribute-val=
+ue">anonymous</span>"</span></td></tr><tr><td class=3D"line-number" value=
+=3D"10"></td><td class=3D"line-content"><span class=3D"html-tag">    &gt;</=
+span><span class=3D"html-tag">&lt;/script&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"11"></td><td class=3D"line-content">    <span cla=
+ss=3D"html-tag">&lt;script <span class=3D"html-attribute-name">src</span>=
+=3D"<a class=3D"html-attribute-value html-resource-link" target=3D"_blank" =
+href=3D"https://module-2-fp-example-website.vercel.app/index.js" rel=3D"nor=
+eferrer noopener">index.js</a>"&gt;</span><span class=3D"html-tag">&lt;/scr=
+ipt&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"12"></td><td=
+ class=3D"line-content">    <span class=3D"html-tag">&lt;title&gt;</span>Mo=
+dule 2 Final Project (Example Website)<span class=3D"html-tag">&lt;/title&g=
+t;</span></td></tr><tr><td class=3D"line-number" value=3D"13"></td><td clas=
+s=3D"line-content">  <span class=3D"html-tag">&lt;/head&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"14"></td><td class=3D"line-content"=
+>  <span class=3D"html-tag">&lt;body&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"15"></td><td class=3D"line-content">    <span class=3D=
+"html-tag">&lt;section <span class=3D"html-attribute-name">id</span>=3D"<sp=
+an class=3D"html-attribute-value">landing</span>"&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"16"></td><td class=3D"line-content">     =
+ <span class=3D"html-tag">&lt;nav&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"17"></td><td class=3D"line-content">        <span class=
+=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<=
+span class=3D"html-attribute-value">row nav__row</span>"&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"18"></td><td class=3D"line-content=
+">          <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-=
+name">class</span>=3D"<span class=3D"html-attribute-value">nav__logo</span>=
+"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"19"></td><td c=
+lass=3D"line-content">            <span class=3D"html-tag">&lt;img</span></=
+td></tr><tr><td class=3D"line-number" value=3D"20"></td><td class=3D"line-c=
+ontent"><span class=3D"html-tag">              <span class=3D"html-attribut=
+e-name">class</span>=3D"<span class=3D"html-attribute-value">nav__logo--img=
+</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"21"></td><t=
+d class=3D"line-content"><span class=3D"html-tag">              <span class=
+=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attribute-value htm=
+l-resource-link" target=3D"_blank" href=3D"https://module-2-fp-example-webs=
+ite.vercel.app/assets/logo.2c489fc453a1783cbadacf914efa3df6.svg" rel=3D"nor=
+eferrer noopener">./assets/logo.2c489fc453a1783cbadacf914efa3df6.svg</a>"</=
+span></td></tr><tr><td class=3D"line-number" value=3D"22"></td><td class=3D=
+"line-content"><span class=3D"html-tag">              <span class=3D"html-a=
+ttribute-name">alt</span>=3D"<span class=3D"html-attribute-value">LOGO</spa=
+n>"</span></td></tr><tr><td class=3D"line-number" value=3D"23"></td><td cla=
+ss=3D"line-content"><span class=3D"html-tag">            /&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"24"></td><td class=3D"line-conte=
+nt">            <span class=3D"html-tag">&lt;div <span class=3D"html-attrib=
+ute-name">class</span>=3D"<span class=3D"html-attribute-value">nav__logo--t=
+itle</span>"&gt;</span>Treact<span class=3D"html-tag">&lt;/div&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"25"></td><td class=3D"line-c=
+ontent">          <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"26"></td><td class=3D"line-content">   =
+       <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name"=
+>class</span>=3D"<span class=3D"html-attribute-value">nav__links</span>"&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"27"></td><td class=
+=3D"line-content">            <span class=3D"html-tag">&lt;a <span class=3D=
+"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-=
+external-link" target=3D"_blank" href=3D"https://module-2-fp-example-websit=
+e.vercel.app/#" rel=3D"noreferrer noopener">#</a>" <span class=3D"html-attr=
+ibute-name">class</span>=3D"<span class=3D"html-attribute-value">nav__link<=
+/span>"&gt;</span>About<span class=3D"html-tag">&lt;/a&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"28"></td><td class=3D"line-content">=
+            <span class=3D"html-tag">&lt;a <span class=3D"html-attribute-na=
+me">href</span>=3D"<a class=3D"html-attribute-value html-external-link" tar=
+get=3D"_blank" href=3D"https://module-2-fp-example-website.vercel.app/#" re=
+l=3D"noreferrer noopener">#</a>" <span class=3D"html-attribute-name">class<=
+/span>=3D"<span class=3D"html-attribute-value">nav__link</span>"&gt;</span>=
+Blog<span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"29"></td><td class=3D"line-content">            <span c=
+lass=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"=
+<a class=3D"html-attribute-value html-external-link" target=3D"_blank" href=
+=3D"https://module-2-fp-example-website.vercel.app/#" rel=3D"noreferrer noo=
+pener">#</a>" <span class=3D"html-attribute-name">class</span>=3D"<span cla=
+ss=3D"html-attribute-value">nav__link</span>"&gt;</span>Pricing<span class=
+=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"30"></td><td class=3D"line-content">            <span class=3D"html-ta=
+g">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"htm=
+l-attribute-value html-external-link" target=3D"_blank" href=3D"https://mod=
+ule-2-fp-example-website.vercel.app/#" rel=3D"noreferrer noopener">#</a>" <=
+span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attr=
+ibute-value">nav__link</span>"&gt;</span>Contact Us<span class=3D"html-tag"=
+>&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"31"></td=
+><td class=3D"line-content">            <span class=3D"html-tag">&lt;a <spa=
+n class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-v=
+alue html-external-link" target=3D"_blank" href=3D"https://module-2-fp-exam=
+ple-website.vercel.app/#" rel=3D"noreferrer noopener">#</a>" <span class=3D=
+"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">=
+nav__link login</span>"&gt;</span>Login<span class=3D"html-tag">&lt;/a&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"32"></td><td class=
+=3D"line-content">            <span class=3D"html-tag">&lt;a <span class=3D=
+"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-=
+external-link" target=3D"_blank" href=3D"https://module-2-fp-example-websit=
+e.vercel.app/#" rel=3D"noreferrer noopener">#</a>" <span class=3D"html-attr=
+ibute-name">class</span>=3D"<span class=3D"html-attribute-value">nav__link =
+nav__link--primary</span>"&gt;</span>Sign Up<span class=3D"html-tag">&lt;/a=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"33"></td><td cl=
+ass=3D"line-content">          <span class=3D"html-tag">&lt;/div&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"34"></td><td class=3D"line=
+-content">          <span class=3D"html-tag">&lt;button <span class=3D"html=
+-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">btn__=
+menu</span>" <span class=3D"html-attribute-name">onclick</span>=3D"<span cl=
+ass=3D"html-attribute-value">openMenu()</span>"&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"35"></td><td class=3D"line-content">       =
+     <span class=3D"html-tag">&lt;svg</span></td></tr><tr><td class=3D"line=
+-number" value=3D"36"></td><td class=3D"line-content"><span class=3D"html-t=
+ag">              <span class=3D"html-attribute-name">xmlns</span>=3D"<span=
+ class=3D"html-attribute-value">http://www.w3.org/2000/svg</span>"</span></=
+td></tr><tr><td class=3D"line-number" value=3D"37"></td><td class=3D"line-c=
+ontent"><span class=3D"html-tag">              <span class=3D"html-attribut=
+e-name">width</span>=3D"<span class=3D"html-attribute-value">24</span>"</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"38"></td><td class=3D"l=
+ine-content"><span class=3D"html-tag">              <span class=3D"html-att=
+ribute-name">height</span>=3D"<span class=3D"html-attribute-value">24</span=
+>"</span></td></tr><tr><td class=3D"line-number" value=3D"39"></td><td clas=
+s=3D"line-content"><span class=3D"html-tag">              <span class=3D"ht=
+ml-attribute-name">viewBox</span>=3D"<span class=3D"html-attribute-value">0=
+ 0 24 24</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"40"=
+></td><td class=3D"line-content"><span class=3D"html-tag">              <sp=
+an class=3D"html-attribute-name">fill</span>=3D"<span class=3D"html-attribu=
+te-value">none</span>"</span></td></tr><tr><td class=3D"line-number" value=
+=3D"41"></td><td class=3D"line-content"><span class=3D"html-tag">          =
+    <span class=3D"html-attribute-name">stroke</span>=3D"<span class=3D"htm=
+l-attribute-value">currentColor</span>"</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"42"></td><td class=3D"line-content"><span class=3D"html=
+-tag">              <span class=3D"html-attribute-name">stroke-width</span>=
+=3D"<span class=3D"html-attribute-value">2</span>"</span></td></tr><tr><td =
+class=3D"line-number" value=3D"43"></td><td class=3D"line-content"><span cl=
+ass=3D"html-tag">              <span class=3D"html-attribute-name">stroke-l=
+inecap</span>=3D"<span class=3D"html-attribute-value">round</span>"</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"44"></td><td class=3D"line-=
+content"><span class=3D"html-tag">              <span class=3D"html-attribu=
+te-name">stroke-linejoin</span>=3D"<span class=3D"html-attribute-value">rou=
+nd</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"45"></td>=
+<td class=3D"line-content"><span class=3D"html-tag">              <span cla=
+ss=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-va=
+lue">btn__menu--svg</span>"</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"46"></td><td class=3D"line-content"><span class=3D"html-tag">      =
+      &gt;</span></td></tr><tr><td class=3D"line-number" value=3D"47"></td>=
+<td class=3D"line-content">              <span class=3D"html-tag">&lt;line =
+<span class=3D"html-attribute-name">x1</span>=3D"<span class=3D"html-attrib=
+ute-value">3</span>" <span class=3D"html-attribute-name">y1</span>=3D"<span=
+ class=3D"html-attribute-value">12</span>" <span class=3D"html-attribute-na=
+me">x2</span>=3D"<span class=3D"html-attribute-value">21</span>" <span clas=
+s=3D"html-attribute-name">y2</span>=3D"<span class=3D"html-attribute-value"=
+>12</span>"&gt;</span><span class=3D"html-tag">&lt;/line&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"48"></td><td class=3D"line-content=
+">              <span class=3D"html-tag">&lt;line <span class=3D"html-attri=
+bute-name">x1</span>=3D"<span class=3D"html-attribute-value">3</span>" <spa=
+n class=3D"html-attribute-name">y1</span>=3D"<span class=3D"html-attribute-=
+value">6</span>" <span class=3D"html-attribute-name">x2</span>=3D"<span cla=
+ss=3D"html-attribute-value">21</span>" <span class=3D"html-attribute-name">=
+y2</span>=3D"<span class=3D"html-attribute-value">6</span>"&gt;</span><span=
+ class=3D"html-tag">&lt;/line&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"49"></td><td class=3D"line-content">              <span class=
+=3D"html-tag">&lt;line <span class=3D"html-attribute-name">x1</span>=3D"<sp=
+an class=3D"html-attribute-value">3</span>" <span class=3D"html-attribute-n=
+ame">y1</span>=3D"<span class=3D"html-attribute-value">18</span>" <span cla=
+ss=3D"html-attribute-name">x2</span>=3D"<span class=3D"html-attribute-value=
+">21</span>" <span class=3D"html-attribute-name">y2</span>=3D"<span class=
+=3D"html-attribute-value">18</span>"&gt;</span><span class=3D"html-tag">&lt=
+;/line&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"50"></td>=
+<td class=3D"line-content">            <span class=3D"html-tag">&lt;/svg&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"51"></td><td class=
+=3D"line-content">          <span class=3D"html-tag">&lt;/button&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"52"></td><td class=3D"line=
+-content">        <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"53"></td><td class=3D"line-content">   =
+   <span class=3D"html-tag">&lt;/nav&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"54"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<=
+span class=3D"html-attribute-value">menu</span>"&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"55"></td><td class=3D"line-content">      =
+  <span class=3D"html-tag">&lt;button <span class=3D"html-attribute-name">c=
+lass</span>=3D"<span class=3D"html-attribute-value">btn__menu btn__menu--cl=
+ose</span>" <span class=3D"html-attribute-name">onclick</span>=3D"<span cla=
+ss=3D"html-attribute-value">closeMenu()</span>"&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"56"></td><td class=3D"line-content">       =
+   <span class=3D"html-tag">&lt;svg</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"57"></td><td class=3D"line-content"><span class=3D"html-tag=
+">            <span class=3D"html-attribute-name">xmlns</span>=3D"<span cla=
+ss=3D"html-attribute-value">http://www.w3.org/2000/svg</span>"</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"58"></td><td class=3D"line-conte=
+nt"><span class=3D"html-tag">            <span class=3D"html-attribute-name=
+">width</span>=3D"<span class=3D"html-attribute-value">24</span>"</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"59"></td><td class=3D"line-co=
+ntent"><span class=3D"html-tag">            <span class=3D"html-attribute-n=
+ame">height</span>=3D"<span class=3D"html-attribute-value">24</span>"</span=
+></td></tr><tr><td class=3D"line-number" value=3D"60"></td><td class=3D"lin=
+e-content"><span class=3D"html-tag">            <span class=3D"html-attribu=
+te-name">viewBox</span>=3D"<span class=3D"html-attribute-value">0 0 24 24</=
+span>"</span></td></tr><tr><td class=3D"line-number" value=3D"61"></td><td =
+class=3D"line-content"><span class=3D"html-tag">            <span class=3D"=
+html-attribute-name">fill</span>=3D"<span class=3D"html-attribute-value">no=
+ne</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"62"></td>=
+<td class=3D"line-content"><span class=3D"html-tag">            <span class=
+=3D"html-attribute-name">stroke</span>=3D"<span class=3D"html-attribute-val=
+ue">currentColor</span>"</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"63"></td><td class=3D"line-content"><span class=3D"html-tag">         =
+   <span class=3D"html-attribute-name">stroke-width</span>=3D"<span class=
+=3D"html-attribute-value">2</span>"</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"64"></td><td class=3D"line-content"><span class=3D"html-tag=
+">            <span class=3D"html-attribute-name">stroke-linecap</span>=3D"=
+<span class=3D"html-attribute-value">round</span>"</span></td></tr><tr><td =
+class=3D"line-number" value=3D"65"></td><td class=3D"line-content"><span cl=
+ass=3D"html-tag">            <span class=3D"html-attribute-name">stroke-lin=
+ejoin</span>=3D"<span class=3D"html-attribute-value">round</span>"</span></=
+td></tr><tr><td class=3D"line-number" value=3D"66"></td><td class=3D"line-c=
+ontent"><span class=3D"html-tag">            <span class=3D"html-attribute-=
+name">class</span>=3D"<span class=3D"html-attribute-value">light___StyledCl=
+oseIcon-lj69nl-14 fASujC</span>"</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"67"></td><td class=3D"line-content"><span class=3D"html-tag"> =
+         &gt;</span></td></tr><tr><td class=3D"line-number" value=3D"68"></=
+td><td class=3D"line-content">            <span class=3D"html-tag">&lt;line=
+ <span class=3D"html-attribute-name">x1</span>=3D"<span class=3D"html-attri=
+bute-value">18</span>" <span class=3D"html-attribute-name">y1</span>=3D"<sp=
+an class=3D"html-attribute-value">6</span>" <span class=3D"html-attribute-n=
+ame">x2</span>=3D"<span class=3D"html-attribute-value">6</span>" <span clas=
+s=3D"html-attribute-name">y2</span>=3D"<span class=3D"html-attribute-value"=
+>18</span>"&gt;</span><span class=3D"html-tag">&lt;/line&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"69"></td><td class=3D"line-content=
+">            <span class=3D"html-tag">&lt;line <span class=3D"html-attribu=
+te-name">x1</span>=3D"<span class=3D"html-attribute-value">6</span>" <span =
+class=3D"html-attribute-name">y1</span>=3D"<span class=3D"html-attribute-va=
+lue">6</span>" <span class=3D"html-attribute-name">x2</span>=3D"<span class=
+=3D"html-attribute-value">18</span>" <span class=3D"html-attribute-name">y2=
+</span>=3D"<span class=3D"html-attribute-value">18</span>"&gt;</span><span =
+class=3D"html-tag">&lt;/line&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"70"></td><td class=3D"line-content">          <span class=3D"h=
+tml-tag">&lt;/svg&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"71"></td><td class=3D"line-content">        <span class=3D"html-tag">&l=
+t;/button&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"72"></=
+td><td class=3D"line-content">        <span class=3D"html-tag">&lt;div <spa=
+n class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribu=
+te-value">menu__links</span>"&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"73"></td><td class=3D"line-content">          <span class=3D"=
+html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=
+=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"http=
+s://module-2-fp-example-website.vercel.app/#about" rel=3D"noreferrer noopen=
+er">#about</a>" <span class=3D"html-attribute-name">class</span>=3D"<span c=
+lass=3D"html-attribute-value">menu__link</span>" <span class=3D"html-attrib=
+ute-name">onclick</span>=3D"<span class=3D"html-attribute-value">closeMenu(=
+)</span>"&gt;</span>About<span class=3D"html-tag">&lt;/a&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"74"></td><td class=3D"line-content=
+">          <span class=3D"html-tag">&lt;a <span class=3D"html-attribute-na=
+me">href</span>=3D"<a class=3D"html-attribute-value html-external-link" tar=
+get=3D"_blank" href=3D"https://module-2-fp-example-website.vercel.app/#blog=
+" rel=3D"noreferrer noopener">#blog</a>" <span class=3D"html-attribute-name=
+">class</span>=3D"<span class=3D"html-attribute-value">menu__link</span>" <=
+span class=3D"html-attribute-name">onclick</span>=3D"<span class=3D"html-at=
+tribute-value">closeMenu()</span>"&gt;</span>Blog<span class=3D"html-tag">&=
+lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"75"></td><=
+td class=3D"line-content">          <span class=3D"html-tag">&lt;a <span cl=
+ass=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value=
+ html-external-link" target=3D"_blank" href=3D"https://module-2-fp-example-=
+website.vercel.app/#pricing" rel=3D"noreferrer noopener">#pricing</a>" <spa=
+n class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribu=
+te-value">menu__link</span>" <span class=3D"html-attribute-name">onclick</s=
+pan>=3D"<span class=3D"html-attribute-value">closeMenu()</span>"</span></td=
+></tr><tr><td class=3D"line-number" value=3D"76"></td><td class=3D"line-con=
+tent"><span class=3D"html-tag">            &gt;</span>Pricing<span class=3D=
+"html-tag">&lt;/a</span></td></tr><tr><td class=3D"line-number" value=3D"77=
+"></td><td class=3D"line-content"><span class=3D"html-tag">          &gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"78"></td><td class=3D=
+"line-content">          <span class=3D"html-tag">&lt;a <span class=3D"html=
+-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-exter=
+nal-link" target=3D"_blank" href=3D"https://module-2-fp-example-website.ver=
+cel.app/#contact__us" rel=3D"noreferrer noopener">#contact__us</a>" <span c=
+lass=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-=
+value">menu__link</span>" <span class=3D"html-attribute-name">onclick</span=
+>=3D"<span class=3D"html-attribute-value">closeMenu()</span>"</span></td></=
+tr><tr><td class=3D"line-number" value=3D"79"></td><td class=3D"line-conten=
+t"><span class=3D"html-tag">            &gt;</span>Contact Us<span class=3D=
+"html-tag">&lt;/a</span></td></tr><tr><td class=3D"line-number" value=3D"80=
+"></td><td class=3D"line-content"><span class=3D"html-tag">          &gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"81"></td><td class=3D=
+"line-content">          <span class=3D"html-tag">&lt;a <span class=3D"html=
+-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-exter=
+nal-link" target=3D"_blank" href=3D"https://module-2-fp-example-website.ver=
+cel.app/#login" rel=3D"noreferrer noopener">#login</a>" <span class=3D"html=
+-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">menu_=
+_link</span>" <span class=3D"html-attribute-name">onclick</span>=3D"<span c=
+lass=3D"html-attribute-value">closeMenu()</span>"&gt;</span>Login<span clas=
+s=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"82"></td><td class=3D"line-content">          <span class=3D"html-tag=
+">&lt;a</span></td></tr><tr><td class=3D"line-number" value=3D"83"></td><td=
+ class=3D"line-content"><span class=3D"html-tag">            <span class=3D=
+"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-=
+external-link" target=3D"_blank" href=3D"https://module-2-fp-example-websit=
+e.vercel.app/#signup" rel=3D"noreferrer noopener">#signup</a>"</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"84"></td><td class=3D"line-conte=
+nt"><span class=3D"html-tag">            <span class=3D"html-attribute-name=
+">class</span>=3D"<span class=3D"html-attribute-value">menu__link menu__lin=
+k--primary</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"8=
+5"></td><td class=3D"line-content"><span class=3D"html-tag">            <sp=
+an class=3D"html-attribute-name">onclick</span>=3D"<span class=3D"html-attr=
+ibute-value">closeMenu()</span>"</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"86"></td><td class=3D"line-content"><span class=3D"html-tag"> =
+           &gt;</span>Sign up<span class=3D"html-tag">&lt;/a</span></td></t=
+r><tr><td class=3D"line-number" value=3D"87"></td><td class=3D"line-content=
+"><span class=3D"html-tag">          &gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"88"></td><td class=3D"line-content">        <span cla=
+ss=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"89"></td><td class=3D"line-content">      <span class=3D"html-tag"=
+>&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"90"></=
+td><td class=3D"line-content">      <span class=3D"html-tag">&lt;header&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"91"></td><td class=
+=3D"line-content">        <span class=3D"html-tag">&lt;div <span class=3D"h=
+tml-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">co=
+ntainer</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+92"></td><td class=3D"line-content">          <span class=3D"html-tag">&lt;=
+div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html=
+-attribute-value">row</span>"&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"93"></td><td class=3D"line-content">            <span class=
+=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<=
+span class=3D"html-attribute-value">header__description</span>"&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"94"></td><td class=3D"line-=
+content">              <span class=3D"html-tag">&lt;h1&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"95"></td><td class=3D"line-content">=
+                Beautiful React Templates <span class=3D"html-tag">&lt;span=
+ <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-at=
+tribute-value">purple</span>"&gt;</span>for you.<span class=3D"html-tag">&l=
+t;/span&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"96"></td=
+><td class=3D"line-content">              <span class=3D"html-tag">&lt;/h1&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"97"></td><td cla=
+ss=3D"line-content">              <span class=3D"html-tag">&lt;p <span clas=
+s=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-val=
+ue">header__description--para</span>"&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"98"></td><td class=3D"line-content">                O=
+ur templates are easy to setup, understand and customize. Fully</td></tr><t=
+r><td class=3D"line-number" value=3D"99"></td><td class=3D"line-content">  =
+              modular components with a variety of pages and components.</t=
+d></tr><tr><td class=3D"line-number" value=3D"100"></td><td class=3D"line-c=
+ontent">              <span class=3D"html-tag">&lt;/p&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"101"></td><td class=3D"line-content">=
+              <span class=3D"html-tag">&lt;div <span class=3D"html-attribut=
+e-name">class</span>=3D"<span class=3D"html-attribute-value">header__email<=
+/span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"102"></t=
+d><td class=3D"line-content">                <span class=3D"html-tag">&lt;i=
+nput</span></td></tr><tr><td class=3D"line-number" value=3D"103"></td><td c=
+lass=3D"line-content"><span class=3D"html-tag">                  <span clas=
+s=3D"html-attribute-name">type</span>=3D"<span class=3D"html-attribute-valu=
+e">text</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"104"=
+></td><td class=3D"line-content"><span class=3D"html-tag">                 =
+ <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-at=
+tribute-value">header__email--input</span>"</span></td></tr><tr><td class=
+=3D"line-number" value=3D"105"></td><td class=3D"line-content"><span class=
+=3D"html-tag">                  <span class=3D"html-attribute-name">placeho=
+lder</span>=3D"<span class=3D"html-attribute-value">Your E-mail Address</sp=
+an>"</span></td></tr><tr><td class=3D"line-number" value=3D"106"></td><td c=
+lass=3D"line-content"><span class=3D"html-tag">                /&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"107"></td><td class=3D"lin=
+e-content">                <span class=3D"html-tag">&lt;button <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">header__email--btn</span>"&gt;</span>Get Started<span class=3D"html-tag"=
+>&lt;/button&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"108=
+"></td><td class=3D"line-content">              <span class=3D"html-tag">&l=
+t;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"109"></td=
+><td class=3D"line-content">              <span class=3D"html-tag">&lt;p <s=
+pan class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attri=
+bute-value">header__customers--title</span>"&gt;</span>OUR TRUSTED CUSTOMER=
+S<span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"110"></td><td class=3D"line-content">              <span c=
+lass=3D"html-tag">&lt;img</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"111"></td><td class=3D"line-content"><span class=3D"html-tag">       =
+         <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html=
+-attribute-value html-resource-link" target=3D"_blank" href=3D"https://modu=
+le-2-fp-example-website.vercel.app/assets/customers-logo-strip.680ac7c2e8ae=
+28161d2c.png" rel=3D"noreferrer noopener">./assets/customers-logo-strip.680=
+ac7c2e8ae28161d2c.png</a>"</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"112"></td><td class=3D"line-content"><span class=3D"html-tag">      =
+          <span class=3D"html-attribute-name">class</span>=3D"<span class=
+=3D"html-attribute-value">header__customers</span>"</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"113"></td><td class=3D"line-content"><span =
+class=3D"html-tag">              /&gt;</span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"114"></td><td class=3D"line-content">            <span c=
+lass=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"115"></td><td class=3D"line-content">            <span class=3D"=
+html-tag">&lt;figure <span class=3D"html-attribute-name">class</span>=3D"<s=
+pan class=3D"html-attribute-value">header__img--wrapper</span>"&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"116"></td><td class=3D"line=
+-content">              <span class=3D"html-tag">&lt;img</span></td></tr><t=
+r><td class=3D"line-number" value=3D"117"></td><td class=3D"line-content"><=
+span class=3D"html-tag">                <span class=3D"html-attribute-name"=
+>src</span>=3D"<a class=3D"html-attribute-value html-resource-link" target=
+=3D"_blank" href=3D"https://module-2-fp-example-website.vercel.app/assets/d=
+esign-illustration-2.6da6a00b20c07c4a9b65d1870679e1b8.svg" rel=3D"noreferre=
+r noopener">./assets/design-illustration-2.6da6a00b20c07c4a9b65d1870679e1b8=
+.svg</a>"</span></td></tr><tr><td class=3D"line-number" value=3D"118"></td>=
+<td class=3D"line-content"><span class=3D"html-tag">                <span c=
+lass=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-=
+value">header__img</span>"</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"119"></td><td class=3D"line-content"><span class=3D"html-tag">      =
+        /&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"120"><=
+/td><td class=3D"line-content">            <span class=3D"html-tag">&lt;/fi=
+gure&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"121"></td><=
+td class=3D"line-content">          <span class=3D"html-tag">&lt;/div&gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"122"></td><td class=
+=3D"line-content">        <span class=3D"html-tag">&lt;/div&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"123"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;/header&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"124"></td><td class=3D"line-content">    <=
+span class=3D"html-tag">&lt;/section&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"125"></td><td class=3D"line-content">    <span class=
+=3D"html-tag">&lt;main&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"126"></td><td class=3D"line-content">      <span class=3D"html-tag">=
+&lt;section <span class=3D"html-attribute-name">id</span>=3D"<span class=3D=
+"html-attribute-value">features</span>"&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"127"></td><td class=3D"line-content">        <spa=
+n class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</spa=
+n>=3D"<span class=3D"html-attribute-value">container</span>"&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"128"></td><td class=3D"line-co=
+ntent">          <span class=3D"html-tag">&lt;div <span class=3D"html-attri=
+bute-name">class</span>=3D"<span class=3D"html-attribute-value">row__narrow=
+</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"129"></=
+td><td class=3D"line-content">            <span class=3D"html-tag">&lt;h4 <=
+span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attr=
+ibute-value">section__tag</span>"&gt;</span>FEATURES<span class=3D"html-tag=
+">&lt;/h4&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"130"><=
+/td><td class=3D"line-content">            <span class=3D"html-tag">&lt;h2 =
+<span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-att=
+ribute-value">section__title</span>"&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"131"></td><td class=3D"line-content">              We =
+Have Amazing <span class=3D"html-tag">&lt;span <span class=3D"html-attribut=
+e-name">class</span>=3D"<span class=3D"html-attribute-value">purple</span>"=
+&gt;</span>Service.<span class=3D"html-tag">&lt;/span&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"132"></td><td class=3D"line-content">=
+            <span class=3D"html-tag">&lt;/h2&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"133"></td><td class=3D"line-content">         =
+   <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">cla=
+ss</span>=3D"<span class=3D"html-attribute-value">section__para</span>"&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"134"></td><td class=
+=3D"line-content">              Lorem ipsum dolor sit amet, consectetur adi=
+piscing elit, sed do</td></tr><tr><td class=3D"line-number" value=3D"135"><=
+/td><td class=3D"line-content">              eiusmod tempor incididunt ut l=
+abore et dolore magna aliqua.</td></tr><tr><td class=3D"line-number" value=
+=3D"136"></td><td class=3D"line-content">            <span class=3D"html-ta=
+g">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"137"=
+></td><td class=3D"line-content">            <span class=3D"html-tag">&lt;d=
+iv <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-=
+attribute-value">features</span>"&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"138"></td><td class=3D"line-content">              <span =
+class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">feature</span>"&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"139"></td><td class=3D"line-conten=
+t">                <span class=3D"html-tag">&lt;div <span class=3D"html-att=
+ribute-name">class</span>=3D"<span class=3D"html-attribute-value">feature__=
+row</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"140"=
+></td><td class=3D"line-content">                  <span class=3D"html-tag"=
+>&lt;figure <span class=3D"html-attribute-name">class</span>=3D"<span class=
+=3D"html-attribute-value">feature__img--wrapper</span>"&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"141"></td><td class=3D"line-content=
+">                    <span class=3D"html-tag">&lt;img</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"142"></td><td class=3D"line-content"><sp=
+an class=3D"html-tag">                      <span class=3D"html-attribute-n=
+ame">src</span>=3D"<a class=3D"html-attribute-value html-resource-link" tar=
+get=3D"_blank" href=3D"https://module-2-fp-example-website.vercel.app/asset=
+s/shield-icon.daefe14b320b14fbd9cbd18908ac93ec.svg" rel=3D"noreferrer noope=
+ner">./assets/shield-icon.daefe14b320b14fbd9cbd18908ac93ec.svg</a>"</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"143"></td><td class=3D"line=
+-content"><span class=3D"html-tag">                      <span class=3D"htm=
+l-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">feat=
+ure__img</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"144=
+"></td><td class=3D"line-content"><span class=3D"html-tag">                =
+    /&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"145"></td>=
+<td class=3D"line-content">                  <span class=3D"html-tag">&lt;/=
+figure&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"146"></td=
+><td class=3D"line-content">                  <span class=3D"html-tag">&lt;=
+div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html=
+-attribute-value">feature__text</span>"&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"147"></td><td class=3D"line-content">            =
+        <span class=3D"html-tag">&lt;h2 <span class=3D"html-attribute-name"=
+>class</span>=3D"<span class=3D"html-attribute-value">feature__title</span>=
+"&gt;</span>Secure<span class=3D"html-tag">&lt;/h2&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"148"></td><td class=3D"line-content">   =
+                 <span class=3D"html-tag">&lt;p <span class=3D"html-attribu=
+te-name">class</span>=3D"<span class=3D"html-attribute-value">feature__para=
+</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"149"></=
+td><td class=3D"line-content">                      Lorem ipsum donor amet =
+siti ceali ut enim ad minim veniam,</td></tr><tr><td class=3D"line-number" =
+value=3D"150"></td><td class=3D"line-content">                      quis no=
+strud.</td></tr><tr><td class=3D"line-number" value=3D"151"></td><td class=
+=3D"line-content">                    <span class=3D"html-tag">&lt;/p&gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"152"></td><td class=
+=3D"line-content">                  <span class=3D"html-tag">&lt;/div&gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"153"></td><td class=
+=3D"line-content">                <span class=3D"html-tag">&lt;/div&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"154"></td><td class=3D"=
+line-content">              <span class=3D"html-tag">&lt;/div&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"155"></td><td class=3D"line-c=
+ontent">              <span class=3D"html-tag">&lt;div <span class=3D"html-=
+attribute-name">class</span>=3D"<span class=3D"html-attribute-value">featur=
+e</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"156"><=
+/td><td class=3D"line-content">                <span class=3D"html-tag">&lt=
+;div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"htm=
+l-attribute-value">feature__row</span>"&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"157"></td><td class=3D"line-content">            =
+      <span class=3D"html-tag">&lt;figure <span class=3D"html-attribute-nam=
+e">class</span>=3D"<span class=3D"html-attribute-value">feature__img--wrapp=
+er</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"158">=
+</td><td class=3D"line-content">                    <span class=3D"html-tag=
+">&lt;img</span></td></tr><tr><td class=3D"line-number" value=3D"159"></td>=
+<td class=3D"line-content"><span class=3D"html-tag">                      <=
+span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attribute=
+-value html-resource-link" target=3D"_blank" href=3D"https://module-2-fp-ex=
+ample-website.vercel.app/assets/support-icon.f9253ffa8cb6ffde5bbaa05eb51363=
+75.svg" rel=3D"noreferrer noopener">./assets/support-icon.f9253ffa8cb6ffde5=
+bbaa05eb5136375.svg</a>"</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"160"></td><td class=3D"line-content"><span class=3D"html-tag">        =
+              <span class=3D"html-attribute-name">class</span>=3D"<span cla=
+ss=3D"html-attribute-value">feature__img</span>"</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"161"></td><td class=3D"line-content"><span cla=
+ss=3D"html-tag">                    /&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"162"></td><td class=3D"line-content">                =
+  <span class=3D"html-tag">&lt;/figure&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"163"></td><td class=3D"line-content">               =
+   <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">cla=
+ss</span>=3D"<span class=3D"html-attribute-value">feature__text</span>"&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"164"></td><td class=
+=3D"line-content">                    <span class=3D"html-tag">&lt;h2 <span=
+ class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribut=
+e-value">feature__title</span>"&gt;</span>24/7 Support<span class=3D"html-t=
+ag">&lt;/h2&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"165"=
+></td><td class=3D"line-content">                    <span class=3D"html-ta=
+g">&lt;p <span class=3D"html-attribute-name">class</span>=3D"<span class=3D=
+"html-attribute-value">feature__para</span>"&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"166"></td><td class=3D"line-content">         =
+             Lorem ipsum donor amet siti ceali ut enim ad minim veniam,</td=
+></tr><tr><td class=3D"line-number" value=3D"167"></td><td class=3D"line-co=
+ntent">                      quis nostrud.</td></tr><tr><td class=3D"line-n=
+umber" value=3D"168"></td><td class=3D"line-content">                    <s=
+pan class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"169"></td><td class=3D"line-content">                  <span =
+class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"170"></td><td class=3D"line-content">                <span clas=
+s=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"171"></td><td class=3D"line-content">              <span class=3D"h=
+tml-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"172"></td><td class=3D"line-content">              <span class=3D"html-=
+tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span clas=
+s=3D"html-attribute-value">feature</span>"&gt;</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"173"></td><td class=3D"line-content">           =
+     <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">c=
+lass</span>=3D"<span class=3D"html-attribute-value">feature__row</span>"&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"174"></td><td clas=
+s=3D"line-content">                  <span class=3D"html-tag">&lt;figure <s=
+pan class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attri=
+bute-value">feature__img--wrapper</span>"&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"175"></td><td class=3D"line-content">            =
+        <span class=3D"html-tag">&lt;img</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"176"></td><td class=3D"line-content"><span class=3D"ht=
+ml-tag">                      <span class=3D"html-attribute-name">src</span=
+>=3D"<a class=3D"html-attribute-value html-resource-link" target=3D"_blank"=
+ href=3D"https://module-2-fp-example-website.vercel.app/assets/customize-ic=
+on.367468c90fd796009b97fbfba67b2c6a.svg" rel=3D"noreferrer noopener">/asset=
+s/customize-icon.367468c90fd796009b97fbfba67b2c6a.svg</a>"</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"177"></td><td class=3D"line-content"=
+><span class=3D"html-tag">                      <span class=3D"html-attribu=
+te-name">class</span>=3D"<span class=3D"html-attribute-value">feature__img<=
+/span>"</span></td></tr><tr><td class=3D"line-number" value=3D"178"></td><t=
+d class=3D"line-content"><span class=3D"html-tag">                    /&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"179"></td><td class=
+=3D"line-content">                  <span class=3D"html-tag">&lt;/figure&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"180"></td><td clas=
+s=3D"line-content">                  <span class=3D"html-tag">&lt;div <span=
+ class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribut=
+e-value">feature__text</span>"&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"181"></td><td class=3D"line-content">                    <sp=
+an class=3D"html-tag">&lt;h2 <span class=3D"html-attribute-name">class</spa=
+n>=3D"<span class=3D"html-attribute-value">feature__title</span>"&gt;</span=
+>Customizable<span class=3D"html-tag">&lt;/h2&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"182"></td><td class=3D"line-content">        =
+            <span class=3D"html-tag">&lt;p <span class=3D"html-attribute-na=
+me">class</span>=3D"<span class=3D"html-attribute-value">feature__para</spa=
+n>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"183"></td><t=
+d class=3D"line-content">                      Lorem ipsum donor amet siti =
+ceali ut enim ad minim veniam,</td></tr><tr><td class=3D"line-number" value=
+=3D"184"></td><td class=3D"line-content">                      quis nostrud=
+.</td></tr><tr><td class=3D"line-number" value=3D"185"></td><td class=3D"li=
+ne-content">                    <span class=3D"html-tag">&lt;/p&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"186"></td><td class=3D"line=
+-content">                  <span class=3D"html-tag">&lt;/div&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"187"></td><td class=3D"line-c=
+ontent">                <span class=3D"html-tag">&lt;/div&gt;</span></td></=
+tr><tr><td class=3D"line-number" value=3D"188"></td><td class=3D"line-conte=
+nt">              <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"189"></td><td class=3D"line-content">  =
+            <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-=
+name">class</span>=3D"<span class=3D"html-attribute-value">feature</span>"&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"190"></td><td cl=
+ass=3D"line-content">                <span class=3D"html-tag">&lt;div <span=
+ class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribut=
+e-value">feature__row</span>"&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"191"></td><td class=3D"line-content">                  <span =
+class=3D"html-tag">&lt;figure <span class=3D"html-attribute-name">class</sp=
+an>=3D"<span class=3D"html-attribute-value">feature__img--wrapper</span>"&g=
+t;</span></td></tr><tr><td class=3D"line-number" value=3D"192"></td><td cla=
+ss=3D"line-content">                    <span class=3D"html-tag">&lt;img</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"193"></td><td class=3D=
+"line-content"><span class=3D"html-tag">                      <span class=
+=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attribute-value htm=
+l-resource-link" target=3D"_blank" href=3D"https://module-2-fp-example-webs=
+ite.vercel.app/assets/reliable-icon.1367510a8f0a1bec76dc425d25f92f43.svg" r=
+el=3D"noreferrer noopener">/assets/reliable-icon.1367510a8f0a1bec76dc425d25=
+f92f43.svg</a>"</span></td></tr><tr><td class=3D"line-number" value=3D"194"=
+></td><td class=3D"line-content"><span class=3D"html-tag">                 =
+     <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"htm=
+l-attribute-value">feature__img</span>"</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"195"></td><td class=3D"line-content"><span class=3D"htm=
+l-tag">                    /&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"196"></td><td class=3D"line-content">                  <span c=
+lass=3D"html-tag">&lt;/figure&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"197"></td><td class=3D"line-content">                  <span =
+class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">feature__text</span>"&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"198"></td><td class=3D"line-=
+content">                    <span class=3D"html-tag">&lt;h2 <span class=3D=
+"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">=
+feature__title</span>"&gt;</span>Reliable<span class=3D"html-tag">&lt;/h2&g=
+t;</span></td></tr><tr><td class=3D"line-number" value=3D"199"></td><td cla=
+ss=3D"line-content">                    <span class=3D"html-tag">&lt;p <spa=
+n class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribu=
+te-value">feature__para</span>"&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"200"></td><td class=3D"line-content">                      =
+Lorem ipsum donor amet siti ceali ut enim ad minim veniam,</td></tr><tr><td=
+ class=3D"line-number" value=3D"201"></td><td class=3D"line-content">      =
+                quis nostrud.</td></tr><tr><td class=3D"line-number" value=
+=3D"202"></td><td class=3D"line-content">                    <span class=3D=
+"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"203"></td><td class=3D"line-content">                  <span class=3D"h=
+tml-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"204"></td><td class=3D"line-content">                <span class=3D"htm=
+l-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+205"></td><td class=3D"line-content">              <span class=3D"html-tag"=
+>&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"206"><=
+/td><td class=3D"line-content">              <span class=3D"html-tag">&lt;d=
+iv <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-=
+attribute-value">feature</span>"&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"207"></td><td class=3D"line-content">                <span=
+ class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span=
+>=3D"<span class=3D"html-attribute-value">feature__row</span>"&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"208"></td><td class=3D"line-=
+content">                  <span class=3D"html-tag">&lt;figure <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">feature__img--wrapper</span>"&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"209"></td><td class=3D"line-content">                    <=
+span class=3D"html-tag">&lt;img</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"210"></td><td class=3D"line-content"><span class=3D"html-tag"> =
+                     <span class=3D"html-attribute-name">src</span>=3D"<a c=
+lass=3D"html-attribute-value html-resource-link" target=3D"_blank" href=3D"=
+https://module-2-fp-example-website.vercel.app/assets/fast-icon.dbb971a73d4=
+805d2fc3bcdacdb55beba.svg" rel=3D"noreferrer noopener">/assets/fast-icon.db=
+b971a73d4805d2fc3bcdacdb55beba.svg</a>"</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"211"></td><td class=3D"line-content"><span class=3D"htm=
+l-tag">                      <span class=3D"html-attribute-name">class</spa=
+n>=3D"<span class=3D"html-attribute-value">feature__img</span>"</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"212"></td><td class=3D"line-con=
+tent"><span class=3D"html-tag">                    /&gt;</span></td></tr><t=
+r><td class=3D"line-number" value=3D"213"></td><td class=3D"line-content"> =
+                 <span class=3D"html-tag">&lt;/figure&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"214"></td><td class=3D"line-content">=
+                  <span class=3D"html-tag">&lt;div <span class=3D"html-attr=
+ibute-name">class</span>=3D"<span class=3D"html-attribute-value">feature__t=
+ext</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"215"=
+></td><td class=3D"line-content">                    <span class=3D"html-ta=
+g">&lt;h2 <span class=3D"html-attribute-name">class</span>=3D"<span class=
+=3D"html-attribute-value">feature__title</span>"&gt;</span>Fast<span class=
+=3D"html-tag">&lt;/h2&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"216"></td><td class=3D"line-content">                    <span class=
+=3D"html-tag">&lt;p <span class=3D"html-attribute-name">class</span>=3D"<sp=
+an class=3D"html-attribute-value">feature__para</span>"&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"217"></td><td class=3D"line-content=
+">                      Lorem ipsum donor amet siti ceali ut enim ad minim =
+veniam,</td></tr><tr><td class=3D"line-number" value=3D"218"></td><td class=
+=3D"line-content">                      quis nostrud.</td></tr><tr><td clas=
+s=3D"line-number" value=3D"219"></td><td class=3D"line-content">           =
+         <span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"220"></td><td class=3D"line-content">            =
+      <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"221"></td><td class=3D"line-content">            =
+    <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"222"></td><td class=3D"line-content">              <s=
+pan class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"223"></td><td class=3D"line-content">              <span cl=
+ass=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">feature</span>"&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"224"></td><td class=3D"line-conten=
+t">                <span class=3D"html-tag">&lt;div <span class=3D"html-att=
+ribute-name">class</span>=3D"<span class=3D"html-attribute-value">feature__=
+row</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"225"=
+></td><td class=3D"line-content">                  <span class=3D"html-tag"=
+>&lt;figure <span class=3D"html-attribute-name">class</span>=3D"<span class=
+=3D"html-attribute-value">feature__img--wrapper</span>"&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"226"></td><td class=3D"line-content=
+">                    <span class=3D"html-tag">&lt;img</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"227"></td><td class=3D"line-content"><sp=
+an class=3D"html-tag">                      <span class=3D"html-attribute-n=
+ame">src</span>=3D"<a class=3D"html-attribute-value html-resource-link" tar=
+get=3D"_blank" href=3D"https://module-2-fp-example-website.vercel.app/asset=
+s/simple-icon.673b7e1750b2a4ef32907fc164828d00.svg" rel=3D"noreferrer noope=
+ner">/assets/simple-icon.673b7e1750b2a4ef32907fc164828d00.svg</a>"</span></=
+td></tr><tr><td class=3D"line-number" value=3D"228"></td><td class=3D"line-=
+content"><span class=3D"html-tag">                      <span class=3D"html=
+-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">featu=
+re__img</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"229"=
+></td><td class=3D"line-content"><span class=3D"html-tag">                 =
+   /&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"230"></td><=
+td class=3D"line-content">                  <span class=3D"html-tag">&lt;/f=
+igure&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"231"></td>=
+<td class=3D"line-content">                  <span class=3D"html-tag">&lt;d=
+iv <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-=
+attribute-value">feature__text</span>"&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"232"></td><td class=3D"line-content">               =
+     <span class=3D"html-tag">&lt;h2 <span class=3D"html-attribute-name">cl=
+ass</span>=3D"<span class=3D"html-attribute-value">feature__title</span>"&g=
+t;</span>Easy<span class=3D"html-tag">&lt;/h2&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"233"></td><td class=3D"line-content">        =
+            <span class=3D"html-tag">&lt;p <span class=3D"html-attribute-na=
+me">class</span>=3D"<span class=3D"html-attribute-value">feature__para</spa=
+n>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"234"></td><t=
+d class=3D"line-content">                      Lorem ipsum donor amet siti =
+ceali ut enim ad minim veniam,</td></tr><tr><td class=3D"line-number" value=
+=3D"235"></td><td class=3D"line-content">                      quis nostrud=
+.</td></tr><tr><td class=3D"line-number" value=3D"236"></td><td class=3D"li=
+ne-content">                    <span class=3D"html-tag">&lt;/p&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"237"></td><td class=3D"line=
+-content">                  <span class=3D"html-tag">&lt;/div&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"238"></td><td class=3D"line-c=
+ontent">                <span class=3D"html-tag">&lt;/div&gt;</span></td></=
+tr><tr><td class=3D"line-number" value=3D"239"></td><td class=3D"line-conte=
+nt">              <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"240"></td><td class=3D"line-content">  =
+          <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"241"></td><td class=3D"line-content">          =
+<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"242"></td><td class=3D"line-content">        <span class=
+=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"243"></td><td class=3D"line-content">      <span class=3D"html-tag">=
+&lt;/section&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"244=
+"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;sectio=
+n <span class=3D"html-attribute-name">id</span>=3D"<span class=3D"html-attr=
+ibute-value">quality</span>"&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"245"></td><td class=3D"line-content">        <span class=3D"ht=
+ml-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span c=
+lass=3D"html-attribute-value">container</span>"&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"246"></td><td class=3D"line-content">      =
+    <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">cl=
+ass</span>=3D"<span class=3D"html-attribute-value">row</span>"&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"247"></td><td class=3D"line-=
+content">            <span class=3D"html-tag">&lt;div <span class=3D"html-a=
+ttribute-name">class</span>=3D"<span class=3D"html-attribute-value">quality=
+__description</span>"&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"248"></td><td class=3D"line-content">              <span class=3D"htm=
+l-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span cl=
+ass=3D"html-attribute-value">section__tag</span>"&gt;</span>QUALITY WORK<sp=
+an class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"249"></td><td class=3D"line-content">              <span cla=
+ss=3D"html-tag">&lt;h2 <span class=3D"html-attribute-name">class</span>=3D"=
+<span class=3D"html-attribute-value">section__title</span>"&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"250"></td><td class=3D"line-con=
+tent">                Designed &amp; Developed by</td></tr><tr><td class=3D=
+"line-number" value=3D"251"></td><td class=3D"line-content">               =
+ <span class=3D"html-tag">&lt;span <span class=3D"html-attribute-name">clas=
+s</span>=3D"<span class=3D"html-attribute-value">purple</span>"&gt;</span>P=
+rofressionals.<span class=3D"html-tag">&lt;/span&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"252"></td><td class=3D"line-content">     =
+         <span class=3D"html-tag">&lt;/h2&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"253"></td><td class=3D"line-content">            =
+  <span class=3D"html-tag">&lt;p <span class=3D"html-attribute-name">class<=
+/span>=3D"<span class=3D"html-attribute-value">section__para</span>"&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"254"></td><td class=3D=
+"line-content">                Lorem ipsum dolor sit amet consectetur adipi=
+sicing elit. Enim</td></tr><tr><td class=3D"line-number" value=3D"255"></td=
+><td class=3D"line-content">                quam cupiditate commodi qui exc=
+epturi laborum adipisci officiis,</td></tr><tr><td class=3D"line-number" va=
+lue=3D"256"></td><td class=3D"line-content">                corporis possim=
+us. Reiciendis?</td></tr><tr><td class=3D"line-number" value=3D"257"></td><=
+td class=3D"line-content">              <span class=3D"html-tag">&lt;/p&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"258"></td><td class=
+=3D"line-content">              <span class=3D"html-tag">&lt;button <span c=
+lass=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-=
+value">btn</span>"&gt;</span>Learn More<span class=3D"html-tag">&lt;/button=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"259"></td><td c=
+lass=3D"line-content">            <span class=3D"html-tag">&lt;/div&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"260"></td><td class=3D"=
+line-content">            <span class=3D"html-tag">&lt;figure <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">quality__img--wrapper</span>"&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"261"></td><td class=3D"line-content">              <span c=
+lass=3D"html-tag">&lt;img</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"262"></td><td class=3D"line-content"><span class=3D"html-tag">       =
+         <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html=
+-attribute-value html-resource-link" target=3D"_blank" href=3D"https://modu=
+le-2-fp-example-website.vercel.app/assets/hero-screenshot-1.40a097b525c2f8c=
+9808e.png" rel=3D"noreferrer noopener">/assets/hero-screenshot-1.40a097b525=
+c2f8c9808e.png</a>"</span></td></tr><tr><td class=3D"line-number" value=3D"=
+263"></td><td class=3D"line-content"><span class=3D"html-tag">             =
+   <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-=
+attribute-value">quality__img</span>"</span></td></tr><tr><td class=3D"line=
+-number" value=3D"264"></td><td class=3D"line-content"><span class=3D"html-=
+tag">              /&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"265"></td><td class=3D"line-content">              <span class=3D"html=
+-tag">&lt;svg <span class=3D"html-attribute-name">viewBox</span>=3D"<span c=
+lass=3D"html-attribute-value">0 0 1280 1280</span>" <span class=3D"html-att=
+ribute-name">class</span>=3D"<span class=3D"html-attribute-value">quality__=
+grid</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"266=
+"></td><td class=3D"line-content">                <span class=3D"html-tag">=
+&lt;path</span></td></tr><tr><td class=3D"line-number" value=3D"267"></td><=
+td class=3D"line-content"><span class=3D"html-tag">                  <span =
+class=3D"html-attribute-name">d</span>=3D"<span class=3D"html-attribute-val=
+ue">M55 33.5C44.5 37 35 47.6 32.8 58.3c-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3=
+.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM183 3=
+3.5c-15.1 5-25.3 21.6-22.2 36.2 2.5 11.9 13.6 23 25.4 25.5 19.4 4.1 39.5-14=
+.2 37.5-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM311 33.5c-1=
+0.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-=
+33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM439 33.5c-10.5 3.5-=
+20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1=
+-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM567 33.5c-10.5 3.5-20 14.1-=
+22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-=
+21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM695 33.5c-10.5 3.5-20 14.1-22.2 24.=
+8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-=
+26.2-6.1-2.9-15.5-3.6-21.7-1.6zM823 33.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20=
+.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1=
+-2.9-15.5-3.6-21.7-1.6zM951 33.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 =
+41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.=
+5-3.6-21.7-1.6zM1079 33.5c-10.5 3.5-20 14.1-22.2 24.8-2.5 11.7 3.2 24.4 14.=
+2 31.9 10.7 7.4 22.9 7.5 33.7.3 17.7-11.8 20.1-33.8 5.3-48.5-8.5-8.6-20.7-1=
+1.9-31-8.5zM1207 33.5c-10.5 3.5-20 14.1-22.2 24.8-2.5 11.7 3.2 24.4 14.2 31=
+.9 10.7 7.4 22.9 7.5 33.7.3 17.7-11.8 20.1-33.8 5.3-48.5-8.5-8.6-20.7-11.9-=
+31-8.5zM55 161.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 1=
+5.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM=
+183 161.5c-15.1 5-25.3 21.6-22.2 36.2 2.5 11.9 13.6 23 25.4 25.5 19.4 4.1 3=
+9.5-14.2 37.5-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM311 1=
+61.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5=
+-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM439 161.5c-1=
+0.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-=
+33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM567 161.5c-10.5 3.5=
+-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.=
+1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM695 161.5c-10.5 3.5-20 14.=
+1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-=
+9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM823 161.5c-10.5 3.5-20 14.1-22.2 =
+24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-=
+19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM951 161.5c-10.5 3.5-20 14.1-22.2 24.8-4.=
+3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2=
+-6.1-2.9-15.5-3.6-21.7-1.6zM1079 161.5c-10.5 3.5-20 14.1-22.2 24.8-2.5 11.7=
+ 3.2 24.4 14.2 31.9 10.7 7.4 22.9 7.5 33.7.3 17.7-11.8 20.1-33.8 5.3-48.5-8=
+.5-8.6-20.7-11.9-31-8.5zM1207 161.5c-10.5 3.5-20 14.1-22.2 24.8-2.5 11.7 3.=
+2 24.4 14.2 31.9 10.7 7.4 22.9 7.5 33.7.3 17.7-11.8 20.1-33.8 5.3-48.5-8.5-=
+8.6-20.7-11.9-31-8.5zM55 289.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41=
+.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-=
+3.6-21.7-1.6zM183 289.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9=
+ 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.=
+7-1.6zM311 289.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 1=
+5.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM=
+439 289.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2=
+ 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM567 289=
+.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-1=
+9 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM695 289.5c-10.=
+5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33=
+.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM823 289.5c-10.5 3.5-2=
+0 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-=
+10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM951 289.5c-10.5 3.5-20 14.1-=
+22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-=
+21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM1079 289.5c-10.5 3.5-20 14.1-22.2 2=
+4.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-1=
+9-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM1207 289.5c-10.5 3.5-20 14.1-22.2 24.8-4.=
+3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2=
+-6.1-2.9-15.5-3.6-21.7-1.6zM55 417.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 1=
+6.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9=
+-15.5-3.6-21.7-1.6zM183 417.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.=
+2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3=
+.6-21.7-1.6zM311 417.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 =
+36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7=
+-1.6zM439 417.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15=
+.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM5=
+67 417.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 =
+27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM695 417.=
+5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19=
+ 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM823 417.5c-10.5=
+ 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.=
+9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM951 417.5c-10.5 3.5-20=
+ 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-1=
+0.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM1079 417.5c-10.5 3.5-20 14.1-=
+22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-=
+21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM1207 417.5c-10.5 3.5-20 14.1-22.2 2=
+4.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-1=
+9-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM55 545.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 =
+20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6=
+.1-2.9-15.5-3.6-21.7-1.6zM183 545.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16=
+.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-=
+15.5-3.6-21.7-1.6zM311 545.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2=
+ 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.=
+6-21.7-1.6zM439 545.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 3=
+6.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-=
+1.6zM567 545.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.=
+5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM69=
+5 545.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 2=
+7.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM823 545.5=
+c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 =
+26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM951 545.5c-10.5 =
+3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9=
+-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM1079 545.5c-10.5 3.5-20=
+ 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-1=
+0.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM1207 545.5c-10.5 3.5-20 14.1-=
+22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-=
+21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM55 673.5c-10.5 3.5-20 14.1-22.2 24.=
+8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-=
+26.2-6.1-2.9-15.5-3.6-21.7-1.6zM183 673.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 2=
+0.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.=
+1-2.9-15.5-3.6-21.7-1.6zM311 673.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.=
+3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-1=
+5.5-3.6-21.7-1.6zM439 673.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 =
+36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6=
+-21.7-1.6zM567 673.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36=
+.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1=
+.6zM695 673.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5=
+-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM823=
+ 673.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27=
+.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM951 673.5c=
+-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 2=
+6-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM1079 673.5c-10.5 =
+3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9=
+-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM1207 673.5c-10.5 3.5-20=
+ 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-1=
+0.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM55 801.5c-10.5 3.5-20 14.1-22=
+.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21=
+.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM183 801.5c-10.5 3.5-20 14.1-22.2 24.8=
+-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-2=
+6.2-6.1-2.9-15.5-3.6-21.7-1.6zM311 801.5c-10.5 3.5-20 14.1-22.2 24.8-2.5 11=
+.7 3.2 24.4 14.2 31.9 10.7 7.4 22.9 7.5 33.7.3 17.7-11.8 20.1-33.8 5.3-48.5=
+-8.5-8.6-20.7-11.9-31-8.5zM439 801.5c-10.5 3.5-20 14.1-22.2 24.8-2.5 11.7 3=
+.2 24.4 14.2 31.9 10.7 7.4 22.9 7.5 33.7.3 17.7-11.8 20.1-33.8 5.3-48.5-8.5=
+-8.6-20.7-11.9-31-8.5zM567 801.5c-15.1 5-25.3 21.6-22.2 36.2 2.5 11.9 13.6 =
+23 25.5 25.5 19.3 4.1 39.4-14.2 37.4-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-1=
+5.5-3.6-21.7-1.6zM695 801.5c-15.1 5-25.3 21.6-22.2 36.2 2.5 11.9 13.6 23 25=
+.5 25.5 19.3 4.1 39.4-14.2 37.4-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3=
+.6-21.7-1.6zM823 801.5c-15.1 5-25.3 21.6-22.2 36.2 2.5 11.9 13.6 23 25.5 25=
+.5 19.3 4.1 39.4-14.2 37.4-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21=
+.7-1.6zM951 801.5c-15.1 5-25.3 21.6-22.2 36.2 2.5 11.9 13.6 23 25.5 25.5 19=
+.3 4.1 39.4-14.2 37.4-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.=
+6zM1079 801.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5=
+-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM120=
+7 801.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 2=
+7.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM55 929.5c=
+-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 2=
+6-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM183 929.5c-10.5 3=
+.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-=
+1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM311 929.5c-10.5 3.5-20 1=
+4.1-22.2 24.8-2.5 11.7 3.2 24.4 14.2 31.9 10.7 7.4 22.9 7.5 33.7.3 17.7-11.=
+8 20.1-33.8 5.3-48.5-8.5-8.6-20.7-11.9-31-8.5zM439 929.5c-10.5 3.5-20 14.1-=
+22.2 24.8-2.5 11.7 3.2 24.4 14.2 31.9 10.7 7.4 22.9 7.5 33.7.3 17.7-11.8 20=
+.1-33.8 5.3-48.5-8.5-8.6-20.7-11.9-31-8.5zM567 929.5c-15.1 5-25.3 21.6-22.2=
+ 36.2 2.5 11.9 13.6 23 25.5 25.5 19.3 4.1 39.4-14.2 37.4-33.9-1.1-10.5-9-21=
+.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM695 929.5c-15.1 5-25.3 21.6-22.2 36.2=
+ 2.5 11.9 13.6 23 25.5 25.5 19.3 4.1 39.4-14.2 37.4-33.9-1.1-10.5-9-21.3-19=
+-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM823 929.5c-15.1 5-25.3 21.6-22.2 36.2 2.5 =
+11.9 13.6 23 25.5 25.5 19.3 4.1 39.4-14.2 37.4-33.9-1.1-10.5-9-21.3-19-26.2=
+-6.1-2.9-15.5-3.6-21.7-1.6zM951 929.5c-15.1 5-25.3 21.6-22.2 36.2 2.5 11.9 =
+13.6 23 25.5 25.5 19.3 4.1 39.4-14.2 37.4-33.9-1.1-10.5-9-21.3-19-26.2-6.1-=
+2.9-15.5-3.6-21.7-1.6zM1079 929.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3=
+ 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15=
+.5-3.6-21.7-1.6zM1207 929.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 =
+36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6=
+-21.7-1.6zM55 1057.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36=
+.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1=
+.6zM183 1057.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.=
+5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM31=
+1 1057.5c-10.5 3.5-20 14.1-22.2 24.8-2.5 11.7 3.2 24.4 14.2 31.9 10.7 7.4 2=
+2.9 7.5 33.7.3 17.7-11.8 20.1-33.8 5.3-48.5-8.5-8.6-20.7-11.9-31-8.5zM439 1=
+057.5c-10.5 3.5-20 14.1-22.2 24.8-2.5 11.7 3.2 24.4 14.2 31.9 10.7 7.4 22.9=
+ 7.5 33.7.3 17.7-11.8 20.1-33.8 5.3-48.5-8.5-8.6-20.7-11.9-31-8.5zM567 1057=
+.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-1=
+9 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM695 1057.5c-10=
+.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-3=
+3.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM823 1057.5c-10.5 3.5=
+-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.=
+1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM951 1057.5c-10.5 3.5-20 14=
+.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5=
+-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM1079 1057.5c-10.5 3.5-20 14.1-22=
+.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21=
+.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM1207 1057.5c-10.5 3.5-20 14.1-22.2 24=
+.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19=
+-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM55 1185.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 =
+20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6=
+.1-2.9-15.5-3.6-21.7-1.6zM183 1185.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 1=
+6.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9=
+-15.5-3.6-21.7-1.6zM311 1185.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41=
+.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-=
+3.6-21.7-1.6zM439 1185.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.=
+9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21=
+.7-1.6zM567 1185.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9=
+ 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6=
+zM695 1185.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-=
+3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM823 =
+1185.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27=
+.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM951 1185.5=
+c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 =
+26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM1079 1185.5c-10.=
+5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33=
+.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM1207 1185.5c-10.5 3.5=
+-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.=
+1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6z</span>"</span></td></tr><t=
+r><td class=3D"line-number" value=3D"268"></td><td class=3D"line-content"><=
+span class=3D"html-tag">                &gt;</span><span class=3D"html-tag"=
+>&lt;/path&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"269">=
+</td><td class=3D"line-content">              <span class=3D"html-tag">&lt;=
+/svg&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"270"></td><=
+td class=3D"line-content">            <span class=3D"html-tag">&lt;/figure&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"271"></td><td cl=
+ass=3D"line-content">          <span class=3D"html-tag">&lt;/div&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"272"></td><td class=3D"lin=
+e-content">        <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><t=
+r><td class=3D"line-number" value=3D"273"></td><td class=3D"line-content"> =
+     <span class=3D"html-tag">&lt;/section&gt;</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"274"></td><td class=3D"line-content">      <span=
+ class=3D"html-tag">&lt;section <span class=3D"html-attribute-name">id</spa=
+n>=3D"<span class=3D"html-attribute-value">steps</span>"&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"275"></td><td class=3D"line-conten=
+t">        <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-n=
+ame">class</span>=3D"<span class=3D"html-attribute-value">container</span>"=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"276"></td><td c=
+lass=3D"line-content">          <span class=3D"html-tag">&lt;div <span clas=
+s=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-val=
+ue">row</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+277"></td><td class=3D"line-content">            <span class=3D"html-tag">&=
+lt;figure <span class=3D"html-attribute-name">class</span>=3D"<span class=
+=3D"html-attribute-value">steps__img--wrapper</span>"&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"278"></td><td class=3D"line-content">=
+              <span class=3D"html-tag">&lt;img</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"279"></td><td class=3D"line-content"><span class=
+=3D"html-tag">                <span class=3D"html-attribute-name">src</span=
+>=3D"<a class=3D"html-attribute-value html-resource-link" target=3D"_blank"=
+ href=3D"https://module-2-fp-example-website.vercel.app/assets/hero-screens=
+hot-2.241aac1fbc66db29d873.png" rel=3D"noreferrer noopener">./assets/hero-s=
+creenshot-2.241aac1fbc66db29d873.png</a>"</span></td></tr><tr><td class=3D"=
+line-number" value=3D"280"></td><td class=3D"line-content"><span class=3D"h=
+tml-tag">                <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">steps__img</span>"</span></td></tr=
+><tr><td class=3D"line-number" value=3D"281"></td><td class=3D"line-content=
+"><span class=3D"html-tag">                <span class=3D"html-attribute-na=
+me">alt</span>=3D"<span class=3D"html-attribute-value">Dashboard Screenshot=
+</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"282"></td><=
+td class=3D"line-content"><span class=3D"html-tag">              /&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"283"></td><td class=3D"l=
+ine-content">              <span class=3D"html-tag">&lt;svg</span></td></tr=
+><tr><td class=3D"line-number" value=3D"284"></td><td class=3D"line-content=
+"><span class=3D"html-tag">                <span class=3D"html-attribute-na=
+me">viewBox</span>=3D"<span class=3D"html-attribute-value">0 0 1280 1280</s=
+pan>"</span></td></tr><tr><td class=3D"line-number" value=3D"285"></td><td =
+class=3D"line-content"><span class=3D"html-tag">                <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">steps__grid</span>"</span></td></tr><tr><td class=3D"line-number" value=
+=3D"286"></td><td class=3D"line-content"><span class=3D"html-tag">         =
+       <span class=3D"html-attribute-name">xmlns</span>=3D"<span class=3D"h=
+tml-attribute-value">http://www.w3.org/2000/svg</span>"</span></td></tr><tr=
+><td class=3D"line-number" value=3D"287"></td><td class=3D"line-content"><s=
+pan class=3D"html-tag">              &gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"288"></td><td class=3D"line-content">                =
+<span class=3D"html-tag">&lt;defs&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"289"></td><td class=3D"line-content">                  <s=
+pan class=3D"html-tag">&lt;path</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"290"></td><td class=3D"line-content"><span class=3D"html-tag"> =
+                   <span class=3D"html-attribute-name">id</span>=3D"<span c=
+lass=3D"html-attribute-value">line-of-balls</span>"</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"291"></td><td class=3D"line-content"><span =
+class=3D"html-tag">                    <span class=3D"html-attribute-name">=
+d</span>=3D"<span class=3D"html-attribute-value">M55 33.5C44.5 37 35 47.6 3=
+2.8 58.3c-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-=
+21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM183 33.5c-15.1 5-25.3 21.6-22.2 36.=
+2 2.5 11.9 13.6 23 25.4 25.5 19.4 4.1 39.5-14.2 37.5-33.9-1.1-10.5-9-21.3-1=
+9-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM311 33.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 =
+20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6=
+.1-2.9-15.5-3.6-21.7-1.6zM439 33.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.=
+3 41.2 36.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-1=
+5.5-3.6-21.7-1.6zM567 33.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 3=
+6.9 36.9 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-=
+21.7-1.6zM695 33.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9=
+ 15.5-3.2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6=
+zM823 33.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.=
+2 27.5-19 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM951 33=
+.5c-10.5 3.5-20 14.1-22.2 24.8-4.3 20.6 16.3 41.2 36.9 36.9 15.5-3.2 27.5-1=
+9 26-33.9-1.1-10.5-9-21.3-19-26.2-6.1-2.9-15.5-3.6-21.7-1.6zM1079 33.5c-10.=
+5 3.5-20 14.1-22.2 24.8-2.5 11.7 3.2 24.4 14.2 31.9 10.7 7.4 22.9 7.5 33.7.=
+3 17.7-11.8 20.1-33.8 5.3-48.5-8.5-8.6-20.7-11.9-31-8.5zM1207 33.5c-10.5 3.=
+5-20 14.1-22.2 24.8-2.5 11.7 3.2 24.4 14.2 31.9 10.7 7.4 22.9 7.5 33.7.3 17=
+.7-11.8 20.1-33.8 5.3-48.5-8.5-8.6-20.7-11.9-31-8.5z</span>"</span></td></t=
+r><tr><td class=3D"line-number" value=3D"292"></td><td class=3D"line-conten=
+t"><span class=3D"html-tag">                  /&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"293"></td><td class=3D"line-content">      =
+          <span class=3D"html-tag">&lt;/defs&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"294"></td><td class=3D"line-content"><br></td>=
+</tr><tr><td class=3D"line-number" value=3D"295"></td><td class=3D"line-con=
+tent">                <span class=3D"html-comment">&lt;!-- Repeat the line =
+10 times with vertical spacing --&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"296"></td><td class=3D"line-content">                <spa=
+n class=3D"html-tag">&lt;g <span class=3D"html-attribute-name">fill</span>=
+=3D"<span class=3D"html-attribute-value">rgba(100, 21, 255, 0.15)</span>"&g=
+t;</span></td></tr><tr><td class=3D"line-number" value=3D"297"></td><td cla=
+ss=3D"line-content">                  <span class=3D"html-tag">&lt;use <spa=
+n class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-v=
+alue html-resource-link" target=3D"_blank" href=3D"https://module-2-fp-exam=
+ple-website.vercel.app/#line-of-balls" rel=3D"noreferrer noopener">#line-of=
+-balls</a>" <span class=3D"html-attribute-name">transform</span>=3D"<span c=
+lass=3D"html-attribute-value">translate(0, 0)</span>" /&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"298"></td><td class=3D"line-content=
+">                  <span class=3D"html-tag">&lt;use <span class=3D"html-at=
+tribute-name">href</span>=3D"<a class=3D"html-attribute-value html-resource=
+-link" target=3D"_blank" href=3D"https://module-2-fp-example-website.vercel=
+.app/#line-of-balls" rel=3D"noreferrer noopener">#line-of-balls</a>" <span =
+class=3D"html-attribute-name">transform</span>=3D"<span class=3D"html-attri=
+bute-value">translate(0, 100)</span>" /&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"299"></td><td class=3D"line-content">            =
+      <span class=3D"html-tag">&lt;use <span class=3D"html-attribute-name">=
+href</span>=3D"<a class=3D"html-attribute-value html-resource-link" target=
+=3D"_blank" href=3D"https://module-2-fp-example-website.vercel.app/#line-of=
+-balls" rel=3D"noreferrer noopener">#line-of-balls</a>" <span class=3D"html=
+-attribute-name">transform</span>=3D"<span class=3D"html-attribute-value">t=
+ranslate(0, 200)</span>" /&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"300"></td><td class=3D"line-content">                  <span cla=
+ss=3D"html-tag">&lt;use <span class=3D"html-attribute-name">href</span>=3D"=
+<a class=3D"html-attribute-value html-resource-link" target=3D"_blank" href=
+=3D"https://module-2-fp-example-website.vercel.app/#line-of-balls" rel=3D"n=
+oreferrer noopener">#line-of-balls</a>" <span class=3D"html-attribute-name"=
+>transform</span>=3D"<span class=3D"html-attribute-value">translate(0, 300)=
+</span>" /&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"301">=
+</td><td class=3D"line-content">                  <span class=3D"html-tag">=
+&lt;use <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html=
+-attribute-value html-resource-link" target=3D"_blank" href=3D"https://modu=
+le-2-fp-example-website.vercel.app/#line-of-balls" rel=3D"noreferrer noopen=
+er">#line-of-balls</a>" <span class=3D"html-attribute-name">transform</span=
+>=3D"<span class=3D"html-attribute-value">translate(0, 400)</span>" /&gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"302"></td><td class=
+=3D"line-content">                  <span class=3D"html-tag">&lt;use <span =
+class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-val=
+ue html-resource-link" target=3D"_blank" href=3D"https://module-2-fp-exampl=
+e-website.vercel.app/#line-of-balls" rel=3D"noreferrer noopener">#line-of-b=
+alls</a>" <span class=3D"html-attribute-name">transform</span>=3D"<span cla=
+ss=3D"html-attribute-value">translate(0, 500)</span>" /&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"303"></td><td class=3D"line-content=
+">                  <span class=3D"html-tag">&lt;use <span class=3D"html-at=
+tribute-name">href</span>=3D"<a class=3D"html-attribute-value html-resource=
+-link" target=3D"_blank" href=3D"https://module-2-fp-example-website.vercel=
+.app/#line-of-balls" rel=3D"noreferrer noopener">#line-of-balls</a>" <span =
+class=3D"html-attribute-name">transform</span>=3D"<span class=3D"html-attri=
+bute-value">translate(0, 600)</span>" /&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"304"></td><td class=3D"line-content">            =
+      <span class=3D"html-tag">&lt;use <span class=3D"html-attribute-name">=
+href</span>=3D"<a class=3D"html-attribute-value html-resource-link" target=
+=3D"_blank" href=3D"https://module-2-fp-example-website.vercel.app/#line-of=
+-balls" rel=3D"noreferrer noopener">#line-of-balls</a>" <span class=3D"html=
+-attribute-name">transform</span>=3D"<span class=3D"html-attribute-value">t=
+ranslate(0, 700)</span>" /&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"305"></td><td class=3D"line-content">                  <span cla=
+ss=3D"html-tag">&lt;use <span class=3D"html-attribute-name">href</span>=3D"=
+<a class=3D"html-attribute-value html-resource-link" target=3D"_blank" href=
+=3D"https://module-2-fp-example-website.vercel.app/#line-of-balls" rel=3D"n=
+oreferrer noopener">#line-of-balls</a>" <span class=3D"html-attribute-name"=
+>transform</span>=3D"<span class=3D"html-attribute-value">translate(0, 800)=
+</span>" /&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"306">=
+</td><td class=3D"line-content">                  <span class=3D"html-tag">=
+&lt;use <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html=
+-attribute-value html-resource-link" target=3D"_blank" href=3D"https://modu=
+le-2-fp-example-website.vercel.app/#line-of-balls" rel=3D"noreferrer noopen=
+er">#line-of-balls</a>" <span class=3D"html-attribute-name">transform</span=
+>=3D"<span class=3D"html-attribute-value">translate(0, 900)</span>" /&gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"307"></td><td class=
+=3D"line-content">                <span class=3D"html-tag">&lt;/g&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"308"></td><td class=3D"li=
+ne-content">              <span class=3D"html-tag">&lt;/svg&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"309"></td><td class=3D"line-con=
+tent">            <span class=3D"html-tag">&lt;/figure&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"310"></td><td class=3D"line-content"=
+>            <span class=3D"html-tag">&lt;div <span class=3D"html-attribute=
+-name">class</span>=3D"<span class=3D"html-attribute-value">steps__descript=
+ion</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"311"=
+></td><td class=3D"line-content">              <span class=3D"html-tag">&lt=
+;div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"htm=
+l-attribute-value">section__tag</span>"&gt;</span>STEPS<span class=3D"html-=
+tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"31=
+2"></td><td class=3D"line-content">              <span class=3D"html-tag">&=
+lt;h2 <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"ht=
+ml-attribute-value">section__title</span>"&gt;</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"313"></td><td class=3D"line-content">           =
+     Easy to <span class=3D"html-tag">&lt;span <span class=3D"html-attribut=
+e-name">class</span>=3D"<span class=3D"html-attribute-value">purple</span>"=
+&gt;</span>Get Started.<span class=3D"html-tag">&lt;/span&gt;</span></td></=
+tr><tr><td class=3D"line-number" value=3D"314"></td><td class=3D"line-conte=
+nt">              <span class=3D"html-tag">&lt;/h2&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"315"></td><td class=3D"line-content">   =
+           <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-n=
+ame">class</span>=3D"<span class=3D"html-attribute-value">steps__list</span=
+>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"316"></td><td=
+ class=3D"line-content">                <span class=3D"html-tag">&lt;div <s=
+pan class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attri=
+bute-value">step</span>"&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"317"></td><td class=3D"line-content">                  <span class=
+=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<=
+span class=3D"html-attribute-value">step__number</span>"&gt;</span>01<span =
+class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"318"></td><td class=3D"line-content">                  <span cl=
+ass=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">step__description</span>"&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"319"></td><td class=3D"l=
+ine-content">                    <span class=3D"html-tag">&lt;div <span cla=
+ss=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-va=
+lue">step__title</span>"&gt;</span>Register<span class=3D"html-tag">&lt;/di=
+v&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"320"></td><td =
+class=3D"line-content">                    <span class=3D"html-tag">&lt;p <=
+span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attr=
+ibute-value">step__para</span>"&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"321"></td><td class=3D"line-content">                      =
+Create an account with us using Google or Facebook.</td></tr><tr><td class=
+=3D"line-number" value=3D"322"></td><td class=3D"line-content">            =
+        <span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"323"></td><td class=3D"line-content">            =
+      <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"324"></td><td class=3D"line-content">            =
+    <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"325"></td><td class=3D"line-content">                =
+<span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class<=
+/span>=3D"<span class=3D"html-attribute-value">step</span>"&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"326"></td><td class=3D"line-con=
+tent">                  <span class=3D"html-tag">&lt;div <span class=3D"htm=
+l-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">step=
+__number</span>"&gt;</span>02<span class=3D"html-tag">&lt;/div&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"327"></td><td class=3D"line-=
+content">                  <span class=3D"html-tag">&lt;div <span class=3D"=
+html-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">s=
+tep__description</span>"&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"328"></td><td class=3D"line-content">                    <span cla=
+ss=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D=
+"<span class=3D"html-attribute-value">step__title</span>"&gt;</span>Downloa=
+d<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"329"></td><td class=3D"line-content">                   =
+ <span class=3D"html-tag">&lt;p <span class=3D"html-attribute-name">class</=
+span>=3D"<span class=3D"html-attribute-value">step__para</span>"&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"330"></td><td class=3D"lin=
+e-content">                      Browse and Download the template that you =
+like from the</td></tr><tr><td class=3D"line-number" value=3D"331"></td><td=
+ class=3D"line-content">                      marketplace.</td></tr><tr><td=
+ class=3D"line-number" value=3D"332"></td><td class=3D"line-content">      =
+              <span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"333"></td><td class=3D"line-content">        =
+          <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"334"></td><td class=3D"line-content">          =
+      <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"335"></td><td class=3D"line-content">            =
+    <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">cl=
+ass</span>=3D"<span class=3D"html-attribute-value">step</span>"&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"336"></td><td class=3D"line=
+-content">                  <span class=3D"html-tag">&lt;div <span class=3D=
+"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">=
+step__number</span>"&gt;</span>03<span class=3D"html-tag">&lt;/div&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"337"></td><td class=3D"l=
+ine-content">                  <span class=3D"html-tag">&lt;div <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">step__description</span>"&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"338"></td><td class=3D"line-content">                    <span=
+ class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span=
+>=3D"<span class=3D"html-attribute-value">step__title</span>"&gt;</span>Run=
+<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"339"></td><td class=3D"line-content">                    =
+<span class=3D"html-tag">&lt;p <span class=3D"html-attribute-name">class</s=
+pan>=3D"<span class=3D"html-attribute-value">step__para</span>"&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"340"></td><td class=3D"line=
+-content">                      Follow the instructions to setup and custom=
+ize the</td></tr><tr><td class=3D"line-number" value=3D"341"></td><td class=
+=3D"line-content">                      template to your needs.</td></tr><t=
+r><td class=3D"line-number" value=3D"342"></td><td class=3D"line-content"> =
+                   <span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"343"></td><td class=3D"line-content">   =
+               <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"344"></td><td class=3D"line-content">     =
+           <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"345"></td><td class=3D"line-content">         =
+     <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"346"></td><td class=3D"line-content">            <sp=
+an class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"347"></td><td class=3D"line-content">          <span class=
+=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"348"></td><td class=3D"line-content">        <span class=3D"html-tag=
+">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"349">=
+</td><td class=3D"line-content">      <span class=3D"html-tag">&lt;/section=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"350"></td><td c=
+lass=3D"line-content">      <span class=3D"html-tag">&lt;section <span clas=
+s=3D"html-attribute-name">id</span>=3D"<span class=3D"html-attribute-value"=
+>values</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+351"></td><td class=3D"line-content">        <span class=3D"html-tag">&lt;d=
+iv <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-=
+attribute-value">container</span>"&gt;</span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"352"></td><td class=3D"line-content">          <span cla=
+ss=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D=
+"<span class=3D"html-attribute-value">row</span>"&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"353"></td><td class=3D"line-content">    =
+        <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name=
+">class</span>=3D"<span class=3D"html-attribute-value">values__description<=
+/span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"354"></t=
+d><td class=3D"line-content">              <span class=3D"html-tag">&lt;div=
+ <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-at=
+tribute-value">section__tag</span>"&gt;</span>VALUES<span class=3D"html-tag=
+">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"355">=
+</td><td class=3D"line-content">              <span class=3D"html-tag">&lt;=
+h2 <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-=
+attribute-value">section__title</span>"&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"356"></td><td class=3D"line-content">            =
+    We Always Abide by Our <span class=3D"html-tag">&lt;span <span class=3D=
+"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">=
+purple</span>"&gt;</span>Principles.<span class=3D"html-tag">&lt;/span&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"357"></td><td class=
+=3D"line-content">              <span class=3D"html-tag">&lt;/h2&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"358"></td><td class=3D"lin=
+e-content">              <span class=3D"html-tag">&lt;div <span class=3D"ht=
+ml-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">sec=
+tion__para</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"359"></td><td class=3D"line-content">                Lorem ipsum dolor =
+sit amet, consectetur adipiscing elit, sed do</td></tr><tr><td class=3D"lin=
+e-number" value=3D"360"></td><td class=3D"line-content">                eiu=
+smod tempor incididunt ut labore et dolore magna aliqua. Ut</td></tr><tr><t=
+d class=3D"line-number" value=3D"361"></td><td class=3D"line-content">     =
+           enim ad minim veniam, quis nostrud exercitation ullamco laboris<=
+/td></tr><tr><td class=3D"line-number" value=3D"362"></td><td class=3D"line=
+-content">                nisi ut aliquip ex ea commodo consequat.</td></tr=
+><tr><td class=3D"line-number" value=3D"363"></td><td class=3D"line-content=
+">              <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"364"></td><td class=3D"line-content">    =
+          <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-na=
+me">class</span>=3D"<span class=3D"html-attribute-value">values__list</span=
+>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"365"></td><td=
+ class=3D"line-content">                <span class=3D"html-tag">&lt;div <s=
+pan class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attri=
+bute-value">value</span>"&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"366"></td><td class=3D"line-content">                  <span clas=
+s=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"=
+<span class=3D"html-attribute-value">value__title</span>"&gt;</span></td></=
+tr><tr><td class=3D"line-number" value=3D"367"></td><td class=3D"line-conte=
+nt">                    <span class=3D"html-tag">&lt;figure <span class=3D"=
+html-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">v=
+alue__img--wrapper</span>"&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"368"></td><td class=3D"line-content">                      <span=
+ class=3D"html-comment">&lt;!-- TO GET THIS ICON GO TO https://feathericons=
+.com --&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"369"></t=
+d><td class=3D"line-content">                      <span class=3D"html-tag"=
+>&lt;svg</span></td></tr><tr><td class=3D"line-number" value=3D"370"></td><=
+td class=3D"line-content"><span class=3D"html-tag">                        =
+<span class=3D"html-attribute-name">xmlns</span>=3D"<span class=3D"html-att=
+ribute-value">http://www.w3.org/2000/svg</span>"</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"371"></td><td class=3D"line-content"><span cla=
+ss=3D"html-tag">                        <span class=3D"html-attribute-name"=
+>width</span>=3D"<span class=3D"html-attribute-value">24</span>"</span></td=
+></tr><tr><td class=3D"line-number" value=3D"372"></td><td class=3D"line-co=
+ntent"><span class=3D"html-tag">                        <span class=3D"html=
+-attribute-name">height</span>=3D"<span class=3D"html-attribute-value">24</=
+span>"</span></td></tr><tr><td class=3D"line-number" value=3D"373"></td><td=
+ class=3D"line-content"><span class=3D"html-tag">                        <s=
+pan class=3D"html-attribute-name">viewBox</span>=3D"<span class=3D"html-att=
+ribute-value">0 0 24 24</span>"</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"374"></td><td class=3D"line-content"><span class=3D"html-tag"> =
+                       <span class=3D"html-attribute-name">fill</span>=3D"<=
+span class=3D"html-attribute-value">none</span>"</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"375"></td><td class=3D"line-content"><span cla=
+ss=3D"html-tag">                        <span class=3D"html-attribute-name"=
+>stroke</span>=3D"<span class=3D"html-attribute-value">rgba(39, 103, 73, 1)=
+</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"376"></td><=
+td class=3D"line-content"><span class=3D"html-tag">                        =
+<span class=3D"html-attribute-name">stroke-width</span>=3D"<span class=3D"h=
+tml-attribute-value">2</span>"</span></td></tr><tr><td class=3D"line-number=
+" value=3D"377"></td><td class=3D"line-content"><span class=3D"html-tag">  =
+                      <span class=3D"html-attribute-name">stroke-linecap</s=
+pan>=3D"<span class=3D"html-attribute-value">round</span>"</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"378"></td><td class=3D"line-content"=
+><span class=3D"html-tag">                        <span class=3D"html-attri=
+bute-name">stroke-linejoin</span>=3D"<span class=3D"html-attribute-value">r=
+ound</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"379"></=
+td><td class=3D"line-content"><span class=3D"html-tag">                    =
+    <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html=
+-attribute-value">value__img</span>"</span></td></tr><tr><td class=3D"line-=
+number" value=3D"380"></td><td class=3D"line-content"><span class=3D"html-t=
+ag">                      &gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"381"></td><td class=3D"line-content">                        <sp=
+an class=3D"html-tag">&lt;line <span class=3D"html-attribute-name">x1</span=
+>=3D"<span class=3D"html-attribute-value">12</span>" <span class=3D"html-at=
+tribute-name">y1</span>=3D"<span class=3D"html-attribute-value">1</span>" <=
+span class=3D"html-attribute-name">x2</span>=3D"<span class=3D"html-attribu=
+te-value">12</span>" <span class=3D"html-attribute-name">y2</span>=3D"<span=
+ class=3D"html-attribute-value">23</span>"&gt;</span><span class=3D"html-ta=
+g">&lt;/line&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"382=
+"></td><td class=3D"line-content">                        <span class=3D"ht=
+ml-tag">&lt;path</span></td></tr><tr><td class=3D"line-number" value=3D"383=
+"></td><td class=3D"line-content"><span class=3D"html-tag">                =
+          <span class=3D"html-attribute-name">d</span>=3D"<span class=3D"ht=
+ml-attribute-value">M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6</span=
+>"</span></td></tr><tr><td class=3D"line-number" value=3D"384"></td><td cla=
+ss=3D"line-content"><span class=3D"html-tag">                        &gt;</=
+span><span class=3D"html-tag">&lt;/path&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"385"></td><td class=3D"line-content">            =
+          <span class=3D"html-tag">&lt;/svg&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"386"></td><td class=3D"line-content">          =
+          <span class=3D"html-tag">&lt;/figure&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"387"></td><td class=3D"line-content">       =
+             <span class=3D"html-tag">&lt;div <span class=3D"html-attribute=
+-name">class</span>=3D"<span class=3D"html-attribute-value">value__name</sp=
+an>"&gt;</span>Affordable<span class=3D"html-tag">&lt;/div&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"388"></td><td class=3D"line-cont=
+ent">                  <span class=3D"html-tag">&lt;/div&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"389"></td><td class=3D"line-conten=
+t">                  <span class=3D"html-tag">&lt;div <span class=3D"html-a=
+ttribute-name">class</span>=3D"<span class=3D"html-attribute-value">value__=
+para</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"390=
+"></td><td class=3D"line-content">                    We promise to offer y=
+ou the best rate we can - at par with</td></tr><tr><td class=3D"line-number=
+" value=3D"391"></td><td class=3D"line-content">                    the ind=
+ustry standard.</td></tr><tr><td class=3D"line-number" value=3D"392"></td><=
+td class=3D"line-content">                  <span class=3D"html-tag">&lt;/d=
+iv&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"393"></td><td=
+ class=3D"line-content">                <span class=3D"html-tag">&lt;/div&g=
+t;</span></td></tr><tr><td class=3D"line-number" value=3D"394"></td><td cla=
+ss=3D"line-content">                <span class=3D"html-tag">&lt;div <span =
+class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute=
+-value">value</span>"&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"395"></td><td class=3D"line-content">                  <span class=3D=
+"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<spa=
+n class=3D"html-attribute-value">value__title</span>"&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"396"></td><td class=3D"line-content">=
+                    <span class=3D"html-tag">&lt;figure <span class=3D"html=
+-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">value=
+__img--wrapper</span>"&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"397"></td><td class=3D"line-content">                      <span cla=
+ss=3D"html-comment">&lt;!-- TO GET THIS ICON GO TO https://feathericons.com=
+ --&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"398"></td><t=
+d class=3D"line-content">                      <span class=3D"html-tag">&lt=
+;svg</span></td></tr><tr><td class=3D"line-number" value=3D"399"></td><td c=
+lass=3D"line-content"><span class=3D"html-tag">                        <spa=
+n class=3D"html-attribute-name">xmlns</span>=3D"<span class=3D"html-attribu=
+te-value">http://www.w3.org/2000/svg</span>"</span></td></tr><tr><td class=
+=3D"line-number" value=3D"400"></td><td class=3D"line-content"><span class=
+=3D"html-tag">                        <span class=3D"html-attribute-name">w=
+idth</span>=3D"<span class=3D"html-attribute-value">24</span>"</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"401"></td><td class=3D"line-cont=
+ent"><span class=3D"html-tag">                        <span class=3D"html-a=
+ttribute-name">height</span>=3D"<span class=3D"html-attribute-value">24</sp=
+an>"</span></td></tr><tr><td class=3D"line-number" value=3D"402"></td><td c=
+lass=3D"line-content"><span class=3D"html-tag">                        <spa=
+n class=3D"html-attribute-name">viewBox</span>=3D"<span class=3D"html-attri=
+bute-value">0 0 24 24</span>"</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"403"></td><td class=3D"line-content"><span class=3D"html-tag">   =
+                     <span class=3D"html-attribute-name">fill</span>=3D"<sp=
+an class=3D"html-attribute-value">none</span>"</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"404"></td><td class=3D"line-content"><span class=
+=3D"html-tag">                        <span class=3D"html-attribute-name">s=
+troke</span>=3D"<span class=3D"html-attribute-value">rgba(155, 44, 44, 1)</=
+span>"</span></td></tr><tr><td class=3D"line-number" value=3D"405"></td><td=
+ class=3D"line-content"><span class=3D"html-tag">                        <s=
+pan class=3D"html-attribute-name">stroke-width</span>=3D"<span class=3D"htm=
+l-attribute-value">2</span>"</span></td></tr><tr><td class=3D"line-number" =
+value=3D"406"></td><td class=3D"line-content"><span class=3D"html-tag">    =
+                    <span class=3D"html-attribute-name">stroke-linecap</spa=
+n>=3D"<span class=3D"html-attribute-value">round</span>"</span></td></tr><t=
+r><td class=3D"line-number" value=3D"407"></td><td class=3D"line-content"><=
+span class=3D"html-tag">                        <span class=3D"html-attribu=
+te-name">stroke-linejoin</span>=3D"<span class=3D"html-attribute-value">rou=
+nd</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"408"></td=
+><td class=3D"line-content"><span class=3D"html-tag">                      =
+  <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-a=
+ttribute-value">value__img</span>"</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"409"></td><td class=3D"line-content"><span class=3D"html-tag=
+">                      &gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"410"></td><td class=3D"line-content">                        <span=
+ class=3D"html-tag">&lt;rect</span></td></tr><tr><td class=3D"line-number" =
+value=3D"411"></td><td class=3D"line-content"><span class=3D"html-tag">    =
+                      <span class=3D"html-attribute-name">x</span>=3D"<span=
+ class=3D"html-attribute-value">2</span>"</span></td></tr><tr><td class=3D"=
+line-number" value=3D"412"></td><td class=3D"line-content"><span class=3D"h=
+tml-tag">                          <span class=3D"html-attribute-name">y</s=
+pan>=3D"<span class=3D"html-attribute-value">7</span>"</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"413"></td><td class=3D"line-content"><sp=
+an class=3D"html-tag">                          <span class=3D"html-attribu=
+te-name">width</span>=3D"<span class=3D"html-attribute-value">20</span>"</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"414"></td><td class=3D=
+"line-content"><span class=3D"html-tag">                          <span cla=
+ss=3D"html-attribute-name">height</span>=3D"<span class=3D"html-attribute-v=
+alue">14</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"415=
+"></td><td class=3D"line-content"><span class=3D"html-tag">                =
+          <span class=3D"html-attribute-name">rx</span>=3D"<span class=3D"h=
+tml-attribute-value">2</span>"</span></td></tr><tr><td class=3D"line-number=
+" value=3D"416"></td><td class=3D"line-content"><span class=3D"html-tag">  =
+                        <span class=3D"html-attribute-name">ry</span>=3D"<s=
+pan class=3D"html-attribute-value">2</span>"</span></td></tr><tr><td class=
+=3D"line-number" value=3D"417"></td><td class=3D"line-content"><span class=
+=3D"html-tag">                        &gt;</span><span class=3D"html-tag">&=
+lt;/rect&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"418"></=
+td><td class=3D"line-content">                        <span class=3D"html-t=
+ag">&lt;path</span></td></tr><tr><td class=3D"line-number" value=3D"419"></=
+td><td class=3D"line-content"><span class=3D"html-tag">                    =
+      <span class=3D"html-attribute-name">d</span>=3D"<span class=3D"html-a=
+ttribute-value">M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16</span>"</span></=
+td></tr><tr><td class=3D"line-number" value=3D"420"></td><td class=3D"line-=
+content"><span class=3D"html-tag">                        &gt;</span><span =
+class=3D"html-tag">&lt;/path&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"421"></td><td class=3D"line-content">                      <sp=
+an class=3D"html-tag">&lt;/svg&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"422"></td><td class=3D"line-content">                    <sp=
+an class=3D"html-tag">&lt;/figure&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"423"></td><td class=3D"line-content">                    =
+<span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class<=
+/span>=3D"<span class=3D"html-attribute-value">value__name</span>"&gt;</spa=
+n>Professionalism<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"424"></td><td class=3D"line-content">   =
+               <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"425"></td><td class=3D"line-content">     =
+             <span class=3D"html-tag">&lt;div <span class=3D"html-attribute=
+-name">class</span>=3D"<span class=3D"html-attribute-value">value__para</sp=
+an>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"426"></td><=
+td class=3D"line-content">                    We assure you that our templa=
+tes are designed and created by</td></tr><tr><td class=3D"line-number" valu=
+e=3D"427"></td><td class=3D"line-content">                    professional =
+designers.</td></tr><tr><td class=3D"line-number" value=3D"428"></td><td cl=
+ass=3D"line-content">                  <span class=3D"html-tag">&lt;/div&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"429"></td><td clas=
+s=3D"line-content">                <span class=3D"html-tag">&lt;/div&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"430"></td><td class=3D=
+"line-content">              <span class=3D"html-tag">&lt;/div&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"431"></td><td class=3D"line-=
+content">              <span class=3D"html-tag">&lt;button <span class=3D"h=
+tml-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">bt=
+n</span>"&gt;</span>Learn More<span class=3D"html-tag">&lt;/button&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"432"></td><td class=3D"l=
+ine-content">            <span class=3D"html-tag">&lt;/div&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"433"></td><td class=3D"line-cont=
+ent">            <span class=3D"html-tag">&lt;img</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"434"></td><td class=3D"line-content"><span cl=
+ass=3D"html-tag">              <span class=3D"html-attribute-name">class</s=
+pan>=3D"<span class=3D"html-attribute-value">values__img</span>"</span></td=
+></tr><tr><td class=3D"line-number" value=3D"435"></td><td class=3D"line-co=
+ntent"><span class=3D"html-tag">              <span class=3D"html-attribute=
+-name">src</span>=3D"<a class=3D"html-attribute-value html-resource-link" t=
+arget=3D"_blank" href=3D"https://module-2-fp-example-website.vercel.app/ass=
+ets/prototype-illustration.21bc4b3f612a2f257c3d361067582485.svg" rel=3D"nor=
+eferrer noopener">/assets/prototype-illustration.21bc4b3f612a2f257c3d361067=
+582485.svg</a>"</span></td></tr><tr><td class=3D"line-number" value=3D"436"=
+></td><td class=3D"line-content"><span class=3D"html-tag">            /&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"437"></td><td class=
+=3D"line-content">          <span class=3D"html-tag">&lt;/div&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"438"></td><td class=3D"line-c=
+ontent">        <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"439"></td><td class=3D"line-content">    =
+  <span class=3D"html-tag">&lt;/section&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"440"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;section <span class=3D"html-attribute-name">id</span=
+>=3D"<span class=3D"html-attribute-value">pricing</span>"&gt;</span></td></=
+tr><tr><td class=3D"line-number" value=3D"441"></td><td class=3D"line-conte=
+nt">        <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-=
+name">class</span>=3D"<span class=3D"html-attribute-value">container</span>=
+"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"442"></td><td =
+class=3D"line-content">          <span class=3D"html-tag">&lt;div <span cla=
+ss=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-va=
+lue">row</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"443"></td><td class=3D"line-content">            <span class=3D"html-tag">=
+&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"=
+html-attribute-value">section__tag</span>"&gt;</span>pricing<span class=3D"=
+html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"444"></td><td class=3D"line-content">            <span class=3D"html-ta=
+g">&lt;h2 <span class=3D"html-attribute-name">class</span>=3D"<span class=
+=3D"html-attribute-value">section__title</span>"&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"445"></td><td class=3D"line-content">     =
+         Reasonable &amp;amp; Flexible <span class=3D"html-tag">&lt;span <s=
+pan class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attri=
+bute-value">purple</span>"&gt;</span>Plans.<span class=3D"html-tag">&lt;/sp=
+an&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"446"></td><td=
+ class=3D"line-content">            <span class=3D"html-tag">&lt;/h2&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"447"></td><td class=3D=
+"line-content">            <span class=3D"html-tag">&lt;p <span class=3D"ht=
+ml-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">sec=
+tion__para</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"448"></td><td class=3D"line-content">              Lorem ipsum dolor si=
+t amet, consectetur adipiscing elit, sed do</td></tr><tr><td class=3D"line-=
+number" value=3D"449"></td><td class=3D"line-content">              eiusmod=
+ tempor incididunt ut labore et dolore magna aliqua.</td></tr><tr><td class=
+=3D"line-number" value=3D"450"></td><td class=3D"line-content">            =
+<span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"451"></td><td class=3D"line-content">            <span clas=
+s=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"=
+<span class=3D"html-attribute-value">plans</span>"&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"452"></td><td class=3D"line-content">   =
+           <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-n=
+ame">class</span>=3D"<span class=3D"html-attribute-value">plan</span>"&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"453"></td><td class=
+=3D"line-content">                <span class=3D"html-tag">&lt;div <span cl=
+ass=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-v=
+alue">plan__stripe</span>"&gt;</span><span class=3D"html-tag">&lt;/div&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"454"></td><td class=
+=3D"line-content">                <span class=3D"html-tag">&lt;div <span cl=
+ass=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-v=
+alue">plan__top</span>"&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"455"></td><td class=3D"line-content">                  <span class=
+=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<=
+span class=3D"html-attribute-value">plan__name</span>"&gt;</span>PERSONAL<s=
+pan class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"456"></td><td class=3D"line-content">                  <spa=
+n class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</spa=
+n>=3D"<span class=3D"html-attribute-value">plan__price</span>"&gt;</span>$1=
+7.99<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"457"></td><td class=3D"line-content">                =
+  <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">clas=
+s</span>=3D"<span class=3D"html-attribute-value">plan__duration</span>"&gt;=
+</span>MONTHLY<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"458"></td><td class=3D"line-content">      =
+          <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"459"></td><td class=3D"line-content">          =
+      <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">=
+class</span>=3D"<span class=3D"html-attribute-value">plan__middle</span>"&g=
+t;</span></td></tr><tr><td class=3D"line-number" value=3D"460"></td><td cla=
+ss=3D"line-content">                  <span class=3D"html-tag">&lt;div <spa=
+n class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribu=
+te-value">plan__target</span>"&gt;</span>For Individuals<span class=3D"html=
+-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"4=
+61"></td><td class=3D"line-content">                  <span class=3D"html-t=
+ag">&lt;p <span class=3D"html-attribute-name">class</span>=3D"<span class=
+=3D"html-attribute-value">plan__feature</span>"&gt;</span>30 Templates<span=
+ class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"462"></td><td class=3D"line-content">                  <span cla=
+ss=3D"html-tag">&lt;p <span class=3D"html-attribute-name">class</span>=3D"<=
+span class=3D"html-attribute-value">plan__feature</span>"&gt;</span>7 Landi=
+ng Pages<span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"463"></td><td class=3D"line-content">            =
+      <span class=3D"html-tag">&lt;p <span class=3D"html-attribute-name">cl=
+ass</span>=3D"<span class=3D"html-attribute-value">plan__feature</span>"&gt=
+;</span>12 Internal Pages<span class=3D"html-tag">&lt;/p&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"464"></td><td class=3D"line-conten=
+t">                  <span class=3D"html-tag">&lt;p <span class=3D"html-att=
+ribute-name">class</span>=3D"<span class=3D"html-attribute-value">plan__fea=
+ture</span>"&gt;</span>Basic Assistance<span class=3D"html-tag">&lt;/p&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"465"></td><td class=
+=3D"line-content">                <span class=3D"html-tag">&lt;/div&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"466"></td><td class=3D"=
+line-content">                <span class=3D"html-tag">&lt;div <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">plan__bottom</span>"&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"467"></td><td class=3D"line-content">                  <span class=
+=3D"html-tag">&lt;button <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">plan__button</span>"&gt;</span>buy=
+ now<span class=3D"html-tag">&lt;/button&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"468"></td><td class=3D"line-content">            =
+    <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"469"></td><td class=3D"line-content">              <s=
+pan class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"470"></td><td class=3D"line-content">              <span cl=
+ass=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">plan</span>"&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"471"></td><td class=3D"line-content">=
+                <span class=3D"html-tag">&lt;div <span class=3D"html-attrib=
+ute-name">class</span>=3D"<span class=3D"html-attribute-value">plan__stripe=
+</span>"&gt;</span><span class=3D"html-tag">&lt;/div&gt;</span></td></tr><t=
+r><td class=3D"line-number" value=3D"472"></td><td class=3D"line-content"> =
+               <span class=3D"html-tag">&lt;div <span class=3D"html-attribu=
+te-name">class</span>=3D"<span class=3D"html-attribute-value">plan__top</sp=
+an>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"473"></td><=
+td class=3D"line-content">                  <span class=3D"html-tag">&lt;di=
+v <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-a=
+ttribute-value">plan__name</span>"&gt;</span>BUSINESS<span class=3D"html-ta=
+g">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"474"=
+></td><td class=3D"line-content">                  <span class=3D"html-tag"=
+>&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D=
+"html-attribute-value">plan__price</span>"&gt;</span>$37.99<span class=3D"h=
+tml-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"475"></td><td class=3D"line-content">                  <span class=3D"h=
+tml-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span =
+class=3D"html-attribute-value">plan__duration</span>"&gt;</span>MONTHLY<spa=
+n class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"476"></td><td class=3D"line-content">                <span cl=
+ass=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"477"></td><td class=3D"line-content">                <span class=
+=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<=
+span class=3D"html-attribute-value">plan__middle</span>"&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"478"></td><td class=3D"line-conten=
+t">                  <span class=3D"html-tag">&lt;div <span class=3D"html-a=
+ttribute-name">class</span>=3D"<span class=3D"html-attribute-value">plan__t=
+arget</span>"&gt;</span>For Small Businesses<span class=3D"html-tag">&lt;/d=
+iv&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"479"></td><td=
+ class=3D"line-content">                  <span class=3D"html-tag">&lt;p <s=
+pan class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attri=
+bute-value">plan__feature</span>"&gt;</span>60 Templates<span class=3D"html=
+-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"480=
+"></td><td class=3D"line-content">                  <span class=3D"html-tag=
+">&lt;p <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"=
+html-attribute-value">plan__feature</span>"&gt;</span>15 Landing Pages<span=
+ class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"481"></td><td class=3D"line-content">                  <span cla=
+ss=3D"html-tag">&lt;p <span class=3D"html-attribute-name">class</span>=3D"<=
+span class=3D"html-attribute-value">plan__feature</span>"&gt;</span>22 Inte=
+rnal Pages<span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"482"></td><td class=3D"line-content">            =
+      <span class=3D"html-tag">&lt;p <span class=3D"html-attribute-name">cl=
+ass</span>=3D"<span class=3D"html-attribute-value">plan__feature</span>"&gt=
+;</span>Priority Assistance<span class=3D"html-tag">&lt;/p&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"483"></td><td class=3D"line-cont=
+ent">                <span class=3D"html-tag">&lt;/div&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"484"></td><td class=3D"line-content"=
+>                <span class=3D"html-tag">&lt;div <span class=3D"html-attri=
+bute-name">class</span>=3D"<span class=3D"html-attribute-value">plan__botto=
+m</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"485"><=
+/td><td class=3D"line-content">                  <span class=3D"html-tag">&=
+lt;button <span class=3D"html-attribute-name">class</span>=3D"<span class=
+=3D"html-attribute-value">plan__button</span>"&gt;</span>buy now<span class=
+=3D"html-tag">&lt;/button&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"486"></td><td class=3D"line-content">                <span class=
+=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"487"></td><td class=3D"line-content">              <span class=3D"ht=
+ml-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"488"></td><td class=3D"line-content">              <span class=3D"html-tag=
+">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span class=
+=3D"html-attribute-value">plan</span>"&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"489"></td><td class=3D"line-content">               =
+ <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class=
+</span>=3D"<span class=3D"html-attribute-value">plan__stripe</span>"&gt;</s=
+pan><span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"490"></td><td class=3D"line-content">                =
+<span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class<=
+/span>=3D"<span class=3D"html-attribute-value">plan__top</span>"&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"491"></td><td class=3D"lin=
+e-content">                  <span class=3D"html-tag">&lt;div <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">plan__name</span>"&gt;</span>ENTERPRISE<span class=3D"html-tag">&lt;/div=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"492"></td><td c=
+lass=3D"line-content">                  <span class=3D"html-tag">&lt;div <s=
+pan class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attri=
+bute-value">plan__price</span>"&gt;</span>$57.99<span class=3D"html-tag">&l=
+t;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"493"></td=
+><td class=3D"line-content">                  <span class=3D"html-tag">&lt;=
+div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html=
+-attribute-value">plan__duration</span>"&gt;</span>MONTHLY<span class=3D"ht=
+ml-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"494"></td><td class=3D"line-content">                <span class=3D"html-t=
+ag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"495=
+"></td><td class=3D"line-content">                <span class=3D"html-tag">=
+&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"=
+html-attribute-value">plan__middle</span>"&gt;</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"496"></td><td class=3D"line-content">           =
+       <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name"=
+>class</span>=3D"<span class=3D"html-attribute-value">plan__target</span>"&=
+gt;</span>For Large Companies<span class=3D"html-tag">&lt;/div&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"497"></td><td class=3D"line-=
+content">                  <span class=3D"html-tag">&lt;p <span class=3D"ht=
+ml-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">pla=
+n__feature</span>"&gt;</span>90 Templates<span class=3D"html-tag">&lt;/p&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"498"></td><td clas=
+s=3D"line-content">                  <span class=3D"html-tag">&lt;p <span c=
+lass=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-=
+value">plan__feature</span>"&gt;</span>27 Landing Pages<span class=3D"html-=
+tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"499"=
+></td><td class=3D"line-content">                  <span class=3D"html-tag"=
+>&lt;p <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"h=
+tml-attribute-value">plan__feature</span>"&gt;</span>37 Internal Pages<span=
+ class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"500"></td><td class=3D"line-content">                  <span cla=
+ss=3D"html-tag">&lt;p <span class=3D"html-attribute-name">class</span>=3D"<=
+span class=3D"html-attribute-value">plan__feature</span>"&gt;</span>Persona=
+l Assistance<span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"501"></td><td class=3D"line-content">          =
+      <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"502"></td><td class=3D"line-content">            =
+    <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">cl=
+ass</span>=3D"<span class=3D"html-attribute-value">plan__bottom</span>"&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"503"></td><td class=
+=3D"line-content">                  <span class=3D"html-tag">&lt;button <sp=
+an class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attrib=
+ute-value">plan__button</span>"&gt;</span>buy now<span class=3D"html-tag">&=
+lt;/button&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"504">=
+</td><td class=3D"line-content">                <span class=3D"html-tag">&l=
+t;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"505"></td=
+><td class=3D"line-content">              <span class=3D"html-tag">&lt;/div=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"506"></td><td c=
+lass=3D"line-content">              <span class=3D"html-tag">&lt;svg</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"507"></td><td class=3D"lin=
+e-content"><span class=3D"html-tag">                <span class=3D"html-att=
+ribute-name">width</span>=3D"<span class=3D"html-attribute-value">600</span=
+>"</span></td></tr><tr><td class=3D"line-number" value=3D"508"></td><td cla=
+ss=3D"line-content"><span class=3D"html-tag">                <span class=3D=
+"html-attribute-name">height</span>=3D"<span class=3D"html-attribute-value"=
+>600</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"509"></=
+td><td class=3D"line-content"><span class=3D"html-tag">                <spa=
+n class=3D"html-attribute-name">viewBox</span>=3D"<span class=3D"html-attri=
+bute-value">0 0 600 600</span>"</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"510"></td><td class=3D"line-content"><span class=3D"html-tag"> =
+               <span class=3D"html-attribute-name">xmlns</span>=3D"<span cl=
+ass=3D"html-attribute-value">http://www.w3.org/2000/svg</span>"</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"511"></td><td class=3D"line-con=
+tent"><span class=3D"html-tag">                <span class=3D"html-attribut=
+e-name">class</span>=3D"<span class=3D"html-attribute-value">plans__blob</s=
+pan>"</span></td></tr><tr><td class=3D"line-number" value=3D"512"></td><td =
+class=3D"line-content"><span class=3D"html-tag">              &gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"513"></td><td class=3D"line-=
+content">                <span class=3D"html-tag">&lt;g <span class=3D"html=
+-attribute-name">transform</span>=3D"<span class=3D"html-attribute-value">t=
+ranslate(300,300)</span>"&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"514"></td><td class=3D"line-content">                  <span clas=
+s=3D"html-tag">&lt;path</span></td></tr><tr><td class=3D"line-number" value=
+=3D"515"></td><td class=3D"line-content"><span class=3D"html-tag">         =
+           <span class=3D"html-attribute-name">d</span>=3D"<span class=3D"h=
+tml-attribute-value">M82,-98.3C129.8,-57.7,208.2,-54.1,229.6,-26.6C251.1,1,=
+215.6,52.5,172.9,74.9C130.2,97.2,80.3,90.4,37.8,107.5C-4.8,124.7,-40,165.7,=
+-63.3,162.3C-86.5,158.8,-97.8,110.9,-109.3,72.2C-120.7,33.5,-132.2,4.1,-140=
+.1,-37.4C-147.9,-79,-152.1,-132.6,-128.1,-177.3C-104.1,-222.1,-52.1,-258,-1=
+7.5,-237.2C17.1,-216.4,34.3,-138.9,82,-98.3Z</span>"</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"516"></td><td class=3D"line-content"><span=
+ class=3D"html-tag">                    <span class=3D"html-attribute-name"=
+>fill</span>=3D"<span class=3D"html-attribute-value">#FFB4BC</span>"</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"517"></td><td class=3D"lin=
+e-content"><span class=3D"html-tag">                  &gt;</span><span clas=
+s=3D"html-tag">&lt;/path&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"518"></td><td class=3D"line-content">                <span class=
+=3D"html-tag">&lt;/g&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"519"></td><td class=3D"line-content">              <span class=3D"html=
+-tag">&lt;/svg&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"5=
+20"></td><td class=3D"line-content">            <span class=3D"html-tag">&l=
+t;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"521"></td=
+><td class=3D"line-content">          <span class=3D"html-tag">&lt;/div&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"522"></td><td class=
+=3D"line-content">        <span class=3D"html-tag">&lt;/div&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"523"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;/section&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"524"></td><td class=3D"line-content">    =
+  <span class=3D"html-tag">&lt;section <span class=3D"html-attribute-name">=
+id</span>=3D"<span class=3D"html-attribute-value">testimonials</span>"&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"525"></td><td class=
+=3D"line-content">        <span class=3D"html-tag">&lt;div <span class=3D"h=
+tml-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">co=
+ntainer</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+526"></td><td class=3D"line-content">          <span class=3D"html-tag">&lt=
+;div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"htm=
+l-attribute-value">row</span>"&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"527"></td><td class=3D"line-content">            <span class=
+=3D"html-tag">&lt;img</span></td></tr><tr><td class=3D"line-number" value=
+=3D"528"></td><td class=3D"line-content"><span class=3D"html-tag">         =
+     <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html-att=
+ribute-value html-resource-link" target=3D"_blank" href=3D"https://module-2=
+-fp-example-website.vercel.app/assets/love-illustration.c759090fa833369ad6f=
+fb6eb19cacb3e.svg" rel=3D"noreferrer noopener">./assets/love-illustration.c=
+759090fa833369ad6ffb6eb19cacb3e.svg</a>"</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"529"></td><td class=3D"line-content"><span class=3D"ht=
+ml-tag">              <span class=3D"html-attribute-name">alt</span>=3D""</=
+span></td></tr><tr><td class=3D"line-number" value=3D"530"></td><td class=
+=3D"line-content"><span class=3D"html-tag">              <span class=3D"htm=
+l-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">test=
+imonials__img</span>"</span></td></tr><tr><td class=3D"line-number" value=
+=3D"531"></td><td class=3D"line-content"><span class=3D"html-tag">         =
+   /&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"532"></td><=
+td class=3D"line-content">            <span class=3D"html-tag">&lt;div <spa=
+n class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribu=
+te-value">testimonials__description</span>"&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"533"></td><td class=3D"line-content">          =
+    <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">cl=
+ass</span>=3D"<span class=3D"html-attribute-value">section__tag</span>"&gt;=
+</span>testimonials<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><t=
+r><td class=3D"line-number" value=3D"534"></td><td class=3D"line-content"> =
+             <span class=3D"html-tag">&lt;h2 <span class=3D"html-attribute-=
+name">class</span>=3D"<span class=3D"html-attribute-value">section__title</=
+span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"535"></td=
+><td class=3D"line-content">                Our Clients <span class=3D"html=
+-tag">&lt;span <span class=3D"html-attribute-name">class</span>=3D"<span cl=
+ass=3D"html-attribute-value">purple</span>"&gt;</span>Love Us.<span class=
+=3D"html-tag">&lt;/span&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"536"></td><td class=3D"line-content">              <span class=3D"h=
+tml-tag">&lt;/h2&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"537"></td><td class=3D"line-content">              <span class=3D"html-tag=
+">&lt;p <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"=
+html-attribute-value">section__para</span>"&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"538"></td><td class=3D"line-content">          =
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</td><=
+/tr><tr><td class=3D"line-number" value=3D"539"></td><td class=3D"line-cont=
+ent">                eiusmod tempor incididunt ut labore et dolore magna al=
+iqua enim</td></tr><tr><td class=3D"line-number" value=3D"540"></td><td cla=
+ss=3D"line-content">                ad minim veniam.</td></tr><tr><td class=
+=3D"line-number" value=3D"541"></td><td class=3D"line-content">            =
+  <span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"542"></td><td class=3D"line-content">              <span =
+class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">testimonial</span>"&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"543"></td><td class=3D"line-co=
+ntent">                <span class=3D"html-tag">&lt;div <span class=3D"html=
+-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">testi=
+monial__rating</span>"&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"544"></td><td class=3D"line-content">                  <span class=
+=3D"html-tag">&lt;i <span class=3D"html-attribute-name">class</span>=3D"<sp=
+an class=3D"html-attribute-value">fas fa-star</span>"&gt;</span><span class=
+=3D"html-tag">&lt;/i&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"545"></td><td class=3D"line-content">                  <span class=3D"=
+html-tag">&lt;i <span class=3D"html-attribute-name">class</span>=3D"<span c=
+lass=3D"html-attribute-value">fas fa-star</span>"&gt;</span><span class=3D"=
+html-tag">&lt;/i&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"546"></td><td class=3D"line-content">                  <span class=3D"html=
+-tag">&lt;i <span class=3D"html-attribute-name">class</span>=3D"<span class=
+=3D"html-attribute-value">fas fa-star</span>"&gt;</span><span class=3D"html=
+-tag">&lt;/i&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"547=
+"></td><td class=3D"line-content">                  <span class=3D"html-tag=
+">&lt;i <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"=
+html-attribute-value">fas fa-star</span>"&gt;</span><span class=3D"html-tag=
+">&lt;/i&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"548"></=
+td><td class=3D"line-content">                  <span class=3D"html-tag">&l=
+t;i <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html=
+-attribute-value">fas fa-star</span>"&gt;</span><span class=3D"html-tag">&l=
+t;/i&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"549"></td><=
+td class=3D"line-content">                <span class=3D"html-tag">&lt;/div=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"550"></td><td c=
+lass=3D"line-content">                <span class=3D"html-tag">&lt;h3 <span=
+ class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribut=
+e-value">testimonial__title</span>"&gt;</span>Amazing User Experience<span =
+class=3D"html-tag">&lt;/h3&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"551"></td><td class=3D"line-content">                <span class=
+=3D"html-tag">&lt;p <span class=3D"html-attribute-name">class</span>=3D"<sp=
+an class=3D"html-attribute-value">testimonial__para</span>"&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"552"></td><td class=3D"line-con=
+tent">                  Duis aute irure dolor in reprehenderit in voluptate=
+ velit esse</td></tr><tr><td class=3D"line-number" value=3D"553"></td><td c=
+lass=3D"line-content">                  cillum dolore eu fugiat nulla paria=
+tur. Excepteur sint</td></tr><tr><td class=3D"line-number" value=3D"554"></=
+td><td class=3D"line-content">                  occaecat cupidatat non proi=
+dent, sunt in culpa qui officia.</td></tr><tr><td class=3D"line-number" val=
+ue=3D"555"></td><td class=3D"line-content">                  Lorem ipsum do=
+lor sit amet, consectetur adipiscing elit, sed</td></tr><tr><td class=3D"li=
+ne-number" value=3D"556"></td><td class=3D"line-content">                  =
+do eiusmod tempor incididunt ut labore et dolore magna aliqua.</td></tr><tr=
+><td class=3D"line-number" value=3D"557"></td><td class=3D"line-content">  =
+                Ut enim ad minim veniam, quis nostrud exercitation ullamco.=
+</td></tr><tr><td class=3D"line-number" value=3D"558"></td><td class=3D"lin=
+e-content">                <span class=3D"html-tag">&lt;/p&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"559"></td><td class=3D"line-cont=
+ent">                <span class=3D"html-tag">&lt;div <span class=3D"html-a=
+ttribute-name">class</span>=3D"<span class=3D"html-attribute-value">testimo=
+nial__bottom</span>"&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"560"></td><td class=3D"line-content">                  <span class=3D"=
+html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span=
+ class=3D"html-attribute-value">testimonial__profile</span>"&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"561"></td><td class=3D"line-co=
+ntent">                    <span class=3D"html-tag">&lt;img</span></td></tr=
+><tr><td class=3D"line-number" value=3D"562"></td><td class=3D"line-content=
+"><span class=3D"html-tag">                      <span class=3D"html-attrib=
+ute-name">src</span>=3D"<a class=3D"html-attribute-value html-resource-link=
+" target=3D"_blank" href=3D"https://images.unsplash.com/photo-1494790108377=
+-be9c29b29330?ixlib=3Drb-1.2.1&amp;ixid=3DeyJhcHBfaWQiOjEyMDd9&amp;auto=3Df=
+ormat&amp;fit=3Dfacearea&amp;facepad=3D3.25&amp;w=3D512&amp;h=3D512&amp;q=
+=3D80" rel=3D"noreferrer noopener">https://images.unsplash.com/photo-149479=
+0108377-be9c29b29330?ixlib=3Drb-1.2.1&amp;amp;ixid=3DeyJhcHBfaWQiOjEyMDd9&a=
+mp;amp;auto=3Dformat&amp;amp;fit=3Dfacearea&amp;amp;facepad=3D3.25&amp;amp;=
+w=3D512&amp;amp;h=3D512&amp;amp;q=3D80</a>"</span></td></tr><tr><td class=
+=3D"line-number" value=3D"563"></td><td class=3D"line-content"><span class=
+=3D"html-tag">                      <span class=3D"html-attribute-name">cla=
+ss</span>=3D"<span class=3D"html-attribute-value">testimonial__img</span>"<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"564"></td><td class=
+=3D"line-content"><span class=3D"html-tag">                    /&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"565"></td><td class=3D"lin=
+e-content">                    <span class=3D"html-tag">&lt;div <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">testimonial__details</span>"&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"566"></td><td class=3D"line-content">                      =
+<span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class<=
+/span>=3D"<span class=3D"html-attribute-value">testimonial__name</span>"&gt=
+;</span>Charlotte Hale<span class=3D"html-tag">&lt;/div&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"567"></td><td class=3D"line-content=
+">                      <span class=3D"html-tag">&lt;div <span class=3D"htm=
+l-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">test=
+imonial__role</span>"&gt;</span>Director, Delos Inc.<span class=3D"html-tag=
+">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"568">=
+</td><td class=3D"line-content">                    <span class=3D"html-tag=
+">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"569">=
+</td><td class=3D"line-content">                  <span class=3D"html-tag">=
+&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"570"></=
+td><td class=3D"line-content">                  <span class=3D"html-tag">&l=
+t;div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"ht=
+ml-attribute-value">testimonial__buttons</span>"&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"571"></td><td class=3D"line-content">     =
+               <span class=3D"html-tag">&lt;button <span class=3D"html-attr=
+ibute-name">class</span>=3D"<span class=3D"html-attribute-value">testimonia=
+l__button</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"572"></td><td class=3D"line-content">                      <span class=
+=3D"html-tag">&lt;svg</span></td></tr><tr><td class=3D"line-number" value=
+=3D"573"></td><td class=3D"line-content"><span class=3D"html-tag">         =
+               <span class=3D"html-attribute-name">fill</span>=3D"<span cla=
+ss=3D"html-attribute-value">none</span>"</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"574"></td><td class=3D"line-content"><span class=3D"ht=
+ml-tag">                        <span class=3D"html-attribute-name">stroke<=
+/span>=3D"<span class=3D"html-attribute-value">rgb(100,21,255)</span>"</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"575"></td><td class=3D"l=
+ine-content"><span class=3D"html-tag">                        <span class=
+=3D"html-attribute-name">stroke-linecap</span>=3D"<span class=3D"html-attri=
+bute-value">round</span>"</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"576"></td><td class=3D"line-content"><span class=3D"html-tag">       =
+                 <span class=3D"html-attribute-name">stroke-linejoin</span>=
+=3D"<span class=3D"html-attribute-value">round</span>"</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"577"></td><td class=3D"line-content"><sp=
+an class=3D"html-tag">                        <span class=3D"html-attribute=
+-name">stroke-width</span>=3D"<span class=3D"html-attribute-value">3</span>=
+"</span></td></tr><tr><td class=3D"line-number" value=3D"578"></td><td clas=
+s=3D"line-content"><span class=3D"html-tag">                        <span c=
+lass=3D"html-attribute-name">viewBox</span>=3D"<span class=3D"html-attribut=
+e-value">0 0 24 24</span>"</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"579"></td><td class=3D"line-content"><span class=3D"html-tag">      =
+                &gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"580"></td><td class=3D"line-content">                        <span class=
+=3D"html-tag">&lt;path <span class=3D"html-attribute-name">d</span>=3D"<spa=
+n class=3D"html-attribute-value">M10 19l-7-7m0 0l7-7m-7 7h18</span>"&gt;</s=
+pan><span class=3D"html-tag">&lt;/path&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"581"></td><td class=3D"line-content">               =
+       <span class=3D"html-tag">&lt;/svg&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"582"></td><td class=3D"line-content">            =
+        <span class=3D"html-tag">&lt;/button&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"583"></td><td class=3D"line-content">         =
+           <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-n=
+ame">class</span>=3D"<span class=3D"html-attribute-value">divider</span>"&g=
+t;</span><span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"584"></td><td class=3D"line-content">           =
+         <span class=3D"html-tag">&lt;button <span class=3D"html-attribute-=
+name">class</span>=3D"<span class=3D"html-attribute-value">testimonial__but=
+ton</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"585"=
+></td><td class=3D"line-content">                      <span class=3D"html-=
+tag">&lt;svg</span></td></tr><tr><td class=3D"line-number" value=3D"586"></=
+td><td class=3D"line-content"><span class=3D"html-tag">                    =
+    <span class=3D"html-attribute-name">fill</span>=3D"<span class=3D"html-=
+attribute-value">none</span>"</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"587"></td><td class=3D"line-content"><span class=3D"html-tag">   =
+                     <span class=3D"html-attribute-name">stroke</span>=3D"<=
+span class=3D"html-attribute-value">rgb(100,21,255)</span>"</span></td></tr=
+><tr><td class=3D"line-number" value=3D"588"></td><td class=3D"line-content=
+"><span class=3D"html-tag">                        <span class=3D"html-attr=
+ibute-name">stroke-linecap</span>=3D"<span class=3D"html-attribute-value">r=
+ound</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"589"></=
+td><td class=3D"line-content"><span class=3D"html-tag">                    =
+    <span class=3D"html-attribute-name">stroke-linejoin</span>=3D"<span cla=
+ss=3D"html-attribute-value">round</span>"</span></td></tr><tr><td class=3D"=
+line-number" value=3D"590"></td><td class=3D"line-content"><span class=3D"h=
+tml-tag">                        <span class=3D"html-attribute-name">stroke=
+-width</span>=3D"<span class=3D"html-attribute-value">3</span>"</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"591"></td><td class=3D"line-con=
+tent"><span class=3D"html-tag">                        <span class=3D"html-=
+attribute-name">viewBox</span>=3D"<span class=3D"html-attribute-value">0 0 =
+24 24</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"592"><=
+/td><td class=3D"line-content"><span class=3D"html-tag">                   =
+   &gt;</span></td></tr><tr><td class=3D"line-number" value=3D"593"></td><t=
+d class=3D"line-content">                        <span class=3D"html-tag">&=
+lt;path <span class=3D"html-attribute-name">d</span>=3D"<span class=3D"html=
+-attribute-value">M14 5l7 7m0 0l-7 7m7-7H3</span>"&gt;</span><span class=3D=
+"html-tag">&lt;/path&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"594"></td><td class=3D"line-content">                      <span class=
+=3D"html-tag">&lt;/svg&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"595"></td><td class=3D"line-content">                    <span class=
+=3D"html-tag">&lt;/button&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"596"></td><td class=3D"line-content">                  <span clas=
+s=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"597"></td><td class=3D"line-content">                <span class=3D=
+"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"598"></td><td class=3D"line-content">              <span class=3D"html-=
+tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"59=
+9"></td><td class=3D"line-content">            <span class=3D"html-tag">&lt=
+;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"600"></td>=
+<td class=3D"line-content">          <span class=3D"html-tag">&lt;/div&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"601"></td><td class=
+=3D"line-content">        <span class=3D"html-tag">&lt;/div&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"602"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;/section&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"603"></td><td class=3D"line-content">    =
+  <span class=3D"html-tag">&lt;section <span class=3D"html-attribute-name">=
+id</span>=3D"<span class=3D"html-attribute-value">start</span>"&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"604"></td><td class=3D"line=
+-content">        <span class=3D"html-tag">&lt;div <span class=3D"html-attr=
+ibute-name">class</span>=3D"<span class=3D"html-attribute-value">container<=
+/span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"605"></t=
+d><td class=3D"line-content">          <span class=3D"html-tag">&lt;div <sp=
+an class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attrib=
+ute-value">row</span>"&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"606"></td><td class=3D"line-content">            <span class=3D"html=
+-tag">&lt;svg <span class=3D"html-attribute-name">viewBox</span>=3D"<span c=
+lass=3D"html-attribute-value">0 0 600 600</span>" <span class=3D"html-attri=
+bute-name">class</span>=3D"<span class=3D"html-attribute-value">start__blob=
+--1</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"607"=
+></td><td class=3D"line-content">              <span class=3D"html-tag">&lt=
+;g <span class=3D"html-attribute-name">transform</span>=3D"<span class=3D"h=
+tml-attribute-value">translate(300,300)</span>"&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"608"></td><td class=3D"line-content">      =
+          <span class=3D"html-tag">&lt;path</span></td></tr><tr><td class=
+=3D"line-number" value=3D"609"></td><td class=3D"line-content"><span class=
+=3D"html-tag">                  <span class=3D"html-attribute-name">d</span=
+>=3D"<span class=3D"html-attribute-value">M153.6,-239C199.1,-209.8,236,-167=
+.2,258.4,-118C280.9,-68.9,288.9,-13.1,281.2,40.4C273.5,93.9,250.1,145.2,214=
+.7,186.1C179.3,226.9,131.9,257.4,80,272.6C28.2,287.8,-28.2,287.8,-80,272.6C=
+-131.9,257.4,-179.3,226.9,-214.7,186.1C-250.1,145.2,-273.5,93.9,-281.2,40.4=
+C-288.9,-13.1,-280.9,-68.9,-258.4,-118C-236,-167.2,-199.1,-209.8,-153.6,-23=
+9C-108.1,-268.3,-54.1,-284.1,0,-284.1C54.1,-284.1,108.1,-268.3,153.6,-239Z<=
+/span>"</span></td></tr><tr><td class=3D"line-number" value=3D"610"></td><t=
+d class=3D"line-content"><span class=3D"html-tag">                  <span c=
+lass=3D"html-attribute-name">fill</span>=3D"<span class=3D"html-attribute-v=
+alue">rgb(80,17,204)</span>"</span></td></tr><tr><td class=3D"line-number" =
+value=3D"611"></td><td class=3D"line-content"><span class=3D"html-tag">    =
+            &gt;</span><span class=3D"html-tag">&lt;/path&gt;</span></td></=
+tr><tr><td class=3D"line-number" value=3D"612"></td><td class=3D"line-conte=
+nt">              <span class=3D"html-tag">&lt;/g&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"613"></td><td class=3D"line-content">    =
+        <span class=3D"html-tag">&lt;/svg&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"614"></td><td class=3D"line-content">            =
+<span class=3D"html-tag">&lt;svg <span class=3D"html-attribute-name">viewBo=
+x</span>=3D"<span class=3D"html-attribute-value">0 0 600 600</span>" <span =
+class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute=
+-value">start__blob--2</span>"&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"615"></td><td class=3D"line-content">              <span cla=
+ss=3D"html-tag">&lt;g <span class=3D"html-attribute-name">transform</span>=
+=3D"<span class=3D"html-attribute-value">translate(300,300)</span>"&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"616"></td><td class=3D"=
+line-content">                <span class=3D"html-tag">&lt;path</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"617"></td><td class=3D"line-con=
+tent"><span class=3D"html-tag">                  <span class=3D"html-attrib=
+ute-name">d</span>=3D"<span class=3D"html-attribute-value">M153.6,-239C199.=
+1,-209.8,236,-167.2,258.4,-118C280.9,-68.9,288.9,-13.1,281.2,40.4C273.5,93.=
+9,250.1,145.2,214.7,186.1C179.3,226.9,131.9,257.4,80,272.6C28.2,287.8,-28.2=
+,287.8,-80,272.6C-131.9,257.4,-179.3,226.9,-214.7,186.1C-250.1,145.2,-273.5=
+,93.9,-281.2,40.4C-288.9,-13.1,-280.9,-68.9,-258.4,-118C-236,-167.2,-199.1,=
+-209.8,-153.6,-239C-108.1,-268.3,-54.1,-284.1,0,-284.1C54.1,-284.1,108.1,-2=
+68.3,153.6,-239Z</span>"</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"618"></td><td class=3D"line-content"><span class=3D"html-tag">        =
+          <span class=3D"html-attribute-name">fill</span>=3D"<span class=3D=
+"html-attribute-value">rgb(80,17,204)</span>"</span></td></tr><tr><td class=
+=3D"line-number" value=3D"619"></td><td class=3D"line-content"><span class=
+=3D"html-tag">                &gt;</span><span class=3D"html-tag">&lt;/path=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"620"></td><td c=
+lass=3D"line-content">              <span class=3D"html-tag">&lt;/g&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"621"></td><td class=3D"=
+line-content">            <span class=3D"html-tag">&lt;/svg&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"622"></td><td class=3D"line-con=
+tent">            <span class=3D"html-tag">&lt;div <span class=3D"html-attr=
+ibute-name">class</span>=3D"<span class=3D"html-attribute-value">start__con=
+tainer</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"6=
+23"></td><td class=3D"line-content">              <span class=3D"html-tag">=
+&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"=
+html-attribute-value">start__row</span>"&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"624"></td><td class=3D"line-content">            =
+    <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">cl=
+ass</span>=3D"<span class=3D"html-attribute-value">start__title</span>"&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"625"></td><td class=
+=3D"line-content">                  Developers all over the world are happi=
+ly using Treact.</td></tr><tr><td class=3D"line-number" value=3D"626"></td>=
+<td class=3D"line-content">                <span class=3D"html-tag">&lt;/di=
+v&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"627"></td><td =
+class=3D"line-content">                <span class=3D"html-tag">&lt;div <sp=
+an class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attrib=
+ute-value">start__buttons</span>"&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"628"></td><td class=3D"line-content">                  <s=
+pan class=3D"html-tag">&lt;button <span class=3D"html-attribute-name">class=
+</span>=3D"<span class=3D"html-attribute-value">start__button btn</span>"&g=
+t;</span>Get Started<span class=3D"html-tag">&lt;/button&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"629"></td><td class=3D"line-conten=
+t">                  <span class=3D"html-tag">&lt;button <span class=3D"htm=
+l-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">star=
+t__button btn</span>"&gt;</span>Contact Us<span class=3D"html-tag">&lt;/but=
+ton&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"630"></td><t=
+d class=3D"line-content">                <span class=3D"html-tag">&lt;/div&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"631"></td><td cl=
+ass=3D"line-content">              <span class=3D"html-tag">&lt;/div&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"632"></td><td class=3D=
+"line-content">            <span class=3D"html-tag">&lt;/div&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"633"></td><td class=3D"line-co=
+ntent">          <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"634"></td><td class=3D"line-content">   =
+     <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"635"></td><td class=3D"line-content">      <span cla=
+ss=3D"html-tag">&lt;/section&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"636"></td><td class=3D"line-content">    <span class=3D"html-t=
+ag">&lt;/main&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"63=
+7"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;footer&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"638"></td><td cl=
+ass=3D"line-content">      <span class=3D"html-tag">&lt;svg <span class=3D"=
+html-attribute-name">viewBox</span>=3D"<span class=3D"html-attribute-value"=
+>0 0 600 600</span>" <span class=3D"html-attribute-name">class</span>=3D"<s=
+pan class=3D"html-attribute-value">footer__blob--1</span>"&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"639"></td><td class=3D"line-cont=
+ent">        <span class=3D"html-tag">&lt;g <span class=3D"html-attribute-n=
+ame">transform</span>=3D"<span class=3D"html-attribute-value">translate(300=
+,300)</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"64=
+0"></td><td class=3D"line-content">          <span class=3D"html-tag">&lt;p=
+ath</span></td></tr><tr><td class=3D"line-number" value=3D"641"></td><td cl=
+ass=3D"line-content"><span class=3D"html-tag">            <span class=3D"ht=
+ml-attribute-name">d</span>=3D"<span class=3D"html-attribute-value">M153.6,=
+-239C199.1,-209.8,236,-167.2,258.4,-118C280.9,-68.9,288.9,-13.1,281.2,40.4C=
+273.5,93.9,250.1,145.2,214.7,186.1C179.3,226.9,131.9,257.4,80,272.6C28.2,28=
+7.8,-28.2,287.8,-80,272.6C-131.9,257.4,-179.3,226.9,-214.7,186.1C-250.1,145=
+.2,-273.5,93.9,-281.2,40.4C-288.9,-13.1,-280.9,-68.9,-258.4,-118C-236,-167.=
+2,-199.1,-209.8,-153.6,-239C-108.1,-268.3,-54.1,-284.1,0,-284.1C54.1,-284.1=
+,108.1,-268.3,153.6,-239Z</span>"</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"642"></td><td class=3D"line-content"><span class=3D"html-tag"=
+>            <span class=3D"html-attribute-name">fill</span>=3D"<span class=
+=3D"html-attribute-value">rgba(80,17,204)</span>"</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"643"></td><td class=3D"line-content"><span cl=
+ass=3D"html-tag">          &gt;</span><span class=3D"html-tag">&lt;/path&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"644"></td><td clas=
+s=3D"line-content">        <span class=3D"html-tag">&lt;/g&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"645"></td><td class=3D"line-cont=
+ent">      <span class=3D"html-tag">&lt;/svg&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"646"></td><td class=3D"line-content">      <sp=
+an class=3D"html-tag">&lt;svg <span class=3D"html-attribute-name">viewBox</=
+span>=3D"<span class=3D"html-attribute-value">0 0 600 600</span>" <span cla=
+ss=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-va=
+lue">footer__blob--2</span>"&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"647"></td><td class=3D"line-content">        <span class=3D"ht=
+ml-tag">&lt;g <span class=3D"html-attribute-name">transform</span>=3D"<span=
+ class=3D"html-attribute-value">translate(300,300)</span>"&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"648"></td><td class=3D"line-cont=
+ent">          <span class=3D"html-tag">&lt;path</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"649"></td><td class=3D"line-content"><span cla=
+ss=3D"html-tag">            <span class=3D"html-attribute-name">d</span>=3D=
+"<span class=3D"html-attribute-value">M153.6,-239C199.1,-209.8,236,-167.2,2=
+58.4,-118C280.9,-68.9,288.9,-13.1,281.2,40.4C273.5,93.9,250.1,145.2,214.7,1=
+86.1C179.3,226.9,131.9,257.4,80,272.6C28.2,287.8,-28.2,287.8,-80,272.6C-131=
+.9,257.4,-179.3,226.9,-214.7,186.1C-250.1,145.2,-273.5,93.9,-281.2,40.4C-28=
+8.9,-13.1,-280.9,-68.9,-258.4,-118C-236,-167.2,-199.1,-209.8,-153.6,-239C-1=
+08.1,-268.3,-54.1,-284.1,0,-284.1C54.1,-284.1,108.1,-268.3,153.6,-239Z</spa=
+n>"</span></td></tr><tr><td class=3D"line-number" value=3D"650"></td><td cl=
+ass=3D"line-content"><span class=3D"html-tag">            <span class=3D"ht=
+ml-attribute-name">fill</span>=3D"<span class=3D"html-attribute-value">rgba=
+(80,17,204)</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"=
+651"></td><td class=3D"line-content"><span class=3D"html-tag">          &gt=
+;</span><span class=3D"html-tag">&lt;/path&gt;</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"652"></td><td class=3D"line-content">        <sp=
+an class=3D"html-tag">&lt;/g&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"653"></td><td class=3D"line-content">      <span class=3D"html=
+-tag">&lt;/svg&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"6=
+54"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;div =
+<span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-att=
+ribute-value">row footer__row</span>"&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"655"></td><td class=3D"line-content">        <span cl=
+ass=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">footer__columns</span>"&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"656"></td><td class=3D"lin=
+e-content">          <span class=3D"html-tag">&lt;div <span class=3D"html-a=
+ttribute-name">class</span>=3D"<span class=3D"html-attribute-value">footer_=
+_column</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+657"></td><td class=3D"line-content">            <span class=3D"html-tag">&=
+lt;div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"h=
+tml-attribute-value">footer__column--title</span>"&gt;</span>MAIN<span clas=
+s=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"658"></td><td class=3D"line-content">            <span class=3D"htm=
+l-tag">&lt;a <span class=3D"html-attribute-name">class</span>=3D"<span clas=
+s=3D"html-attribute-value">footer__column--link</span>"&gt;</span>Blog<span=
+ class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"659"></td><td class=3D"line-content">            <span class=3D"=
+html-tag">&lt;a <span class=3D"html-attribute-name">class</span>=3D"<span c=
+lass=3D"html-attribute-value">footer__column--link</span>"&gt;</span>FAQs<s=
+pan class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"660"></td><td class=3D"line-content">            <span class=
+=3D"html-tag">&lt;a <span class=3D"html-attribute-name">class</span>=3D"<sp=
+an class=3D"html-attribute-value">footer__column--link</span>"&gt;</span>Su=
+pport<span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"661"></td><td class=3D"line-content">            <span=
+ class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">footer__column--link</span>"&gt;</=
+span>About Us<span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"662"></td><td class=3D"line-content">         =
+ <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"663"></td><td class=3D"line-content">          <span cla=
+ss=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D=
+"<span class=3D"html-attribute-value">footer__column</span>"&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"664"></td><td class=3D"line-co=
+ntent">            <span class=3D"html-tag">&lt;div <span class=3D"html-att=
+ribute-name">class</span>=3D"<span class=3D"html-attribute-value">footer__c=
+olumn--title</span>"&gt;</span>PRODUCT<span class=3D"html-tag">&lt;/div&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"665"></td><td class=
+=3D"line-content">            <span class=3D"html-tag">&lt;a <span class=3D=
+"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">=
+footer__column--link</span>"&gt;</span>Log In<span class=3D"html-tag">&lt;/=
+a&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"666"></td><td =
+class=3D"line-content">            <span class=3D"html-tag">&lt;a <span cla=
+ss=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-va=
+lue">footer__column--link</span>"&gt;</span>Personal<span class=3D"html-tag=
+">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"667"></=
+td><td class=3D"line-content">            <span class=3D"html-tag">&lt;a <s=
+pan class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attri=
+bute-value">footer__column--link</span>"&gt;</span>Business<span class=3D"h=
+tml-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+668"></td><td class=3D"line-content">            <span class=3D"html-tag">&=
+lt;a <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"htm=
+l-attribute-value">footer__column--link</span>"&gt;</span>Team<span class=
+=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"669"></td><td class=3D"line-content">          <span class=3D"html-tag=
+">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"670">=
+</td><td class=3D"line-content">          <span class=3D"html-tag">&lt;div =
+<span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-att=
+ribute-value">footer__column</span>"&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"671"></td><td class=3D"line-content">            <span=
+ class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span=
+>=3D"<span class=3D"html-attribute-value">footer__column--title</span>"&gt;=
+</span>PRESS<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"672"></td><td class=3D"line-content">        =
+    <span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">clas=
+s</span>=3D"<span class=3D"html-attribute-value">footer__column--link</span=
+>"&gt;</span>Logos<span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"673"></td><td class=3D"line-content">    =
+        <span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">=
+class</span>=3D"<span class=3D"html-attribute-value">footer__column--link</=
+span>"&gt;</span>Events<span class=3D"html-tag">&lt;/a&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"674"></td><td class=3D"line-content"=
+>            <span class=3D"html-tag">&lt;a <span class=3D"html-attribute-n=
+ame">class</span>=3D"<span class=3D"html-attribute-value">footer__column--l=
+ink</span>"&gt;</span>Stories<span class=3D"html-tag">&lt;/a&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"675"></td><td class=3D"line-co=
+ntent">            <span class=3D"html-tag">&lt;a <span class=3D"html-attri=
+bute-name">class</span>=3D"<span class=3D"html-attribute-value">footer__col=
+umn--link</span>"&gt;</span>Office<span class=3D"html-tag">&lt;/a&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"676"></td><td class=3D"li=
+ne-content">          <span class=3D"html-tag">&lt;/div&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"677"></td><td class=3D"line-content=
+">          <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-=
+name">class</span>=3D"<span class=3D"html-attribute-value">footer__column</=
+span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"678"></td=
+><td class=3D"line-content">            <span class=3D"html-tag">&lt;div <s=
+pan class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attri=
+bute-value">footer__column--title</span>"&gt;</span>TEAM<span class=3D"html=
+-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"6=
+79"></td><td class=3D"line-content">            <span class=3D"html-tag">&l=
+t;a <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html=
+-attribute-value">footer__column--link</span>"&gt;</span>Career<span class=
+=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"680"></td><td class=3D"line-content">            <span class=3D"html-t=
+ag">&lt;a <span class=3D"html-attribute-name">class</span>=3D"<span class=
+=3D"html-attribute-value">footer__column--link</span>"&gt;</span>Founders<s=
+pan class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"681"></td><td class=3D"line-content">            <span class=
+=3D"html-tag">&lt;a <span class=3D"html-attribute-name">class</span>=3D"<sp=
+an class=3D"html-attribute-value">footer__column--link</span>"&gt;</span>Cu=
+lture<span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"682"></td><td class=3D"line-content">            <span=
+ class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">footer__column--link</span>"&gt;</=
+span>Onboarding<span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"683"></td><td class=3D"line-content">       =
+   <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"684"></td><td class=3D"line-content">          <span c=
+lass=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">footer__column</span>"&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"685"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;div <span class=3D"html-=
+attribute-name">class</span>=3D"<span class=3D"html-attribute-value">footer=
+__column--title</span>"&gt;</span>LEGAL<span class=3D"html-tag">&lt;/div&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"686"></td><td clas=
+s=3D"line-content">            <span class=3D"html-tag">&lt;a <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">footer__column--link</span>"&gt;</span>GDPR<span class=3D"html-tag">&lt;=
+/a&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"687"></td><td=
+ class=3D"line-content">            <span class=3D"html-tag">&lt;a <span cl=
+ass=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-v=
+alue">footer__column--link</span>"&gt;</span>Privacy Policy<span class=3D"h=
+tml-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+688"></td><td class=3D"line-content">            <span class=3D"html-tag">&=
+lt;a <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"htm=
+l-attribute-value">footer__column--link</span>"&gt;</span>Terms of Service<=
+span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"689"></td><td class=3D"line-content">            <span class=
+=3D"html-tag">&lt;a <span class=3D"html-attribute-name">class</span>=3D"<sp=
+an class=3D"html-attribute-value">footer__column--link</span>"&gt;</span>Di=
+sclaimer<span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"690"></td><td class=3D"line-content">          <s=
+pan class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"691"></td><td class=3D"line-content">        <span class=3D=
+"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"692"></td><td class=3D"line-content">        <span class=3D"html-tag">&=
+lt;div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"h=
+tml-attribute-value">footer__divider</span>"&gt;</span><span class=3D"html-=
+tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"69=
+3"></td><td class=3D"line-content">        <span class=3D"html-tag">&lt;div=
+ <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-at=
+tribute-value">footer__bottom</span>"&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"694"></td><td class=3D"line-content">          <span =
+class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">footer__logo</span>"&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"695"></td><td class=3D"line-c=
+ontent">            <span class=3D"html-tag">&lt;img</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"696"></td><td class=3D"line-content"><span=
+ class=3D"html-tag">              <span class=3D"html-attribute-name">src</=
+span>=3D"<a class=3D"html-attribute-value html-resource-link" target=3D"_bl=
+ank" href=3D"https://module-2-fp-example-website.vercel.app/assets/logo-lig=
+ht.d9a5d1b5be5ea077b26864fdfc2e96a4.svg" rel=3D"noreferrer noopener">./asse=
+ts/logo-light.d9a5d1b5be5ea077b26864fdfc2e96a4.svg</a>"</span></td></tr><tr=
+><td class=3D"line-number" value=3D"697"></td><td class=3D"line-content"><s=
+pan class=3D"html-tag">              <span class=3D"html-attribute-name">al=
+t</span>=3D""</span></td></tr><tr><td class=3D"line-number" value=3D"698"><=
+/td><td class=3D"line-content"><span class=3D"html-tag">              <span=
+ class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribut=
+e-value">footer__logo--img</span>"</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"699"></td><td class=3D"line-content"><span class=3D"html-tag=
+">            /&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+700"></td><td class=3D"line-content">            <span class=3D"html-tag">&=
+lt;h5 <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"ht=
+ml-attribute-value">footer__logo--text</span>"&gt;</span>Treact Inc.<span c=
+lass=3D"html-tag">&lt;/h5&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"701"></td><td class=3D"line-content">          <span class=3D"htm=
+l-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+702"></td><td class=3D"line-content">          <span class=3D"html-tag">&lt=
+;div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"htm=
+l-attribute-value">footer__copyright</span>"&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"703"></td><td class=3D"line-content">         =
+   =C2=A9 2018 Treact Inc. All Rights Reserved.</td></tr><tr><td class=3D"l=
+ine-number" value=3D"704"></td><td class=3D"line-content">          <span c=
+lass=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"705"></td><td class=3D"line-content">          <span class=3D"ht=
+ml-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span c=
+lass=3D"html-attribute-value">footer__socials</span>"&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"706"></td><td class=3D"line-content">=
+            <span class=3D"html-tag">&lt;a <span class=3D"html-attribute-na=
+me">class</span>=3D"<span class=3D"html-attribute-value">footer__social--li=
+nk</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"707">=
+</td><td class=3D"line-content">              <span class=3D"html-tag">&lt;=
+svg <span class=3D"html-attribute-name">fill</span>=3D"<span class=3D"html-=
+attribute-value">currentColor</span>" <span class=3D"html-attribute-name">v=
+iewBox</span>=3D"<span class=3D"html-attribute-value">0 0 24 24</span>"&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"708"></td><td class=
+=3D"line-content">                <span class=3D"html-tag">&lt;path</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"709"></td><td class=3D"line=
+-content"><span class=3D"html-tag">                  <span class=3D"html-at=
+tribute-name">d</span>=3D"<span class=3D"html-attribute-value">M14 13.5h2.5=
+l1-4H14v-2c0-1.03 0-2 2-2h1.5V2.14c-.326-.043-1.557-.14-2.857-.14C11.928 2 =
+10 3.657 10 6.7v2.8H7v4h3V22h4v-8.5z</span>"</span></td></tr><tr><td class=
+=3D"line-number" value=3D"710"></td><td class=3D"line-content"><span class=
+=3D"html-tag">                &gt;</span><span class=3D"html-tag">&lt;/path=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"711"></td><td c=
+lass=3D"line-content">              <span class=3D"html-tag">&lt;/svg&gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"712"></td><td class=
+=3D"line-content">            <span class=3D"html-tag">&lt;/a&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"713"></td><td class=3D"line-c=
+ontent">            <span class=3D"html-tag">&lt;a <span class=3D"html-attr=
+ibute-name">class</span>=3D"<span class=3D"html-attribute-value">footer__so=
+cial--link</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"714"></td><td class=3D"line-content">              <span class=3D"html-=
+tag">&lt;svg <span class=3D"html-attribute-name">fill</span>=3D"<span class=
+=3D"html-attribute-value">currentColor</span>" <span class=3D"html-attribut=
+e-name">viewBox</span>=3D"<span class=3D"html-attribute-value">0 0 24 24</s=
+pan>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"715"></td>=
+<td class=3D"line-content">                <span class=3D"html-tag">&lt;pat=
+h</span></td></tr><tr><td class=3D"line-number" value=3D"716"></td><td clas=
+s=3D"line-content"><span class=3D"html-tag">                  <span class=
+=3D"html-attribute-name">d</span>=3D"<span class=3D"html-attribute-value">M=
+22.162 5.656a8.384 8.384 0 01-2.402.658A4.196 4.196 0 0021.6 4c-.82.488-1.7=
+19.83-2.656 1.015a4.182 4.182 0 00-7.126 3.814 11.874 11.874 0 01-8.62-4.37=
+ 4.168 4.168 0 00-.566 2.103c0 1.45.738 2.731 1.86 3.481a4.168 4.168 0 01-1=
+.894-.523v.052a4.185 4.185 0 003.355 4.101 4.21 4.21 0 01-1.89.072A4.185 4.=
+185 0 007.97 16.65a8.394 8.394 0 01-6.191 1.732 11.83 11.83 0 006.41 1.88c7=
+.693 0 11.9-6.373 11.9-11.9 0-.18-.005-.362-.013-.54a8.496 8.496 0 002.087-=
+2.165z</span>"</span></td></tr><tr><td class=3D"line-number" value=3D"717">=
+</td><td class=3D"line-content"><span class=3D"html-tag">                &g=
+t;</span><span class=3D"html-tag">&lt;/path&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"718"></td><td class=3D"line-content">          =
+    <span class=3D"html-tag">&lt;/svg&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"719"></td><td class=3D"line-content">            <spa=
+n class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"720"></td><td class=3D"line-content">            <span class=3D=
+"html-tag">&lt;a <span class=3D"html-attribute-name">class</span>=3D"<span =
+class=3D"html-attribute-value">footer__social--link</span>"&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"721"></td><td class=3D"line-con=
+tent">              <span class=3D"html-tag">&lt;svg <span class=3D"html-at=
+tribute-name">fill</span>=3D"<span class=3D"html-attribute-value">currentCo=
+lor</span>" <span class=3D"html-attribute-name">viewBox</span>=3D"<span cla=
+ss=3D"html-attribute-value">0 0 24 24</span>"&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"722"></td><td class=3D"line-content">        =
+        <span class=3D"html-tag">&lt;path</span></td></tr><tr><td class=3D"=
+line-number" value=3D"723"></td><td class=3D"line-content"><span class=3D"h=
+tml-tag">                  <span class=3D"html-attribute-name">d</span>=3D"=
+<span class=3D"html-attribute-value">M21.543 6.498C22 8.28 22 12 22 12s0 3.=
+72-.457 5.502c-.254.985-.997 1.76-1.938 2.022C17.896 20 12 20 12 20s-5.893 =
+0-7.605-.476c-.945-.266-1.687-1.04-1.938-2.022C2 15.72 2 12 2 12s0-3.72.457=
+-5.502c.254-.985.997-1.76 1.938-2.022C6.107 4 12 4 12 4s5.896 0 7.605.476c.=
+945.266 1.687 1.04 1.938 2.022zM10 15.5l6-3.5-6-3.5v7z</span>"</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"724"></td><td class=3D"line-cont=
+ent"><span class=3D"html-tag">                &gt;</span><span class=3D"htm=
+l-tag">&lt;/path&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"725"></td><td class=3D"line-content">              <span class=3D"html-tag=
+">&lt;/svg&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"726">=
+</td><td class=3D"line-content">            <span class=3D"html-tag">&lt;/a=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"727"></td><td c=
+lass=3D"line-content">          <span class=3D"html-tag">&lt;/div&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"728"></td><td class=3D"li=
+ne-content">        <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"729"></td><td class=3D"line-content">=
+      <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"730"></td><td class=3D"line-content">    <span cl=
+ass=3D"html-tag">&lt;/footer&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"731"></td><td class=3D"line-content">  <span class=3D"html-tag=
+">&lt;/body&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"732"=
+></td><td class=3D"line-content"><span class=3D"html-tag">&lt;/html&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"733"></td><td class=3D"=
+line-content"></td></tr></tbody></table></body></html>
+------MultipartBoundary--sIgeiHQgS3jc84zS43IEie2EGYEaHq3IxcrCQiw4AM------

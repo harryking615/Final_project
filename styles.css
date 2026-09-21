@@ -21,7 +21,7 @@ li {
   list-style-type: none;
 }
 .purple--text {
-  color: #7342d6;
+  color: #6415ff;
 }
 .row {
   width: 100%;
@@ -67,18 +67,18 @@ li {
   align-items: center;
 }
 
-/* .nav__links {    */
-/*  justify-content: */
-/*  space-between;   */
-/* }                 */
-/* .nav__link {      */
+/* .nav__links {          */
+/*  justify-content:      */
+/*  space-between;        */
+/* }                      */
+/* .nav__link {           */
 /* margin-left: 16px;     */
 /* text-decoration: none; */
-/* font-size: 15px;    */
-/* color: #7242d6;     */
-/*  font-weight: bold; */
-/* padding: 0 9px;     */
-/* } */
+/* font-size: 15px;       */
+/* color: #7242d6;        */
+/* font-weight: bold;     */
+/* padding: 0 9px;        */
+/* }                      */
 
 .nav__button {
   font-size: 15px;
@@ -86,15 +86,15 @@ li {
   width: 150px;
   padding: 8px;
   margin-left: 20px;
-  background-color: #7242d6;
+  background-color: rgb(100, 21, 255);
   color: azure;
-  border-radius: 5px;
+  border-radius: 20px;
   text-align: center;
 }
 .nav__button:hover {
-  background-color: #52b0ef;
+  background-color: rgb(60, 13, 153);
   font-size: 16px;
-  color: #333333;
+  /*  color: #333333; */
 }
 
 /* ****************************** */
@@ -132,27 +132,30 @@ li {
   font-size: 14px;
   height: 38px;
   width: 125px;
-  background-color: #7242d6;
+  background-color: rgb(100, 21, 255);
   color: azure;
   border-radius: 20px;
   text-align: center;
   padding: 9px;
 }
 .lp__button-new:hover {
-  background-color: #3498db;
+  background-color: rgb(60, 13, 153);
 }
+/* *********************************************************** */
+/* just for that one button in the Designed & Developed screen */
+/* *********************************************************** */
 .learnmore_button {
   font-size: 14px;
   height: 38px;
   width: 125px;
-  background-color: #7242d6;
+  background-color: rgb(100, 21, 255);
   color: azure;
   border-radius: 20px;
   text-align: center;
   padding: 9px;
 }
 .learnmore_button:hover {
-  background-color: #3498db;
+  background-color: #7242d6;
 }
 .lp__box_right {
   width: 60%;
@@ -163,10 +166,10 @@ li {
   width: 100%;
   height: 100%;
 }
+
 /* ********************************** */
 /* now you see it, now you don't      */
 /* ********************************** */
-
 /* ~Container */
 .dropdown {
   position: relative;
@@ -187,7 +190,7 @@ li {
   background-color: white;
   color: #5428b4;
 }
-/*  sort of ~ hidden dropdown menu */
+/* hidden dropdown menu */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -244,17 +247,6 @@ li {
   font-size: 15px;
   border-radius: 30px;
   padding: 10px;
-}
-/* just for that one button in the Designed & Developed screen */
-.learnmore_button {
-  font-size: 14px;
-  height: 38px;
-  width: 125px;
-  background-color: #7242d6;
-  color: azure;
-  border-radius: 20px;
-  text-align: center;
-  padding: 9px;
 }
 
 /* *************************** */
@@ -517,11 +509,11 @@ li {
   max-height: 120px;
   max-width:;
   margin: 0 auto;
-  background-color: #3498db;
-  color: azure;
+  background-color: rgb(100, 21, 255);
   margin: 70px;
 }
 .blue__row-top-left-text {
+  color: azure;
   width: calc(vw * 40%);
   padding: 30px 40px;
 }
@@ -553,7 +545,7 @@ li {
   color: red;
 }
 .blue__links-box {
-  background-color: #3498db;
+  background-color: rgb(100, 21, 255);
   color: azure;
   height: 250px;
   padding: 50px 50px;
@@ -573,17 +565,18 @@ li {
 .blue__footer-box {
   display: flex;
   justify-content: space-between;
-  background-color: #3498db;
+  background-color: rgb(100, 21, 255);
   color: azure;
   height: 30px;
   padding: 0 35px;
   /* padding: 35px; */
 }
-.blue__footer-box-a {
+/* .blue__footer-box-a {
   font-size: 0.75rem;
-}
+} */
+
 .blue__footer-box-under {
-  background-color: #3498db;
+  background-color: rgb(100, 21, 255);
   height: 25px;
   width: 100%;
   padding: 20px;
