@@ -1,0 +1,9 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- White Background Circle -->
+  <circle cx="14" cy="14" r="14" fill="#FFFFFF"/>
+  
+  <!-- Dark "f" Icon -->
+  <path fill="#1C1E21" d="M15.83 8.358h-2.392V6.621c0-.66.436-.813.748-.813h1.614V3h-2.22c-2.464 0-3.028 1.844-3.028 3.028v2.33H8.508v2.888h2.044v8.182h3.38v-8.182h2.282l.302-2.888z"/>
+</svg>
+
