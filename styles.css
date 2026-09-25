@@ -536,8 +536,8 @@ li:hover {
   height: 200px;
   margin: 0 auto;
   background-color: rgb(100, 21, 255);
-  padding: 35px;px 40px;
-  margin: 100px 60px 170px ;
+  padding: 35px 40px;
+  margin: 100px 60px 170px;
 }
 .blue__row-top-left-text {
   color: azure;
@@ -625,6 +625,22 @@ li:hover {
 
 /* Tablets, larger smartphones, smaller phones */
 
+@media (max-width: 1000px) {
+  .services,
+  #easy__page_container,
+  .rf__services {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .rf__button,
+  .rf__button-gradient-pink,
+  .rf__button-gradient-green {
+    font-size: 12px;
+  }
+}
+
 @media (max-width: 768px) {
   .landing__page_h {
     font-size: 15px;
@@ -648,11 +664,7 @@ li:hover {
     width: calc(75 / 3);
     margin: 5px;
   }
-  .rf__button,
-  .rf__button-gradient-pink,
-  .rf__button-gradient-green {
-    font-size: 12px;
-  }
+
   .value__box_left {
     font-size: 0.85rem;
   }
