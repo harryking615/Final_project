@@ -20,8 +20,15 @@ ul {
 li {
   list-style-type: none;
 }
+
+li:hover {
+  text-decoration: underline;
+}
 .purple--text {
   color: #6415ff;
+}
+.purple--text-2 {
+  color: #243e63;
 }
 .row {
   width: 100%;
@@ -381,7 +388,13 @@ li {
   border-radius: 20px;
 }
 .rf__button:hover {
-  font-size: 18px;
+  transform: translate(2px, -2px);
+  transition: all 300ms ease;
+  box-shadow:
+    rgba(0, 0, 0, 0) 0px 0px 0px 0px,
+    rgba(0, 0, 0, 0) 0px 0px 0px 0px,
+    rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+    rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
 }
 
 .rf__button-gradient-green {
@@ -399,8 +412,15 @@ li {
   color: azure;
   border-radius: 20px;
 }
+
 .rf__button-gradient-green:hover {
-  font-size: 18px;
+  transform: translate(2px, -2px);
+  transition: all 300ms ease;
+  box-shadow:
+    rgba(0, 0, 0, 0) 0px 0px 0px 0px,
+    rgba(0, 0, 0, 0) 0px 0px 0px 0px,
+    rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+    rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
 }
 
 .rf__button-gradient-pink {
@@ -419,7 +439,13 @@ li {
   border-radius: 20px;
 }
 .rf__button-gradient-pink:hover {
-  font-size: 18px;
+  transform: translate(2px, -2px);
+  transition: all 300ms ease;
+  box-shadow:
+    rgba(0, 0, 0, 0) 0px 0px 0px 0px,
+    rgba(0, 0, 0, 0) 0px 0px 0px 0px,
+    rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+    rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
 }
 
 /* ******************************************** */
@@ -533,7 +559,7 @@ li {
   padding: 10px;
 }
 .blue__button-red:hover {
-  color: blueviolet;
+  font-size: 14px;
 }
 .blue__button-blue {
   background-color: blue;
@@ -543,7 +569,7 @@ li {
   padding: 10px;
 }
 .blue__button-blue:hover {
-  color: red;
+  font-size: 14px;
 }
 .blue__links-box {
   background-color: rgb(100, 21, 255);
