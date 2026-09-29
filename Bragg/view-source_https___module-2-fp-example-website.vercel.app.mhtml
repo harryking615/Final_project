@@ -14,7 +14,8 @@ Content-ID: <frame-0A2C10026269B47853C96BCD9B3DA4BA@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://module-2-fp-example-website.vercel.app/
 
-<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+<html>
+<head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
 =3DUTF-8"><meta name=3D"color-scheme" content=3D"light dark"></head><body><=
 div class=3D"line-gutter-backdrop"></div><form autocomplete=3D"off"><label =
 class=3D"line-wrap-control">Line wrap<input type=3D"checkbox" aria-label=3D=
