@@ -638,13 +638,13 @@ li:hover {
   display: flex;
 }
 .blue__footer-button {
-  padding: 7px;
+  padding: 7px 7px;
   background-color: white;
   border-radius: 50px;
 }
 .blue__footer-box-under {
   background-color: rgb(100, 21, 255);
-  height: 35px;
+  height: 85px;
   width: 100%;
 }
 
@@ -673,7 +673,7 @@ li:hover {
     padding: 12px 10px;
   }
   .landing__page_h {
-    font-size: 1.5rem;
+    font-size: 0.75rem;
   }
 }
 
@@ -715,6 +715,16 @@ li:hover {
 }
 
 @media (max-width: 500px) {
+  .blue__footer-responsive-img {
+    margin-left: -80px;
+  }
+  .blue__footer-box {
+    display: flex;
+    flex-direction: column;
+  }
+  .blue__footer-box-buttons {
+    display: flex;
+  }
   .landing__page_h {
     font-size: 0.75rem;
   }
@@ -732,12 +742,7 @@ li:hover {
     flex-direction: column;
     margin: 10px;
   }
-  .blue__footer-box-a {
-    font-size: 0.75rem;
-  }
-  .blue__footer-box {
-    padding: 0;
-  }
+
   .value__box_left {
     font-size: 0.75rem;
   }
