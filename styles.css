@@ -611,12 +611,25 @@ li:hover {
 .blue__links-box {
   background-color: rgb(100, 21, 255);
   color: azure;
-  height: 250px;
+  /* height: 250px;      -- orig code --          */
   padding: 50px 20px;
+  /* goal with the following code is to let the   */
+  /* box height increase when the width decreases */
+  /* i.e. responsive, and so the resulting text   */
+  /* does not overwrite the contents of next box. */
+  width: 100%;
+  min-height:250px;
+  height: auto;
+  box-sizing: border-box;
 }
 .blue__links {
   display: flex;
   flex-wrap: wrap;
+  /* the following lines to:          */
+  /* center 3 columns on line one and */
+  /* 2 columns on line two.           */
+  justify-content: center;
+  width: 100%;
 }
 .blue__link {
   display: flex;
@@ -725,6 +738,15 @@ li:hover {
   /*  padding: 40px 50px;  */
   /* }                     */
 
+  .blue__link {
+    display: flex;
+    flex-direction: column;
+    width: calc(100% / 3);
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+    padding: 25px; 10px;
+  }
   .blue__row-top {
     font-size: 0.85rem;
   }
@@ -734,19 +756,20 @@ li:hover {
   .blue__button-blue {
     font-size: 10px;
   }
-}
-
-@media (max-width: 500px) {
-  .blue__footer-responsive-img {
-    margin-left: -80px;
-  }
   .blue__footer-box {
     display: flex;
     flex-direction: column;
   }
-  .blue__footer-box-buttons {
-    display: flex;
+  .blue__footer-responsive-img {
+    margin-left: -80px;
   }
+}
+
+@media (max-width: 500px) {
+  /* .blue__footer-box-buttons {           */
+  /*   display: flex;                      */
+  /* }                                     */
+
   .landing__page_h {
     font-size: 0.75rem;
   }
@@ -754,23 +777,27 @@ li:hover {
     font-size: 10px;
     padding: 5px 4px;
   }
-  .blue__row-top {
-    font-size: 0.65rem;
-    margin: 10px;
-  }
-  .blue__row-top-right-buttons {
-    display: flex;
-    justify-content: right;
-    flex-direction: column;
-    margin: 10px;
-  }
+
+  /* .blue__row-top {                    */
+  /*   font-size: 0.65rem;               */
+  /*   margin: 10px;                     */
+  /* }                                   */
+
+  /* .blue__row-top-right-buttons {       */
+  /*   display: flex;                     */
+  /*   justify-content: right;            */
+  /*   flex-direction: column;            */
+  /*   margin: 10px;                      */
+  /* }                                    */
 
   /* .value__box_left {      */
   /*   font-size: 0.75rem;   */
   /* }                       */
+
   /* .value__box_right img { */
   /*  width: 150px;          */
   /* }                       */
+
   .rf__service {
     width: 100%;
   }
