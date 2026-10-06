@@ -569,8 +569,9 @@ li:hover {
 }
 .blue__row-top {
   display: flex;
-  height: 200px;
-  margin: 0 auto;
+  min-height: 200px;
+  height: auto;
+  box-sizing: border-box;
   background-color: rgb(100, 21, 255);
   padding: 35px 40px;
   margin: 100px 60px 170px;
@@ -578,11 +579,12 @@ li:hover {
 .blue__row-top-left-text {
   color: azure;
   width: calc(vw * 50%);
-  /* padding: 10px 10px; */
+  padding: 30px 5px;
 }
 .blue__row-top-right-buttons {
   display: flex;
-  justify-content: right;
+  justify-content: space-evenly;
+  gap: 16px;
   width: 100%;
   max-height: 50px;
   margin: 40px 0;
@@ -591,8 +593,12 @@ li:hover {
   background-color: red;
   color: azure;
   font-size: 16px;
-  border-radius: 40px;
+  border-radius: 25px;
   padding: 15px;
+  /* duration is how long the change takes */
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
 }
 .blue__button-red:hover {
   background-color: rgb(192, 30, 30);
@@ -601,8 +607,12 @@ li:hover {
   background-color: blue;
   color: azure;
   font-size: 16px;
-  border-radius: 40px;
+  border-radius: 25px;
   padding: 15px;
+  /* duration is how long the change takes */
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
 }
 .blue__button-blue:hover {
   background-color: azure;
@@ -618,7 +628,7 @@ li:hover {
   /* i.e. responsive, and so the resulting text   */
   /* does not overwrite the contents of next box. */
   width: 100%;
-  min-height:250px;
+  min-height: 250px;
   height: auto;
   box-sizing: border-box;
 }
@@ -745,17 +755,21 @@ li:hover {
     justify-content: center;
     align-items: center;
     font-size: small;
-    padding: 25px; 10px;
+    padding: 25px 10px;
   }
   .blue__row-top {
     font-size: 0.85rem;
+    margin: 50px 60px 100px;
   }
-  .blue__button-red {
-    font-size: 10px;
-  }
+  .blue__button-red,
   .blue__button-blue {
-    font-size: 10px;
+    padding: 2px;
+    margin: 0 auto;
+    font-size: 12px;
   }
+  /* .blue__button-blue {  */
+  /*  font-size: 10px;     */
+  /* }                     */
   .blue__footer-box {
     display: flex;
     flex-direction: column;
@@ -766,10 +780,23 @@ li:hover {
 }
 
 @media (max-width: 500px) {
-  /* .blue__footer-box-buttons {           */
-  /*   display: flex;                      */
-  /* }                                     */
-
+  .blue__button-red,
+  .blue__button-blue {
+    font-size: 18px;
+  }
+  .blue__row-top {
+    display: flex;
+    flex-direction: column;
+  }
+  .blue__row-top-right-buttons {
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+    margin: 10px;
+  }
+  .blue__footer-box-buttons {
+    display: flex;
+  }
   .landing__page_h {
     font-size: 0.75rem;
   }
@@ -777,18 +804,10 @@ li:hover {
     font-size: 10px;
     padding: 5px 4px;
   }
-
-  /* .blue__row-top {                    */
-  /*   font-size: 0.65rem;               */
-  /*   margin: 10px;                     */
-  /* }                                   */
-
-  /* .blue__row-top-right-buttons {       */
-  /*   display: flex;                     */
-  /*   justify-content: right;            */
-  /*   flex-direction: column;            */
-  /*   margin: 10px;                      */
-  /* }                                    */
+  .blue__row-top {
+    font-size: 0.65rem;
+    margin: 10px;
+  }
 
   /* .value__box_left {      */
   /*   font-size: 0.75rem;   */
