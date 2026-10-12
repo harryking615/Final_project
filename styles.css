@@ -59,6 +59,27 @@ li:hover {
 /* Landing Page Bar Section */
 /* ************************ */
 
+.nav__container-invisible {
+  width: 100%;
+  height: 120px;
+  padding: 15px 10px;
+  /* display: flex; */
+  justify-content: right;
+  border: 2px white;
+  background-color: white;
+  border-radius: 6px;
+}
+.nav__container-invisible-button {
+  font-size: 15px;
+  height: 70%;
+  width: 150px;
+  padding: 8px;
+  margin-left: 20px;
+  background-color: yellow;
+  color: blue;
+  border-radius: 20px;
+  text-align: center;
+}
 .nav__container {
   width: 100%;
   height: 120px;
@@ -119,9 +140,9 @@ li:hover {
   padding: 20px 0;
 }
 .lp__box_left {
-  width: 40%;
-  height: 500px;
-  padding: 40px 40px;
+  max-width: 30rem;
+  height: auto;
+  padding: 20px 40px;
 }
 .lp__button_box {
   display: flex;
@@ -155,7 +176,6 @@ li:hover {
 }
 /* *********************************************************** */
 /* just for that one button in the Designed & Developed screen */
-/* and for a second button in the Value Screen                 */
 /* *********************************************************** */
 .learnmore_button {
   font-size: 14px;
@@ -191,6 +211,15 @@ li:hover {
 .lp__box_right img {
   width: 100%;
   height: 100%;
+}
+.lp__trusted_customers-text {
+  padding-top: 40px;
+  font-size: 1rem;
+}
+.lp__trusted_customers-text img {
+  max-width: 15rem;
+  height: auto;
+  padding-top: 10px;
 }
 
 /* ***************************************** */
@@ -747,7 +776,7 @@ li:hover {
     font-size: 12px;
     padding: 12px 10px;
   }
-  .landing__page_h {
+  .landing__page_word-treact {
     font-size: 0.75rem;
   }
 }
@@ -756,9 +785,6 @@ li:hover {
   .services {
     display: flex;
     width: 100%;
-  }
-  .landing__page_h {
-    font-size: 1rem;
   }
   .responsive_big_t {
     max-width: 25%;
@@ -799,9 +825,27 @@ li:hover {
   .blue__footer-responsive-img {
     margin-left: -80px;
   }
+  #landing__page_container,
+  .lp__box_left,
+  .lp__box_right,
+  .lp__trusted_customers-text,
   #easy__page_container {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #landing__page_container,
+  .lp__box_left,
+  .lp__box_right,
+  .lp__trusted_customers-text {
+    padding: 0;
+  }
+  .lp__box_right {
+    padding-top: -100px;
+  }
+  .lp__box_left {
+    display: flex;
     justify-content: center;
     align-items: center;
   }
