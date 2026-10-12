@@ -632,11 +632,12 @@ li:hover {
   font-size: 16px;
   border-radius: 25px;
   padding: 15px;
-  /* duration is how long the change takes */
+  /* duration is how long the change takes = 0.3seconds  */
   transition:
     background-color 0.3s ease,
     color 0.3s ease;
 }
+/* little darker red on hover */
 .blue__button-red:hover {
   background-color: rgb(192, 30, 30);
 }
@@ -646,11 +647,12 @@ li:hover {
   font-size: 16px;
   border-radius: 25px;
   padding: 15px;
-  /* duration is how long the change takes */
+  /* duration is how long the change takes = 0.3seconds  */
   transition:
     background-color 0.3s ease,
     color 0.3s ease;
 }
+/* just reverse the blue and white colors */
 .blue__button-blue:hover {
   background-color: azure;
   color: blue;
@@ -695,8 +697,7 @@ li:hover {
   height: 45px;
   padding: 40px 20px;
 }
-.blue__footer-responsive-img,
-.blue__footer-button {
+.blue__footer-responsive-img {
   display: flex;
   width: 36px;
   height: 33px;
@@ -708,6 +709,15 @@ li:hover {
   padding: 7px 7px;
   background-color: white;
   border-radius: 50px;
+  /* circle  */
+  display: flex;
+  width: 35px;
+  height: 35px;
+}
+.blue__footer-button img {
+  width: 15px;
+  height: 15px;
+  object-fit: contain;
 }
 .blue__footer-box-under {
   background-color: rgb(100, 21, 255);
