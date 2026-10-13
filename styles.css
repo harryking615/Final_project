@@ -59,17 +59,18 @@ li:hover {
 /* Landing Page Bar Section */
 /* ************************ */
 
-.nav__container-invisible {
+/*.nav__container-invisible {
   width: 100%;
   height: 120px;
   padding: 15px 10px;
-  /* display: flex; */
+  /* display: flex; 
   justify-content: right;
   border: 2px white;
   background-color: white;
   border-radius: 6px;
-}
-.nav__container-invisible-button {
+} */
+
+/* .nav__container-invisible-button {
   font-size: 15px;
   height: 70%;
   width: 150px;
@@ -79,7 +80,8 @@ li:hover {
   color: blue;
   border-radius: 20px;
   text-align: center;
-}
+} */
+
 .nav__container {
   width: 100%;
   height: 120px;
