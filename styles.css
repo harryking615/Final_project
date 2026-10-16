@@ -59,29 +59,6 @@ li:hover {
 /* Landing Page Bar Section */
 /* ************************ */
 
-/*.nav__container-invisible {
-  width: 100%;
-  height: 120px;
-  padding: 15px 10px;
-  /* display: flex; 
-  justify-content: right;
-  border: 2px white;
-  background-color: white;
-  border-radius: 6px;
-} */
-
-/* .nav__container-invisible-button {
-  font-size: 15px;
-  height: 70%;
-  width: 150px;
-  padding: 8px;
-  margin-left: 20px;
-  background-color: yellow;
-  color: blue;
-  border-radius: 20px;
-  text-align: center;
-} */
-
 .nav__container {
   width: 100%;
   height: 120px;
@@ -150,7 +127,6 @@ li:hover {
   display: flex;
   height: 40px;
   width: 250px;
-  display: flex;
   font-size: 15px;
   background-color: white;
   color: #7242d6;
@@ -889,11 +865,20 @@ li:hover {
 }
 
 @media (max-width: 500px) {
+  .lp__button_box {
+  }
+
+  .lp__button-new {
+  }
+
   .service__description-logo-and-name {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
+  .service__description-logo-and-name-lorem {
+    width: 125px;
   }
   #dd__page_container {
     /* .value__page_500-column { */
