@@ -8,6 +8,12 @@
 /* ********** */
 /* My GENERAL */
 /* ********** */
+
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
 p {
   line-height: 1.5;
 }
@@ -41,13 +47,9 @@ li:hover {
 }
 .row nav__row {
   width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  /* 0 = top & bottom                    */
-  /* auto = browser cals available       */
-  /* empty space and divides it equally  */
-  /* between Left and Right margins      */
-  /* centering the item.                 */
+  max-width: 1002px;
+  /* height: 120px; */
+  padding: 0 32px;
 }
 .narrow__row {
   width: 100%;
@@ -64,21 +66,15 @@ li:hover {
 /* Landing Page Bar Section */
 /* ************************ */
 
-.nav__row {
-  padding: 0 15px;
+#landing__page {
+  padding-top: 32px;
+  width: 1002px;
 }
 .nav__container {
-  /* width: 100%; */
-  width: calc(vw * 60%);
-  height: 120px;
-  /* padding: 15px 10px; */
-  padding-top: 32px;
+  width: 1002px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /*  no border required on fes site  */
-  /*  border: 2px solid#3498db;       */
-  /*  border-radius: 6px;             */
 }
 .nav__container_left {
   display: flex;
@@ -132,15 +128,29 @@ li:hover {
 /* ****************************** */
 
 #landing__page_container {
+  /* chanding for fes  */
   display: flex;
+  max-width: 1002px;
   width: 100%;
   /* padding: 20px 0; */
   padding: 96px 0;
 }
+.landing__page__row {
+  /* margin: 0 15px; */
+}
 .landing__page__box_left {
-  max-width: 40%;
-  height: auto;
-  padding: 20px 0;
+  width: 400px;
+  height: 440px;
+  margin: 32px 0;
+}
+.landing__page__box_left h2 {
+  font-size: 36px;
+  font-weight: 700;
+}
+.landing__page__box_left h5 {
+  font-size: 16px;
+  margin-top: 32px;
+  margin-bottom: 32px;
 }
 .landing__page__button_box {
   display: flex;
@@ -201,9 +211,9 @@ li:hover {
   background-color: #7242d6;
 }
 .landing__page__box_right {
-  width: 60%;
-  height: 400px;
-  padding: 10px 10px;
+  width: 600px;
+  height: 370px;
+  /* padding: 10px 10px; */
 }
 .landing__page__box_right img {
   width: 100%;
