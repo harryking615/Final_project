@@ -9,10 +9,10 @@
 /* My GENERAL */
 /* ********** */
 
-body {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 15px;
+.site-wrapper {
+  max-width: 1216px; /* max-width of the entire site */
+  width: 100%; /* breathing room on smaller sites */
+  margin: 0 auto; /* top&bot=0, L&R=auto centers the site */
 }
 p {
   line-height: 1.5;
@@ -68,10 +68,10 @@ li:hover {
 
 #landing__page {
   padding-top: 32px;
-  width: 1002px;
+  /* width: 1002px; */
 }
 .nav__container {
-  width: 1002px;
+  /* width: 1002px; */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -102,7 +102,7 @@ li:hover {
   font-size: 30px;
 }
 .nav__container_right {
-  max-width: calc(vw * 40%);
+  max-width: calc(vw * 60%);
   display: flex;
   align-items: center;
 }
@@ -128,20 +128,16 @@ li:hover {
 /* ****************************** */
 
 #landing__page_container {
-  /* chanding for fes  */
   display: flex;
-  max-width: 1002px;
   width: 100%;
-  /* padding: 20px 0; */
-  padding: 96px 0;
+  padding-top: 96px;
 }
 .landing__page__row {
-  /* margin: 0 15px; */
+  width: 1216px;
 }
 .landing__page__box_left {
-  width: 400px;
-  height: 440px;
-  margin: 32px 0;
+  width: 420px;
+  height: 450px;
 }
 .landing__page__box_left h2 {
   font-size: 36px;
@@ -211,9 +207,8 @@ li:hover {
   background-color: #7242d6;
 }
 .landing__page__box_right {
-  width: 600px;
-  height: 370px;
-  /* padding: 10px 10px; */
+  width: 750px;
+  height: 500px;
 }
 .landing__page__box_right img {
   width: 100%;
